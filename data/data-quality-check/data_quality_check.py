@@ -32,8 +32,6 @@ print('csv_radical', len(data_csv_radical))
 print('kanji_concept', len(data_kanji_concept))
 
 
-s = {1,2,3,4}
-t = {3,5,4,8}
 venn.venn3_unweighted(
     [data_kanji_joyo,data_csv_radical, data_kanji_concept],
     set_labels=('Kanji Joyo','CSV Radical', 'Kanji Concept'),
