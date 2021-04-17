@@ -42,6 +42,13 @@ with open('kanji_total_1_raw.csv', mode='r', encoding='utf-8') as csv_file:
         if kanji_in_concept_meaning != "":
             meaning = kanji_in_concept_meaning
 
+        # solve 4: default meaning
+        if meaning == "DEFAULT":
+            if kanji == "快":
+                meaning = "pleasure"
+            elif kanji == "牛":
+                meaning = "cow"
+
         row_after = {
             'num': num,
             'kanji': kanji,

@@ -174,7 +174,7 @@ num,kanji,radicals,meaning,concept,subconcept
 173,回,口囗,number of times,Time_(時),
 174,灰,厂火,ash,Nature,Natural_Substances
 175,会,二厶个,association,,
-176,快,二人大忄,DEFAULT,Emotions_and_Senses_(感),Emotions_(情)
+176,快,二人大忄,pleasure,Emotions_and_Senses_(感),Emotions_(情)
 177,戒,廾戈,commandment,,
 178,改,己攴,reformation,,
 179,怪,又土忄,suspicious,,
@@ -379,7 +379,7 @@ num,kanji,radicals,meaning,concept,subconcept
 378,給,口糸个,salary,Human_activities,Money_(銭)_and_Commerce_(商)
 379,嗅,口大自,smell,,
 380,窮,儿宀弓穴身,hard up,,
-381,牛,牛,DEFAULT,Nature,Animals_(獣)
+381,牛,牛,cow,Nature,Animals_(獣)
 382,去,厶土,leave,,
 383,巨,匚,huge,Physical_Attributes_and_Properties,Form_and_Shape_(形)
 384,居,十口尸,reside,,
