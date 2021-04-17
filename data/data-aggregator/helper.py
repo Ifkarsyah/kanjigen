@@ -29,6 +29,6 @@ def get_data_kanji_concept():
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader, None)  # skip the headers
         for row in csv_reader:
-            kanji, meaning, h2, h3 = row
+            kanji, _, _, _ = row
             data_kanji_concept.add(kanji)
     return data_kanji_concept

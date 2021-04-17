@@ -24,11 +24,11 @@ with open('../web-wiki-kanji-concept/kanji_concept_output_step_2.csv') as csv_fi
     csv_reader = csv.reader(csv_file, delimiter=',')
     next(csv_reader, None)  # skip the headers
     for row in csv_reader:
-        kanji, meaning, h2, h3 = row
+        kanji, meaning, concept, subconcept = row
         if kanji in data:
             data[kanji]["kanji_in_concept_meaning"] = meaning
-            data[kanji]["h2_concept"] = h2
-            data[kanji]["h3_concept"] = h3
+            data[kanji]["concept"] = concept
+            data[kanji]["subconcept"] = subconcept
 
 
 data = sorted(data.items(), key=lambda x: int(x[1]["num"]))
