@@ -7,6 +7,7 @@ import Col from "react-bootstrap/Col";
 import Form from "react-bootstrap/Form";
 import { Link, useHistory } from "react-router-dom";
 import useForm from "react-hook-form";
+import CytoscapeComponent from 'react-cytoscapejs';
 
 function FileUploadCard(props) {
   return (
@@ -56,6 +57,13 @@ export default function HomePage() {
     })(formData);
   };
 
+  const elements = [
+    { data: { id: 'one', label: 'Node 1' }, position: { x: 0, y: 0 } },
+    { data: { id: 'two', label: 'Node 2' }, position: { x: 100, y: 100 } },
+    { data: { source: 'one', target: 'two', label: 'Edge from Node1 to Node2' } }
+  ];
+
+
   return (
     <>
       <Container fluid={true} /* style={{ backgroundColor: "black" }} */>
@@ -87,15 +95,12 @@ export default function HomePage() {
         </form>
       </Container>
 
-      <Container style={{ backgroundColor: "black" }}>
+      <Container style={{ backgroundColor: "light" }}>
         <Row className="mt-3">
-          <Col>
-            <FileUploadCard
-              title="Your Kanji Map Here"
-              text="here's your kanjimap"
-              submittext="upload">
-            </FileUploadCard>
-          </Col>
+          <CytoscapeComponent
+            elements={elements}
+            style={{ width: '600px', height: '600px' }}
+          />;
         </Row>
       </Container>
     </>
