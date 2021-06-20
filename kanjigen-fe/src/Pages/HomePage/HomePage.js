@@ -17,10 +17,11 @@ function FileUploadCard(props) {
           <Form.Label>{props.text}</Form.Label>
           <input
             ref={props.reffunc}
+            name={props.name}
             type="file"
             accept=".txt"
-            // className="custom-file-input"
-            name={props.name} />
+          // className="custom-file-input"
+          />
         </Form.Group>
       </Card.Body>
     </Card>
@@ -32,7 +33,27 @@ export default function HomePage() {
   const { register, handleSubmit } = useForm();
 
   const onSubmit = (data) => {
-    console.log(data);
+    const formData = new FormData();
+    formData.append("inputfile", data.inputfile[0]);
+    formData.append("outputfile", data.outputfile[0]);
+
+    // for (var pair of formData.entries()) {
+    //   console.log(pair[0] + ', ' + pair[1]);
+    // }
+
+    (async (formData) => {
+      try {
+        const response = await fetch("http://localhost:5000", {
+          method: "POST",
+          body: formData
+        });
+        const resp = await response.json()
+
+        alert(JSON.stringify(resp));
+      } catch (error) {
+        console.log(error);
+      }
+    })(formData);
   };
 
   return (
