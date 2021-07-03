@@ -1,20 +1,32 @@
-UNWIND ["5", "4", "3", "2", "1"] AS level
-LOAD CSV FROM "https://raw.githubusercontent.com/jimmycrequer/roth-2019/master/neo4j/data/vocabulary_6501" + level + ".csv" AS row
-MERGE (k:Kanji {value: row[0]})
+LOAD CSV WITH HEADERS FROM "file:///s7_kanji_total_clean.csv" AS row
+MERGE (k:Kanji {value: row["kanji"]})
 
-WITH row, k, level
-MERGE (l:Level {value: "N" + level})
-WITH row, k, l
-MERGE (k)-[:HAS_LEVEL]-(l)
 
 WITH row, k
-UNWIND split(row[1], "・") AS reading
-MERGE (r:Reading {value: reading})
-WITH row, k, r
-MERGE (k)-[:HAS_READING]->(r)
-
-WITH row, k
-UNWIND split(row[2], "; ") AS meaning
+UNWIND split(row["meaning"], ":") AS meaning
 MERGE (m:Meaning {value: meaning})
+
 WITH row, k, m
 MERGE (k)-[:HAS_MEANING]->(m)
+
+
+WITH row, k
+UNWIND split(row["radicals"], ":") AS radical
+MERGE (r:Radical {value: radical})
+
+WITH row, k, r
+MERGE (k)-[:HAS_RADICAL]->(r)
+
+
+WITH row, k
+MERGE (t:Theme {value: row["theme"]})
+
+WITH row, k, t
+MERGE (k)-[:HAS_THEME]->(t)
+
+
+WITH row, k
+MERGE (s:Subtheme {value: row["subtheme"]})
+
+WITH row, k, m
+MERGE (k)-[:HAS_SUBTHEME]->(s);
