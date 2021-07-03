@@ -663,7 +663,7 @@
                     "meaning": "counter for animals, small or insects"
                 },
                 {
-                    "kanji": "箇",
+                    "kanji": "個",
                     "meaning": "counter for articles"
                 },
                 {
@@ -721,6 +721,10 @@
                 {
                     "kanji": "畳",
                     "meaning": "counter for tatami mats"
+                },
+                {
+                    "kanji": "基",
+                    "meaning": "counter for stable structures"
                 },
                 {
                     "kanji": "丁",
@@ -828,15 +832,15 @@
                 },
                 {
                     "kanji": "升",
-                    "meaning": "(around 1.8 l)"
+                    "meaning": "(around 1.8 L)"
                 },
                 {
                     "kanji": "斗",
-                    "meaning": "(around 18 l)"
+                    "meaning": "(around 18 L)"
                 },
                 {
                     "kanji": "石",
-                    "meaning": "(around 180 l)"
+                    "meaning": "(around 180 L)"
                 },
                 {
                     "kanji": "匁",
