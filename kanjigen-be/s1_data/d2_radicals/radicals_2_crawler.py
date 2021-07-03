@@ -24,7 +24,7 @@ with open(url) as file:
 
 consolidated_data = []
 for kanji, radical_list in kanji_to_radical.items():
-    row = {"kanji": kanji, "radical_list": "".join(radical_list)}
+    row = {"kanji": kanji, "radical_list": ":".join(radical_list)}
     consolidated_data.append(row)
 
 
