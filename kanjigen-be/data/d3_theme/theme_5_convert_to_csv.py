@@ -5,7 +5,7 @@ kanji_header = "kanji_list"
 
 results = []  # (kanji, meaning) -> (h2_concept, h3_concept)
 
-with open("theme_3_output_raw.json") as file:
+with open("theme_4_output_renamed.json") as file:
     data = json.load(file)
 
     for h2 in data:
@@ -44,7 +44,7 @@ with open("theme_3_output_raw.json") as file:
                     continue
 
 
-with open("theme_5_output_raw.csv", mode="w") as file:
+with open("theme_6_output_raw.csv", mode="w") as file:
     fieldnames = ["kanji", "meaning", "concept", "subconcept"]
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()

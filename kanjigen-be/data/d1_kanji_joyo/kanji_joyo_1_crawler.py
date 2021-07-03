@@ -24,7 +24,7 @@ for row in table.find_all("tr"):
 
     data.append({"num": num, "kanji": kanji, "meaning": meaning})
 
-with open("kanji_joyo_2_output.csv", mode="w") as file:
+with open("kanji_joyo_2_output_raw.csv", mode="w") as file:
     fieldnames = ["num", "kanji", "meaning"]
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()

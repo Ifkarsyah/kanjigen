@@ -1,0 +1,2137 @@
+num,kanji,radicals,meaning,theme,subtheme
+1,亜,｜口,Asia:rank next:come after:-ous,,
+2,哀,亠口衣,sadness or pity,Emotions_and_Senses,Emotions
+3,挨,厶矢扌,approach:draw near:push open,,
+4,愛,冖夂心爪,love,Emotions_and_Senses,Emotions
+5,曖,冖夂心日爪,dark:not clear,,
+6,悪,｜口心,bad,Emotions_and_Senses,Judgment
+7,握,厶土尸至扌,grip:hold:mould sushi:bribe,,
+8,圧,厂土,pressure:push:overwhelm:oppress:dominate,,
+9,扱,扌及,handle:entertain:thresh:strip,,
+10,宛,卩夕宀,address:just like:fortunately,,
+11,嵐,山風,storm,Nature,Weather
+12,安,女宀,cheap,Human_activities,Money_and_Commerce
+13,案,女宀木,plan:suggestion:draft:ponder:fear:proposition:idea:expectation:worry:table:bench,,
+14,暗,日立音,dark,Nature,Weather
+15,以,｜丶人,by means of:because:in view of:compared with,,
+16,衣,亠,garment,Artificial_Structures_and_Products,Clothing_and_Textiles
+17,位,立亻,rank:grade:throne:crown:about:some,,
+18,囲,囗井,surround:besiege:store:paling:enclosure:encircle:preserve:keep,,
+19,医,匚矢,doctor or medicine,Body,Health
+20,依,亠衣亻,reliant:depend on:consequently:therefore:due to,,
+21,委,女禾,committee:entrust to:leave to:devote:discard,,
+22,威,丿厂女戈,intimidate:dignity:majesty:menace:threaten,,
+23,為,丿灬,do:change:make:benefit:welfare:be of use:reach to:try:practice:cost:serve as:good:advantage:as a result of,,
+24,畏,田衣,apprehension,Emotions_and_Senses,Emotions
+25,胃,月田,stomach,Body,Torso_and_organs
+26,尉,寸尸示,military officer:jailer:old man:rank,,
+27,異,八田井,uncommon:different:queerness:strangeness:wonderful:curious:unusual,,
+28,移,夕禾,"shift:move:change:drift:catch (cold, fire):pass into",,
+29,萎,女禾艹,wither:droop:lame,,
+30,偉,口韋亻,admirable:greatness:remarkable:conceited:famous:excellent,,
+31,椅,亅口大木,chair,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+32,彙,冖彐木田彑,same kind:collect:classify:category:hedgehog,,
+33,意,心日立音,idea:mind:heart:taste:thought:desire:care:liking,,
+34,違,口韋辶,difference:differ,,
+35,維,糸隹,fibre,Artificial_Structures_and_Products,Clothing_and_Textiles
+36,慰,寸尸心示,consolation:amusement:seduce:cheer:make sport of:comfort:console,,
+37,遺,口貝辶,bequeath:leave behind:reserve,,
+38,緯,口糸韋,horizontal:woof:left & right:(parallels of) latitude:prediction,,
+39,域,口土戈,range:region:limits:stage:level,,
+40,育,亠厶月,bring up:grow up:raise:rear,,
+41,一,,1,Numbers,
+42,壱,冖匕士,one (in documents),,
+43,逸,丿儿勹辶免,deviate:idleness:leisure:miss the mark:evade:elude:parry:diverge,,
+44,茨,冫欠艹,brier,Nature,Plants_and_Trees
+45,芋,干艹,potato,Food_and_Drink,
+46,引,｜弓,pull:tug:jerk:admit:install:quote:refer to,,
+47,印,｜卩,stamp:seal:mark:imprint:symbol:emblem:trademark:evidence:souvenir:India,,
+48,因,囗大,cause:factor:be associated with:depend on:be limited to,,
+49,咽,口囗大,throat,Body,Head_and_Neck
+50,姻,囗大女,matrimony,People,Family
+51,員,口貝,employee:member:number:the one in charge,,
+52,院,二儿宀阝元,Inst.:institution:temple:mansion:school,,
+53,淫,丿士爪玉氵,lewdness:licentiousness,,
+54,陰,二厶个阝,Yin principle,Human_activities,Religion_and_the_Supernatural_World
+55,飲,欠食,drink:smoke:take,,
+56,隠,丿彐心尚阝,conceal:hide:cover,,
+57,韻,口日立貝音,rhyme:elegance:tone,,
+58,右,丿口,right,Directions_and_Spatial_Relationships,
+59,宇,亅宀干,universe,Nature,Sky
+60,羽,冫,feather,Nature,Animals
+61,雨,,rain,Nature,Weather
+62,唄,口貝,song,Human_activities,Culture
+63,鬱,冖凵匕彡木缶,melancholy,Emotions_and_Senses,Emotions
+64,畝,亠田久,30 tsubo (99 m2),Numbers,Units_of_Measurement
+65,浦,丶十用氵,beach,Nature,Land_and_Topography
+66,運,冖車辶,carry:luck:destiny:fate:lot:transport:progress:advance,,
+67,雲,二厶雨,cloud,Nature,Weather
+68,永,丶水,eternity,Time,
+69,泳,丶水氵,swim,Body,Actions
+70,英,丿大艹,England:English:hero:outstanding:calyx,,
+71,映,丿大日,reflect:reflection:projection,,
+72,栄,冖木尚,flourish:prosperity:honor:glory:splendor,,
+73,営,冖口尚,management,Human_activities,Money_and_Commerce
+74,詠,丶水言,recite poetry,Human_activities,Culture
+75,影,亠口小彡日,shadow,Nature,Weather
+76,鋭,儿口金个丷,sharp,Physical_Attributes_and_Properties,Miscellaneous_properties
+77,衛,口彳行韋,defense:protection,,
+78,易,勹日勿,easy:ready to:simple:fortune-telling:divination,,
+79,疫,殳疒,epidemic,Body,Health
+80,益,八皿丷,benefit:gain:profit:advantage,,
+81,液,亠夕攴亻氵,liquid,Physical_Attributes_and_Properties,Miscellaneous_properties
+82,駅,尸馬,station,,
+83,悦,儿口丷忄,ecstasy,Emotions_and_Senses,Emotions
+84,越,土戈走,to pass or go beyond,Directions_and_Spatial_Relationships,Movement
+85,謁,勹匕日言,audience:audience (with king),,
+86,閲,儿口門丷,review:inspection:revision,,
+87,円,亠冂,yen,Human_activities,Money_and_Commerce
+88,延,廴止,prolong:stretching,,
+89,沿,八口氵,run alongside:follow along:run along:lie along,,
+90,炎,火,blaze or flame,Nature,Weather
+91,怨,卩夕心,resentment,Emotions_and_Senses,Emotions
+92,宴,女宀日,banquet:feast:party,,
+93,媛,丿又女爪,princess,People,Roles_and_status
+94,援,丿又爪扌,abet:help:save,,
+95,園,口囗土衣,park:garden:yard:farm,,
+96,煙,土火襾,fumes or smoke,Nature,Weather
+97,猿,口土衣犭,monkey,Nature,Animals
+98,遠,口土衣辶,distant,Directions_and_Spatial_Relationships,
+99,鉛,八口金丷,lead,Nature,Natural_Substances
+100,塩,口土皿,salt,Nature,Natural_Substances
+101,演,八宀田氵,performance:act:play:render:stage,,
+102,縁,彐糸豕,edge or border,Physical_Attributes_and_Properties,Form_and_Shape
+103,艶,｜勹口日色豆丷,glossy,Physical_Attributes_and_Properties,Miscellaneous_properties
+104,汚,氵,dirty,Physical_Attributes_and_Properties,Miscellaneous_properties
+105,王,,king,People,Roles_and_status
+106,凹,凵,concave,Physical_Attributes_and_Properties,Form_and_Shape
+107,央,丿冖大,Centre,Directions_and_Spatial_Relationships,
+108,応,广心,apply:answer:yes:OK:reply:accept,,
+109,往,丶彳玉,to go to,Directions_and_Spatial_Relationships,Movement
+110,押,｜日田扌,push:stop:check:subdue:attach:seize:weight:shove:press:seal:do in spite of,,
+111,旺,日玉,flourishing:successful:beautiful:vigorous,,
+112,欧,丶丿匚欠,Europe,,
+113,殴,丶丿匚殳,"beat, assault",Human_activities,War
+114,桜,女木尚,sakura,Nature,Plants_and_Trees
+115,翁,八冫厶羽,old man,People,General
+116,奥,冂大米,interior,Directions_and_Spatial_Relationships,
+117,横,｜二八廾日木田黄,sideways:side:horizontal:width:woof:unreasonable:perverse,,
+118,岡,冂山丷,hill,Nature,Land_and_Topography
+119,屋,厶土尸至,roof:house:shop:dealer:seller,,
+120,億,心日立音亻,"100,000,000",Numbers,
+121,憶,心日立音忄,recollection:think:remember,,
+122,臆,心日月立音,timidity:heart:mind:fear:cowardly,,
+123,虞,八匕卜厂口虍,fear,Emotions_and_Senses,Emotions
+124,乙,,second,Numbers,Counting_&_Sequence
+125,俺,乙大亻奄,I or me,People,General
+126,卸,丿卩止,wholesale,Human_activities,Money_and_Commerce
+127,音,日立,sound,Emotions_and_Senses,Senses
+128,恩,囗大心,grace:kindness:goodness:favor:mercy:blessing:benefit,,
+129,温,日皿氵,warm,Physical_Attributes_and_Properties,Miscellaneous_properties
+130,穏,彐心爪禾,calm:quiet:moderation,,
+131,下,｜卜,down,Directions_and_Spatial_Relationships,
+132,化,匕亻,change:take the form of:influence:enchant:delude:-ization,,
+133,火,,fire,Nature,Weather
+134,加,力口,to add,Numbers,Calculations
+135,可,亅口,can:passable:mustn't:should not:do not,,
+136,仮,厂又亻,sham:temporary:interim:assumed (name):informal,,
+137,何,亅口亻,what,,
+138,花,匕亻艹,flower,Nature,Plants_and_Trees
+139,佳,土亻,excellent:beautiful:good:pleasing:skilled,,
+140,価,襾亻,price,Human_activities,Money_and_Commerce
+141,果,｜木田,fruit,Food_and_Drink,
+142,河,亅口氵,stream,Nature,Land_and_Topography
+143,苛,亅口艹,torment:scold:chastise,,
+144,科,斗禾,faculty,Human_activities,Culture
+145,架,力口木,erect:frame:mount:support:shelf:construct,,
+146,夏,夂自,Summer,Time,Seasons
+147,家,宀豕,house:home:family:professional:expert:performer,,
+148,荷,亅口亻艹,baggage:shoulder-pole load:bear (a burden):shoulder (a gun):load:cargo:freight,,
+149,華,｜艹,splendor:flower:petal:shine:luster:ostentatious:showy:gay:gorgeous,,
+150,菓,木田艹,confectionery,Food_and_Drink,
+151,貨,匕貝亻,goods or property,Human_activities,Money_and_Commerce
+152,渦,｜冂口氵,whirlpool,Nature,Weather
+153,過,冂口辶,overdo:exceed:go beyond:error,,
+154,嫁,女宀豕,"wife, bride",People,Family
+155,暇,又日,spare time:rest:leisure:time:leave of absence,,
+156,禍,冂口礻,calamity:misfortune:evil:curse,,
+157,靴,匕革亻,shoes,Artificial_Structures_and_Products,Clothing_and_Textiles
+158,寡,八刀宀自,widow,People,Family
+159,歌,亅口欠,song,Human_activities,Culture
+160,箇,十口囗竹,counter for articles,,
+161,稼,宀禾豕,"work, earn",Human_activities,Money_and_Commerce
+162,課,木田言,chapter:lesson:section:department:division:counter for chapters (of a book),,
+163,蚊,文虫,mosquito,Nature,Animals
+164,牙,,"fang, tusk",Nature,Animals
+165,瓦,,tile,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+166,我,亅戈手,"self, ego",People,General
+167,画,凵田,picture,Human_activities,Culture
+168,芽,牙艹,bud,Nature,Plants_and_Trees
+169,賀,力口貝,congratulations:joy,,
+170,雅,牙隹,gracious:elegant:graceful:refined,,
+171,餓,亅戈手食,starve:hungry:thirst,,
+172,介,八个,jammed in:shellfish:mediate:concern oneself with,,
+173,回,口囗,number of times,Time,
+174,灰,厂火,ash,Nature,Natural_Substances
+175,会,二厶个,meeting:meet:party:association:interview:join,,
+176,快,二人大忄,pleasure,Emotions_and_Senses,Emotions
+177,戒,廾戈,commandment,,
+178,改,己攴,reformation:change:modify:mend:renew:examine:inspect:search,,
+179,怪,又土忄,suspicious:mystery:apparition,,
+180,拐,刀口扌,kidnap:falsify,,
+181,悔,毋忄,remorse,Emotions_and_Senses,Emotions
+182,海,毋氵,sea,Nature,Land_and_Topography
+183,界,儿田个,world:boundary,,
+184,皆,比白,all:everything,,
+185,械,廾戈木,contraption,Artificial_Structures_and_Products,Vehicles_and_Machines
+186,絵,二厶糸个,"picture, painting",Human_activities,Culture
+187,開,廾門,open:unfold:unseal,,
+188,階,比白阝,storey:stair:counter for storeys of a building,,
+189,塊,儿匕厶土田鬼,clod:lump:chunk:clot:mass,,
+190,楷,木比白,square character style:correctness,,
+191,解,刀牛角,unravel:notes:key:explanation:understanding:untie:undo:solve:answer:cancel:absolve:explain:minute,,
+192,潰,十口貝氵,crush:smash:break:dissipate,,
+193,壊,十土网衣,demolition:break:destroy,,
+194,懐,十网衣忄,yearning,Emotions_and_Senses,Emotions
+195,諧,比白言,harmony,Human_activities,Culture
+196,貝,八目,cowry (ancient Chinese currency),Human_activities,Money_and_Commerce
+197,外,卜夕,outside,Directions_and_Spatial_Relationships,
+198,劾,亠人力,censure:criminal investigation,,
+199,害,亠口土宀,harm:injury,,
+200,崖,厂土山,cliff,Nature,Land_and_Topography
+201,涯,厂土氵,horizon:shore:limit:bound,,
+202,街,土彳行,city district,Artificial_Structures_and_Products,Cities
+203,慨,牙艮忄,rue:be sad:sigh:lament,,
+204,蓋,厶土皿艹,lid,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+205,該,亠人言,above-stated:the said:that specific,,
+206,概,木牙艮,outline:condition:approximation:generally,,
+207,骸,亠人冂冖月骨,corpse,Body,Health
+208,垣,土日,hedge:fence:wall,,
+209,柿,｜亠冂巾木,persimmon,Nature,Plants_and_Trees
+210,各,口夂攴,each,Numbers,Counting_&_Sequence
+211,角,｜勹月,horn,Nature,Animals
+212,拡,厶广扌,broaden:extend:expand:enlarge,,
+213,革,十口廾,leather,Artificial_Structures_and_Products,Clothing_and_Textiles
+214,格,口夂木,"status:rank:capacity:character:case (law, grammar)",,
+215,核,亠人木,nucleus:core:kernel,,
+216,殻,冖几士殳,husk:nut shell,,
+217,郭,亅亠口子阝,enclosure:quarters:fortification:red-light district,,
+218,覚,冖見尚,memorize:learn:remember:awake:sober up,,
+219,較,亠父車,contrast:compare,,
+220,隔,儿冂口鬲阝,isolate:alternate:distance:separate:gulf,,
+221,閣,口夂門,tower:tall building:palace,,
+222,確,口宀石隹,assurance:firm:tight:hard:solid:confirm:clear:evident,,
+223,獲,又隹犭艹,seize:get:find:earn:acquire:can:may:able to,,
+224,嚇,口土赤,menacing:dignity:majesty:threaten,,
+225,穫,又禾隹艹,harvest:reap,,
+226,学,冖子尚,"study, school",Human_activities,Culture
+227,岳,山斤,mountain or peak,Nature,Land_and_Topography
+228,楽,冫木白,music,Human_activities,Culture
+229,額,口夂宀貝頁,forehead,Body,Head_and_Neck
+230,顎,二勹口貝頁,jaw,Body,Head_and_Neck
+231,掛,卜土扌,hang:suspend:depend:arrive at:tax:pour,,
+232,潟,勹臼氵灬,lagoon,Nature,Land_and_Topography
+233,括,丿十口舌扌,fasten:tie up:arrest:constrict,,
+234,活,丿十口舌氵,lively:resuscitation:being helped:living,,
+235,喝,勹匕口日,hoarse:scold,,
+236,渇,勹匕日氵,thirst:dry up:parch,,
+237,割,亠口土宀刂,proportion:comparatively:divide:cut:separate:split,,
+238,葛,勹匕日艹,vine,Nature,Plants_and_Trees
+239,滑,冂冖月骨氵,slippery:slide:slip:flunk,,
+240,褐,勹匕日衤,brown,Physical_Attributes_and_Properties,Colours
+241,轄,亠口土宀車,control:wedge,,
+242,且,目,moreover:also:furthermore,,
+243,株,木牛,stocks:stump:shares:stock:counter for small plants,,
+244,釜,丶丿干父玉金丷,kettle,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+245,鎌,丶丿八彐玉金丷,sickle,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+246,刈,刂,reap:cut:clip:trim:prune,,
+247,干,十,dry,Physical_Attributes_and_Properties,Miscellaneous_properties
+248,刊,干刂,publish,Human_activities,Language_and_Communication
+249,甘,,sweet,Emotions_and_Senses,Senses
+250,汗,干氵,sweat,Body,Bodily_Functions
+251,缶,凵山,tin can,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+252,完,二儿宀元,perfect:completion:end,,
+253,肝,干月,liver,Body,Torso_and_organs
+254,官,口宀,bureaucrat:the government:organ,,
+255,冠,儿冖寸,crown:best:peerless,,
+256,巻,二大己丷,scroll:volume:book:part:roll up:wind up:tie:coil:counter for texts (or book scrolls),,
+257,看,丿二手目,watch over:see,,
+258,陥,｜勹日阝,collapse:fall into:cave in:fall (castle):slide into,,
+259,乾,乙十日,dry,Physical_Attributes_and_Properties,Miscellaneous_properties
+260,勘,儿力匚甘,intuition:perception:check:compare:sixth sense,,
+261,患,｜口心,sick,Body,Health
+262,貫,毋貝,pierce:8 1/3lbs:penetrate:brace,,
+263,寒,丶八宀井,cold,Physical_Attributes_and_Properties,Miscellaneous_properties
+264,喚,儿冂勹口大,yell:cry:call:scream:summon,,
+265,堪,儿匚土甘,withstand:endure:support:resist,,
+266,換,儿冂勹大扌,interchange:period:change:convert:replace:renew,,
+267,敢,攴耳,daring:brave:bold:sad:tragic:pitiful,,
+268,棺,口宀木,coffin,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+269,款,士欠示,goodwill:article:section:friendship:collusion,,
+270,間,日門,interval of time,Time,
+271,閑,木門,leisure,,
+272,勧,丿力矢隹,persuade:recommend:advise:encourage:offer,,
+273,寛,宀見艹,tolerant:leniency:generosity:relax:feel at home:be at ease:broadminded,,
+274,幹,十干日个,tree trunk,Nature,Plants_and_Trees
+275,感,丿口心戈,emotion:feeling:sensation,,
+276,漢,口大氵艹,honorable man or Han person,People,Roles_and_status
+277,慣,毋貝忄,accustomed:get used to:become experienced,,
+278,管,口宀竹,pipe,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+279,関,二人八大門丷,connection:barrier:gateway:involve:concerning,,
+280,歓,欠矢隹,"delight, joy",Emotions_and_Senses,Emotions
+281,監,二皿臣,oversee:official:govt office:rule:administer,,
+282,緩,夂爪糸,slacken:loosen:relax:lessen:be moderate:ease,,
+283,憾,丿口心戈忄,regret,Emotions_and_Senses,Emotions
+284,還,口网衣辶,send back:return,,
+285,館,口宀食,building:mansion:large building:palace,,
+286,環,口玉网衣,"ring, surround",Physical_Attributes_and_Properties,Form_and_Shape
+287,簡,日竹門,simplicity:brevity,,
+288,観,矢見隹,outlook:look:appearance:condition:view,,
+289,韓,十口日韋,Korea,,
+290,艦,二皿臣舟,warship,,
+291,鑑,二皿臣金,specimen:take warning from:learn from,,
+292,丸,丶九,circular,Physical_Attributes_and_Properties,Form_and_Shape
+293,含,口个,contain:include:hold in the mouth:bear in mind:understand:cherish,,
+294,岸,厂山干,shore,Nature,Land_and_Topography
+295,岩,口山石,boulder or rock,Nature,Land_and_Topography
+296,玩,二儿玉元,play:take pleasure in:trifle with:make sport of,,
+297,眼,目艮,eyeball,Body,Head_and_Neck
+298,頑,二儿貝頁元,stubborn:foolish:firmly,,
+299,顔,亠八厂彡立貝頁,face,Body,Head_and_Neck
+300,願,厂小白貝頁,petition:request:vow:wish:hope,,
+301,企,止个,undertake:scheme:design:attempt:plan,,
+302,伎,十又支亻,deed:skill,,
+303,危,勹厂,dangerous:fear:uneasy,,
+304,机,几木,desk,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+305,気,丶丿气,mood,Emotions_and_Senses,Emotions
+306,岐,十又山支,branch off:fork in road:scene:arena:theater,,
+307,希,丿巾,hope:beg:request:pray:beseech:Greece:dilute (acid):rare:few:phenomenal,,
+308,忌,己心,mourning:abhor:detestable:death anniversary,,
+309,汽,气氵,steam or vapour,Nature,Natural_Substances
+310,奇,亅口大,strange:strangeness:curiosity,,
+311,祈,斤礻,pray,Human_activities,Religion_and_the_Supernatural_World
+312,季,子禾,seasons,,
+313,紀,己糸,era,Time,
+314,軌,車九,rut:wheel:track:model:way of doing,,
+315,既,牙艮,previously:already:long ago,,
+316,記,己言,written record,Human_activities,Language_and_Communication
+317,起,土己走,rouse:wake up:get up,,
+318,飢,几食,hungry:starve,,
+319,鬼,儿匕厶田,evil spirit or oni,Human_activities,Religion_and_the_Supernatural_World
+320,帰,冖巾彐刂,to return,Directions_and_Spatial_Relationships,Movement
+321,基,八土甘,counter for stable structures,Numbers,Counters
+322,寄,亅口大宀,draw near:stop in:bring near:gather:collect:send:forward,,
+323,規,土大見,standard:measure,,
+324,亀,乙勹田龜,turtle,Nature,Animals
+325,喜,口士豆丷,"delight, joy",Emotions_and_Senses,Emotions
+326,幾,丿幺戈,how many:how much:how far:how long:some:several,,
+327,揮,冖車扌,brandish:wave:wag:swing:shake,,
+328,期,八月甘,time period,Time,
+329,棋,八木甘,chess piece:Japanese chess:shogi,,
+330,貴,｜口貝,precious:value:prize:esteem:honor,,
+331,棄,亠凵厶木,abandon:throw away:discard:resign:reject:sacrifice,,
+332,毀,土殳臼,break:destroy:censure:be chipped:be scratched:be broken:be ruined,,
+333,旗,八方甘,national flag:banner:standard,,
+334,器,口大,vessel,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+335,畿,幺戈田,capital,Artificial_Structures_and_Products,Cities
+336,輝,儿冖車尚,radiance:shine:sparkle:gleam:twinkle,,
+337,機,丶丿幺戈木,loom:mechanism:machine:airplane:opportunity:potency:efficacy:occasion,,
+338,騎,亅口大馬,equestrian:riding on horses:counter for equestrians,,
+339,技,十又支扌,skill:art:craft:ability:feat:performance:vocation:arts,,
+340,宜,宀目,best regards:good,,
+341,偽,丶亻灬,falsehood:lie:deceive:pretend:counterfeit:forgery,,
+342,欺,八欠甘,deceit:cheat:delude,,
+343,義,亅戈手玉羊丷,righteousness:justice:morality:honor:loyalty:meaning,,
+344,疑,匕疋矢マ,doubt or suspicion,Emotions_and_Senses,Emotions
+345,儀,亅戈手玉羊亻丷,ceremony:rule:affair:case:a matter,,
+346,戯,匕卜厂戈虍,frolic:play:sport,,
+347,擬,匕疋矢マ扌,mimic:aim (a gun) at:nominate:imitate,,
+348,犠,亅戈手牛玉羊丷,sacrifice,Human_activities,Religion_and_the_Supernatural_World
+349,議,亅戈手玉羊言丷,deliberation:consultation:debate:consideration,,
+350,菊,勹米艹,chrysanthemum,Nature,Plants_and_Trees
+351,吉,口士,good luck:joy:congratulations,,
+352,喫,亠刀口土大,consume:eat:drink:smoke:receive (a blow),,
+353,詰,口士言,packed:close:pressed:reprove:rebuke:blame,,
+354,却,卩厶土,instead:on the contrary:rather:step back:withdraw:retreat,,
+355,客,口夂宀,"guest, customer",People,Roles_and_status
+356,脚,卩厶土月,leg,Body,Limbs
+357,逆,屮丷辶,inverted:reverse:opposite:wicked,,
+358,虐,匕匚卜厂虍,tyrannize:oppress,,
+359,九,,9,Numbers,
+360,久,丿入,long ago,Time,
+361,及,丶乃,reach out:exert:exercise:cause,,
+362,弓,,"bow:bow (archery, violin)",,
+363,丘,斤,hill,Nature,Land_and_Topography
+364,旧,｜日,former,Time,
+365,休,木亻,rest,Body,Health
+366,吸,丿口及,suck:imbibe:inhale:sip,,
+367,朽,勹木,decay:rot:remain in seclusion,,
+368,臼,,millstone or mortar,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+369,求,丶水,request:want:wish for:require:demand,,
+370,究,儿宀穴九,"study, research",Human_activities,Culture
+371,泣,立氵,cry:weep:moan,,
+372,急,勹彐心,hurry:emergency:sudden:steep,,
+373,級,丿糸及,class:rank:grade,,
+374,糾,｜十糸,twist:ask:investigate:verify,,
+375,宮,口宀,shrine,Human_activities,Religion_and_the_Supernatural_World
+376,救,丶攴水,salvation:save:help:rescue:reclaim,,
+377,球,丶水玉,sphere,Physical_Attributes_and_Properties,Form_and_Shape
+378,給,口糸个,salary,Human_activities,Money_and_Commerce
+379,嗅,口大自,smell:sniff:scent,,
+380,窮,儿宀弓穴身,hard up:destitute:suffer:perplexed:cornered,,
+381,牛,,cow,Nature,Animals
+382,去,厶土,gone:past:quit:leave:elapse:eliminate:divorce,,
+383,巨,匚,huge,Physical_Attributes_and_Properties,Form_and_Shape
+384,居,十口尸,reside:to be:exist:live with,,
+385,拒,匚扌巨,repel:refuse:reject:decline,,
+386,拠,几夂扌,foothold:based on:follow:therefore,,
+387,挙,八手尚,raise:plan:project:behavior:actions,,
+388,虚,匕卜厂虍,void:emptiness:unpreparedness:crack:fissure:untruth,,
+389,許,丿十干言,permit:approve,,
+390,距,匚口足巨,long-distance:spur:fetlock,,
+391,魚,田灬,fish,,
+392,御,丿卩彳止,honorable:manipulate:govern,,
+393,漁,田魚氵灬,fishing:fishery,,
+394,凶,丶丿凵,villain:evil:bad luck:disaster,,
+395,共,八,together:both:neither:all:and:alike:with,,
+396,叫,｜十口,shout:exclaim:yell,,
+397,狂,玉犭,lunatic:insane:crazy:confuse,,
+398,京,亠口小,capital city,Artificial_Structures_and_Products,Cities
+399,享,亠口子,enjoy:receive:undergo:answer (phone):take:get:catch,,
+400,供,｜二八亻,submit:offer:present:serve (meal):accompany,,
+401,協,力十,co-:cooperation,,
+402,況,儿口氵,condition:situation,,
+403,峡,二亠人大山丷,gorge,Nature,Land_and_Topography
+404,挟,丶二亠人大丷扌,pinch:between,,
+405,狭,丶二亠人大丷犭,narrow,Physical_Attributes_and_Properties,Form_and_Shape
+406,恐,丶几工心,fear,Emotions_and_Senses,Emotions
+407,恭,八心井,respect,Emotions_and_Senses,Emotions
+408,胸,丶丿凵勹月,chest,Body,Torso_and_organs
+409,脅,力月,threaten:coerce,,
+410,強,厶弓虫,strong,Physical_Attributes_and_Properties,Miscellaneous_properties
+411,教,子攴老,doctrine or teaching,Human_activities,Religion_and_the_Supernatural_World
+412,郷,幺艮阝,home town:village:native place:district,,
+413,境,儿土日立音,boundary,Physical_Attributes_and_Properties,Form_and_Shape
+414,橋,丿冂口木,bridge,,
+415,矯,丿冂口大矢,rectify:straighten:correct:reform:cure:control:pretend:falsify,,
+416,鏡,儿日立金音,mirror,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+417,競,儿口立,emulate:compete with:bid:sell at auction:bout:contest:race,,
+418,響,幺日立艮音阝,echo:sound:resound:ring:vibrate,,
+419,驚,勹口夂攴馬艹,surprise,Emotions_and_Senses,Emotions
+420,仰,卩亻,face-up:look up:depend:seek:respect:rever:drink:take,,
+421,暁,儿十廾日,sunrise,Time,Divisions_of_the_Day
+422,業,｜木玉羊耒丷,"business, industry",Human_activities,Money_and_Commerce
+423,凝,冫匕疋矢マ,congeal:freeze:stiff:be absorbed in,,
+424,曲,｜日,musical composition,Human_activities,Culture
+425,局,口尸,bureau:board:office:affair:conclusion:court lady:lady-in-waiting:her apartment,,
+426,極,又口木,poles:settlement:conclusion:end:highest rank:electric poles:very:extremely:most:highly:10**48,,
+427,玉,丶,jewel,Nature,Natural_Substances
+428,巾,｜冂,towel,Artificial_Structures_and_Products,Clothing_and_Textiles
+429,斤,,axe,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+430,均,二冫勹土,level:average,,
+431,近,斤辶,recent,Time,
+432,金,,gold,Human_activities,Money_and_Commerce
+433,菌,囗禾艹,germ:fungus:bacteria,,
+434,勤,力口土艹,diligence:become employed:serve,,
+435,琴,玉个,"cithare, harp",Human_activities,Culture
+436,筋,力月竹,muscles,Body,Body_General
+437,僅,口土亻艹,a wee bit,,
+438,禁,木示,prohibition:ban:forbid,,
+439,緊,又糸臣,tense:solid:hard:reliable:tight,,
+440,錦,巾白金,brocade,Artificial_Structures_and_Products,Clothing_and_Textiles
+441,謹,口土言艹,discreet:reverently:humbly,,
+442,襟,木示衤,collar,Artificial_Structures_and_Products,Clothing_and_Textiles
+443,吟,口个,recite,Human_activities,Language_and_Communication
+444,銀,艮金,silver,Nature,Natural_Substances
+445,区,丶丿匚,ward,Artificial_Structures_and_Products,Cities
+446,句,勹口,phrase,Human_activities,Language_and_Communication
+447,苦,十口艹,suffering:trial:worry:hardship:feel bitter:scowl,,
+448,駆,丶丿匚馬,drive:run:gallop:advance:inspire:impel,,
+449,具,八目,tool,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+450,惧,八目忄,dread,Emotions_and_Senses,Emotions
+451,愚,冂厶心田禸,foolish:folly:absurdity:stupid,,
+452,空,儿宀工穴,"void, sky",Nature,Sky
+453,偶,冂厶田禸亻,accidentally:even number:couple:man & wife:same kind,,
+454,遇,冂厶田禸辶,meet:encounter:interview:treat:entertain:receive:deal with,,
+455,隅,冂厶日田禸阝,corner,Physical_Attributes_and_Properties,Form_and_Shape
+456,串,｜口,skewer,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+457,屈,｜尸山,yield:bend:flinch:submit,,
+458,掘,｜尸山扌,dig:delve:excavate,,
+459,窟,｜儿宀尸山穴,cave,Nature,Land_and_Topography
+460,熊,匕厶月灬,bear,Nature,Animals
+461,繰,口木糸品,winding:reel:spin:turn (pages):look up:refer to,,
+462,君,丿口日,you,People,General
+463,訓,巛言,instruction:Japanese character reading:explanation:read,,
+464,勲,｜丿力日田灬,meritorious deed:merit,,
+465,薫,｜丿日艹灬,send forth fragrance:fragrant:be scented:smoke (tobacco),,
+466,軍,冖車,army:force:troops:war:battle,,
+467,郡,口阝,county:district,,
+468,群,口玉羊丷,"flock, crowd",People,Groups
+469,兄,儿口,older brother,People,Family
+470,刑,丿廾刂,punish:penalty:sentence:punishment,,
+471,形,丿廾彡,shape:form:style,,
+472,系,丿糸,lineage:system,,
+473,径,又土彳,diameter:path:method,,
+474,茎,又土艹,stem,Nature,Plants_and_Trees
+475,係,丿糸亻,person in charge,People,Roles_and_status
+476,型,丿土廾刂,mould:type:model,,
+477,契,亠刀土大,pledge:promise:vow,,
+478,計,十言,plot:plan:scheme:measure,,
+479,恵,心田,favor:blessing:grace:kindness,,
+480,啓,口戸攴,disclose:open:say,,
+481,掲,勹匕日扌,put up (a notice):put up:hoist:display:hang out:publish:describe,,
+482,渓,人土爪氵,ravine,Nature,Land_and_Topography
+483,経,又土糸,sutra:longitude:pass thru:expire:warp,,
+484,蛍,冖虫尚,firefly,Nature,Animals
+485,敬,勹口攴艹,respect,Emotions_and_Senses,Emotions
+486,景,亠口小日,scenery:view,,
+487,軽,又土車,light (weight),Physical_Attributes_and_Properties,Miscellaneous_properties
+488,傾,匕貝頁亻,lean:incline:tilt:trend:wane:sink:ruin:bias,,
+489,携,丿隹乃扌,portable:carry (in hand):armed with:bring along,,
+490,継,｜米糸,inherit:succeed:continue:patch:graft (tree),,
+491,詣,匕日言,temple visit,Human_activities,Religion_and_the_Supernatural_World
+492,慶,冖夂广心,jubilation,Emotions_and_Senses,Emotions
+493,憬,亠口小日忄,yearning,Emotions_and_Senses,Emotions
+494,稽,匕日禾尤,think:consider,,
+495,憩,口心自舌,recess:rest:relax:repose,,
+496,警,勹口夂攴言艹,admonish:commandment,,
+497,鶏,人土大爪鳥,chicken,Nature,Animals
+498,芸,二厶艹,art,Human_activities,Culture
+499,迎,卩辶,welcome:meet:greet,,
+500,鯨,亠口小田魚灬,whale,Nature,Animals
+501,隙,小日阝,crevice:fissure:discord:opportunity:leisure,,
+502,劇,匕卜厂虍豕刂,"drama, play",Human_activities,Culture
+503,撃,手殳車,"beat, attack",Human_activities,War
+504,激,攴方白氵,violent excitement,Emotions_and_Senses,Emotions
+505,桁,彳木行,digit,Numbers,Counting_&_Sequence
+506,欠,人勹,lack:gap:fail:yawning radical (no. 76),,
+507,穴,八宀,hole:aperture:slit:cave:den,,
+508,血,皿,blood,Body,Body_General
+509,決,二人大氵,decide:fix:agree upon:appoint,,
+510,結,口士糸,tie:bind:contract:join:organize:do up hair:fasten,,
+511,傑,夕木舛亻,great man,People,Roles_and_status
+512,潔,亠刀土糸氵,undefiled:pure:clean:righteous:gallant,,
+513,月,,moon,Nature,Sky
+514,犬,丶大,dog,Nature,Animals
+515,件,牛亻,affair:case:matter:item,,
+516,見,儿目,see:hopes:chances:idea:opinion:look at:visible,,
+517,券,二人刀大大丷,ticket,,
+518,肩,戸月,shoulder,Body,Limbs
+519,建,廴聿,build,,
+520,研,｜丿亅口廾石,"study, research",Human_activities,Culture
+521,県,小目,prefecture,,
+522,倹,人口个亻,frugal:economy:thrifty,,
+523,兼,｜八彐丷,concurrently:and:beforehand:in advance,,
+524,剣,人口个刂,sabre:sword:blade:clock hand,,
+525,拳,大手丷,fist,Body,Limbs
+526,軒,干車,counter for houses,Numbers,Counters
+527,健,廴聿亻,healthy:health:strength:persistence,,
+528,険,人口个阝,precipitous:inaccessible place:impregnable position:steep place:sharp eyes,,
+529,圏,二人囗大大己丷,sphere,Physical_Attributes_and_Properties,Form_and_Shape
+530,堅,又土臣,strict:hard:solid:tough:tight:reliable,,
+531,検,人口木个,examination:investigate,,
+532,嫌,｜八女彐丷,dislike,Emotions_and_Senses,Emotions
+533,献,冂十干犬丷,offering:counter for drinks:present:offer,,
+534,絹,口月糸,silk,Artificial_Structures_and_Products,Clothing_and_Textiles
+535,遣,｜口辶,dispatch:despatch:send:give:donate:do:undertake,,
+536,権,木矢隹,authority:power:rights,,
+537,憲,亠土宀心网,constitution:law,,
+538,賢,又臣貝,intelligent:wise:wisdom:cleverness,,
+539,謙,｜八彐言丷,self-effacing:humble oneself:condescend:be modest,,
+540,鍵,廴聿金,key,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+541,繭,冂糸虫風艹,cocoon,,
+542,顕,日貝頁,appear:existing,,
+543,験,人口馬个,verification:effect:testing,,
+544,懸,丿小心目糸,state of suspension:hang:depend:consult:distant:far apart,,
+545,元,二儿,beginning:former time:origin,,
+546,幻,幺,phantom,Human_activities,Religion_and_the_Supernatural_World
+547,玄,亠幺,mysterious:occultness:black:deep:profound,,
+548,言,,say,Human_activities,Language_and_Communication
+549,弦,亠幺弓玄,string,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+550,限,艮阝,limit:restrict:to best of ability,,
+551,原,厂小白,field,Nature,Land_and_Topography
+552,現,玉見,present:existing:actual,,
+553,舷,亠幺玄舟,sides of a boat,Artificial_Structures_and_Products,Vehicles_and_Machines
+554,減,亅口戈氵,"to decrease, to subtract",Numbers,Calculations
+555,源,厂小白氵,source:origin,,
+556,厳,厂攴耳尚,stern:strictness:severity:rigidity,,
+557,己,,oneself,People,General
+558,戸,,counter for houses,Numbers,Counters
+559,古,十口,old,Time,
+560,呼,丿亅口丷,call:call out to:invite,,
+561,固,十口囗,firm or solid,Physical_Attributes_and_Properties,Miscellaneous_properties
+562,股,月殳,thighs,Body,Limbs
+563,虎,儿匕卜厂虍,tiger,Nature,Animals
+564,孤,子瓜,orphan:alone,,
+565,弧,弓瓜,arc,Physical_Attributes_and_Properties,Form_and_Shape
+566,故,十口攴,happenstance:especially:intentionally:reason:cause:circumstances:the late:therefore:consequently,,
+567,枯,十口木,wither:die:dry up:be seasoned,,
+568,個,十口囗亻,counter for articles,Numbers,Counters
+569,庫,广車,warehouse:storehouse,,
+570,湖,十口月氵,lake,Nature,Land_and_Topography
+571,雇,戸隹,employ:hire,,
+572,誇,二勹大言,boast:be proud:pride:triumphantly,,
+573,鼓,十又口士支豆丷,drum,Human_activities,Culture
+574,錮,十口囗金,confinement:to tie,,
+575,顧,戸貝隹頁,look back:review:examine oneself:turn around,,
+576,五,二,5,Numbers,
+577,互,彐彑,mutually:reciprocally:together,,
+578,午,丿十干,noon,Time,Divisions_of_the_Day
+579,呉,八口,give:do something for:kingdom of Wu,,
+580,後,夂幺彳,after,Time,
+581,娯,八口女,fun,Emotions_and_Senses,Emotions
+582,悟,口忄,enlightenment:perceive:discern:realize:understand,,
+583,碁,｜二八口石,Go,,
+584,語,口言,word:speech:language,,
+585,誤,八口言,mistake:err:do wrong:mislead,,
+586,護,又言隹艹,safeguard:protect,,
+587,口,囗,mouth,Body,Head_and_Neck
+588,工,,manufacture,Human_activities,Money_and_Commerce
+589,公,八厶,public:prince:official:governmental,,
+590,勾,勹厶,be bent:slope:capture,,
+591,孔,乙子,cavity:hole:slit:very:great:exceedingly,,
+592,功,力工,achievement:merits:success:honor:credit,,
+593,巧,勹工,adroit:skilled:ingenuity,,
+594,広,厶广,wide,Physical_Attributes_and_Properties,Form_and_Shape
+595,甲,｜日田,armor:high (voice):A grade:first class:former:instep:carapace,,
+596,交,亠父,mingle:mixing:association:coming & going,,
+597,光,儿尚,light,Nature,Weather
+598,向,冂口,toward,Directions_and_Spatial_Relationships,
+599,后,丿亅厂口斤,empress,People,Roles_and_status
+600,好,女子,like,Emotions_and_Senses,Emotions
+601,江,工氵,creek,Nature,Land_and_Topography
+602,考,老,to think,Emotions_and_Senses,Judgment
+603,行,彳,to go or to perform,Directions_and_Spatial_Relationships,Movement
+604,坑,亠几土,pit:hole,,
+605,孝,子老,filial piety:child's respect,,
+606,抗,亠几扌,confront:resist:defy:oppose,,
+607,攻,工攴,attack,Human_activities,War
+608,更,丿日,grow late:night watch:sit up late:of course:renew:renovate:again:more and more:further,,
+609,効,亠力父,merit:efficacy:efficiency:benefit,,
+610,幸,亠十立辛,happy,Emotions_and_Senses,Emotions
+611,拘,勹口扌,arrest:seize:concerned:adhere to:despite,,
+612,肯,月止,agreement:consent:comply with,,
+613,侯,矢亻,"lord, marquis",People,Roles_and_status
+614,厚,厂子日,thick,Physical_Attributes_and_Properties,Miscellaneous_properties
+615,恒,日忄,constancy:always,,
+616,洪,｜二八氵,flood,Nature,Weather
+617,皇,玉白,emperor or sovereign,People,Roles_and_status
+618,紅,工糸,crimson,Physical_Attributes_and_Properties,Colours
+619,荒,巛艹亡,laid waste:rough:rude:wild,,
+620,郊,亠父阝,outskirts:suburbs:rural area,,
+621,香,日禾,pleasant smell,Emotions_and_Senses,Senses
+622,候,｜矢亻,climate,Nature,Weather
+623,校,亠木父,school,Human_activities,Culture
+624,耕,｜亅八土木耒井,till:plow:cultivate,,
+625,航,亠几舟,navigate:sail:cruise:fly,,
+626,貢,工貝,tribute:support:finance,,
+627,降,十夂阝,descend:precipitate:fall:surrender,,
+628,高,亠冂口,expensive,Human_activities,Money_and_Commerce
+629,康,广彐水隶,ease:peace,,
+630,控,儿宀工穴扌,withdraw:draw in:hold back:refrain from:be moderate,,
+631,梗,丿日木,for the most part:close up:flower stem,,
+632,黄,八田,yellow,Physical_Attributes_and_Properties,Colours
+633,喉,口矢亻,throat,Body,Head_and_Neck
+634,慌,亠巛忄艹,disconcerting,Emotions_and_Senses,Emotions
+635,港,八己氵井,harbor,,
+636,硬,丿口日石,hard,Physical_Attributes_and_Properties,Miscellaneous_properties
+637,絞,亠父糸,strangle:constrict:wring,,
+638,項,工貝頁,paragraph:nape of neck:clause:item:term (expression),,
+639,溝,冂十氵,gutter:ditch:sewer:drain:10**32,,
+640,鉱,厶广金,ore,Nature,Natural_Substances
+641,構,冂十木,posture:build:pretend,,
+642,綱,冂山糸丷岡,rope,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+643,酵,子老酉,fermentation,,
+644,稿,亠冂口禾高,draft:copy:manuscript:straw,,
+645,興,八冂口臼,entertain:revive:retrieve:interest:pleasure,,
+646,衡,勹大彳田行,equilibrium:measuring rod:scale,,
+647,鋼,冂山金丷岡,steel,Nature,Natural_Substances
+648,講,冂十言,lecture,Human_activities,Language_and_Communication
+649,購,｜冂十貝,purchase,Human_activities,Money_and_Commerce
+650,乞,丿乙,beg:invite:ask,,
+651,号,勹口,nickname:number:item:title:pseudonym:name:call,,
+652,合,口个,fit:suit:join:0.1,,
+653,拷,老扌,torture:beat,,
+654,剛,冂山丷刂岡,sturdy:strength,,
+655,傲,土攴方亻,pride,Emotions_and_Senses,Emotions
+656,豪,亠冖口豕,overpowering:great:powerful:excelling:Australia,,
+657,克,儿十口,overcome:kindly:skillfully,,
+658,告,丿口土,tell,Human_activities,Language_and_Communication
+659,谷,八口个,valley,Nature,Land_and_Topography
+660,刻,亠刂,engrave:cut fine:chop:hash:mince:time:carving,,
+661,国,丶囗玉,country,People,Groups
+662,黒,里灬,black,Physical_Attributes_and_Properties,Colours
+663,穀,冖士殳禾,cereal,Food_and_Drink,
+664,酷,丿口土酉,cruel:severe:atrocious:unjust,,
+665,獄,犬言犭,prison:jail,,
+666,骨,冂冖月,bone,Body,Body_General
+667,駒,勹口馬,pony:horse:colt,,
+668,込,入辶,crowded:mixture:in bulk:included:(kokuji),,
+669,頃,匕貝頁,"time, about",Time,
+670,今,个,now,Time,
+671,困,囗木,quandary:become distressed:annoyed,,
+672,昆,日比,descendants,People,Family
+673,恨,艮忄,resentment,Emotions_and_Senses,Emotions
+674,根,木艮,root,Nature,Plants_and_Trees
+675,婚,女日氏,marry,People,Family
+676,混,日比氵,mix:blend:confuse,,
+677,痕,疒艮,scar,Body,Health
+678,紺,甘糸,dark blue,Physical_Attributes_and_Properties,Colours
+679,魂,二儿匕厶田鬼,soul,Human_activities,Religion_and_the_Supernatural_World
+680,墾,土爪艮豸犭,ground-breaking:open up farmland,,
+681,懇,心爪艮豸犭,sociable:kind:courteous:hospitable:cordial,,
+682,左,丿工,left,Directions_and_Spatial_Relationships,
+683,佐,丿工亻,assistant:help,,
+684,沙,丿小氵,sand,Nature,Natural_Substances
+685,査,木目,investigate,,
+686,砂,丿口小石,sand,Nature,Natural_Substances
+687,唆,儿厶口夂,tempt:seduce:instigate:promote,,
+688,差,丿工玉羊丷,distinction:difference:variation:discrepancy:margin:balance,,
+689,詐,｜丿言,lie:falsehood:deceive:pretend,,
+690,鎖,貝金尚,chain,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+691,座,｜入土广,sit,Body,Actions
+692,挫,｜入土扌,crush:break:sprain:discourage,,
+693,才,丿亅,genius:years old:cubic shaku,,
+694,再,｜冂玉,again:twice:second time,,
+695,災,巛火,natural disaster,Nature,Weather
+696,妻,｜女彐,wife,People,Roles_and_status
+697,采,木爪,dice:form:appearance:take:gather:coloring,,
+698,砕,丿十口石九,smash:break:crush:familiar:popular,,
+699,宰,十宀立辛,superintend:manager:rule,,
+700,栽,土戈木,the cultivation of plants,Nature,Plants_and_Trees
+701,彩,彡木爪,brightly coloured,Physical_Attributes_and_Properties,Colours
+702,採,木爪扌,pick:take:fetch:take up,,
+703,済,｜丿廾文齊氵,"settle (debt, etc.):relieve (burden):finish:come to an end:excusable:need not",,
+704,祭,癶示个,festival,Human_activities,Culture
+705,斎,｜丿廾文示齊,purification:Buddhist food:room:worship:avoid:alike,,
+706,細,田糸,slender,Physical_Attributes_and_Properties,Miscellaneous_properties
+707,菜,木爪艹,vegetable,Food_and_Drink,
+708,最,又日耳,utmost:most:extreme,,
+709,裁,亠厶土戈衣,tailor:judge:decision:cut out (pattern),,
+710,債,亠土貝亻,bond or debt,Human_activities,Money_and_Commerce
+711,催,山隹亻,sponsor:hold (a meeting):give (a dinner),,
+712,塞,八土宀,close:shut:cover:block:obstruct,,
+713,歳,丿小戈止,year-end:age:occasion:opportunity,,
+714,載,土戈車,ride:board:get on:place:spread:10**44:record:publish,,
+715,際,丿癶示阝,"moment, occasion",Time,
+716,埼,｜口土大,cape or promontory,Nature,Land_and_Topography
+717,在,｜丿土,exist:outskirts:suburbs:located in,,
+718,材,丿亅木,timber or material,Nature,Natural_Substances
+719,剤,｜丿廾文齊刂,medicine,Body,Health
+720,財,丿亅貝,wealth,Human_activities,Money_and_Commerce
+721,罪,网非,sin or taboo,Human_activities,Religion_and_the_Supernatural_World
+722,崎,｜口大山,cape or promontory,Nature,Land_and_Topography
+723,作,｜丿亻,make:production:prepare:build,,
+724,削,月刂尚,plane:sharpen:whittle:pare:shave,,
+725,昨,｜丿日,previous time,Time,
+726,柵,｜亅冂木冊,stockade:fence:weir:entwine around,,
+727,索,冖十糸,cord,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+728,策,｜亅八冂巾木竹,scheme:plan:policy:step:means,,
+729,酢,｜丿酉,vinegar,Food_and_Drink,
+730,搾,｜丿儿宀穴扌,squeeze,,
+731,錯,｜日金,confused:mix:be in disorder,,
+732,咲,二人口大丷,blossom:bloom,,
+733,冊,｜亅冂廾,counter for books,Numbers,Counters
+734,札,乙木,banknote,Human_activities,Money_and_Commerce
+735,刷,尸巾刂,printing:print:brush,,
+736,刹,木刂,temple,Human_activities,Religion_and_the_Supernatural_World
+737,拶,夕巛扌,be imminent:draw close,,
+738,殺,丶丿木殳,kill,Human_activities,War
+739,察,丿宀癶示,guess:presume:surmise:judge:understand,,
+740,撮,又日耳扌,snapshot:take pictures,,
+741,擦,丿宀癶示扌,grate:rub:scratch:scrape:chafe:scour,,
+742,雑,木隹九,miscellaneous,,
+743,皿,,dish or plate,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+744,三,二,3,Numbers,
+745,山,,mountain or peak,Nature,Land_and_Topography
+746,参,厶彡,nonplussed:three (in documents):going:coming:visiting:visit:be defeated:die:be madly in love:participate:take part in,,
+747,桟,丶丿木毛,scaffold:cleat:frame:jetty:bolt (door),,
+748,蚕,大虫,silkworm,Nature,Animals
+749,惨,厶彡忄,wretched:disaster:cruelty:harsh,,
+750,産,丿亠厂生立丷,product,Human_activities,Money_and_Commerce
+751,傘,人十个,umbrella,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+752,散,｜攴月,scatter:disperse:spend:squander,,
+753,算,廾目竹,calculate:divining:number:abacus:probability,,
+754,酸,儿厶夂酉,sour,Emotions_and_Senses,Senses
+755,賛,二亠人大貝,approve:praise:title or inscription on picture:assist:agree with,,
+756,残,丶丿歹毛,remainder:leftover:balance,,
+757,斬,斤車,cut with a sword,Human_activities,War
+758,暫,斤日車,a while,Time,
+759,士,,man or gentleman,People,Roles_and_status
+760,子,,child,People,General
+761,支,十又,branch:support:sustain:branch radical (no. 65),,
+762,止,,stop,Body,Actions
+763,氏,,courtesy title,People,Roles_and_status
+764,仕,士亻,attend:doing:official:serve,,
+765,史,丿口,history:chronicle,,
+766,司,亅口,director:official:govt office:rule:administer,,
+767,四,儿囗,4,Numbers,
+768,市,亠巾,market:city:town,,
+769,矢,丿大,dart:arrow,,
+770,旨,匕日,delicious:relish:show a liking for:purport:will:clever:expert,,
+771,死,匕夕歹,death,Body,Health
+772,糸,小幺,thread,Artificial_Structures_and_Products,Clothing_and_Textiles
+773,至,厶土,climax:arrive:proceed:reach:attain:result in,,
+774,伺,亅口亻,pay respects:visit:ask:inquire:question:implore,,
+775,志,士心,intention:plan:resolve:aspire:motive:hopes:shilling,,
+776,私,厶禾,I or me,People,General
+777,使,丿口亻,messenger,People,Roles_and_status
+778,刺,｜亅八冂巾木刂,thorn:pierce:stab:prick:sting:calling card,,
+779,始,厶口女,begin,Time,
+780,姉,亠女巾,older sister,People,Family
+781,枝,十又支木,branch,Nature,Plants_and_Trees
+782,祉,止礻,welfare:happiness,,
+783,肢,十又支月,limb:arms & legs,,
+784,姿,冫女欠,figure,Physical_Attributes_and_Properties,Form_and_Shape
+785,思,心田,to think,Emotions_and_Senses,Judgment
+786,指,匕日扌,finger,Body,Limbs
+787,施,丿方也,give:bestow:perform:alms,,
+788,師,｜口巾,expert,People,Roles_and_status
+789,恣,冫心欠,selfish:arbitrary,,
+790,紙,氏糸,paper,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+791,脂,匕日月,fat or resin,Nature,Natural_Substances
+792,視,見礻,inspection:regard as:see:look at,,
+793,紫,匕止糸,violet,Physical_Attributes_and_Properties,Colours
+794,詞,亅口言,words,Human_activities,Language_and_Communication
+795,歯,凵止米齒,tooth,Body,Head_and_Neck
+796,嗣,｜亅冂口,heir:succeed,,
+797,試,工弋言,test:try:attempt:experiment:ordeal,,
+798,詩,土寸言,poetry,Human_activities,Culture
+799,資,冫欠貝,capital,Human_activities,Money_and_Commerce
+800,飼,亅口艮食个,domesticate:raise:keep:feed,,
+801,誌,士心言,"document, journal",Human_activities,Language_and_Communication
+802,雌,匕止隹,feminine:female,,
+803,摯,丶丿十手立辛九,gift:seriousness,,
+804,賜,日貝勿,grant:gift:boon:results,,
+805,諮,冫口欠言,consult with,,
+806,示,,show:indicate:point out:express:display,,
+807,字,子宀,character,Human_activities,Language_and_Communication
+808,寺,土寸,Buddhist temple,Human_activities,Religion_and_the_Supernatural_World
+809,次,冫欠,next,Numbers,Counting_&_Sequence
+810,耳,,ear,Body,Head_and_Neck
+811,自,,oneself,People,General
+812,似,丶人亻,becoming:resemble:counterfeit:imitate:suitable,,
+813,児,｜儿日,child,People,General
+814,事,亅口彐,matter:thing:fact:business:reason:possibly,,
+815,侍,土寸亻,waiter:samurai:wait upon:serve,,
+816,治,厶口氵,cure,Body,Health
+817,持,土寸扌,hold:have,,
+818,時,土寸日,hour,Time,Divisions_of_the_Day
+819,滋,幺丷氵,nourishing:more & more:be luxuriant:planting:turbidity,,
+820,慈,幺心丷,affection or benevolence,Emotions_and_Senses,Emotions
+821,辞,十口立舌辛,word,Human_activities,Language_and_Communication
+822,磁,口幺石丷,porcelain,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+823,餌,耳艮食,food:bait:prey:tempting profit,,
+824,璽,｜八冂爻玉,emperor's seal,,
+825,鹿,广比,deer,Nature,Animals
+826,式,工弋,style:ceremony:rite:function:method:system:form:expression,,
+827,識,戈日立言音,discriminating:know:write,,
+828,軸,｜日田車,axle,Artificial_Structures_and_Products,Vehicles_and_Machines
+829,七,丿乙匕,7,Numbers,
+830,𠮟,,,,
+831,失,丿二人大,lose:error:fault:disadvantage:loss,,
+832,室,厶土宀至,room:apartment:chamber:greenhouse:cellar,,
+833,疾,疒矢,disease,Body,Health
+834,執,丶丿亠十土立辛九,tenacious:take hold:grasp:take to heart,,
+835,湿,｜日氵,damp,Physical_Attributes_and_Properties,Miscellaneous_properties
+836,嫉,女疒矢,"envy, jealousy",Emotions_and_Senses,Emotions
+837,漆,木水个氵,lacquer,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+838,質,斤貝,substance:quality:matter:temperament,,
+839,実,士大宀,fruit,Food_and_Drink,
+840,芝,亠艹,turf:lawn,,
+841,写,冖勹,copy:be photographed:describe,,
+842,社,土礻,Shinto shrine,Human_activities,Religion_and_the_Supernatural_World
+843,車,,car,,
+844,舎,口土个,cottage:inn:hut:house:mansion,,
+845,者,日老,person (usually with qualifier),People,General
+846,射,寸身,shoot at,Human_activities,War
+847,捨,口土个扌,discard:throw away:abandon:resign:reject:sacrifice,,
+848,赦,土攴赤,pardon:forgiveness,,
+849,斜,斗禾个,diagonal,Physical_Attributes_and_Properties,Form_and_Shape
+850,煮,日老灬,boil:cook,,
+851,遮,广辶灬,intercept:interrupt:obstruct,,
+852,謝,寸言身,apologize:thank:refuse,,
+853,邪,牙阝,wicked:injustice:wrong,,
+854,蛇,匕宀虫,snake,Nature,Animals
+855,尺,丶尸,Japanese foot (around 30 cm),Numbers,Units_of_Measurement
+856,借,日亻,borrow:rent,,
+857,酌,丶勹酉,to serve alcohol,Food_and_Drink,Cooking
+858,釈,丶尸米釆,explanation,,
+859,爵,寸爪网艮,noble rank,People,Roles_and_status
+860,若,丿口艹,young,Time,
+861,弱,冫弓,weak,Physical_Attributes_and_Properties,Miscellaneous_properties
+862,寂,卜又宀小,loneliness,Emotions_and_Senses,Emotions
+863,手,,hand,Body,Limbs
+864,主,丶玉,master or husband,People,Roles_and_status
+865,守,宀寸,guard:protect:defend:obey,,
+866,朱,｜丿二八木牛,vermilion,Physical_Attributes_and_Properties,Colours
+867,取,又耳,take:fetch:take up,,
+868,狩,宀寸犭,hunt:raid:gather,,
+869,首,目自丷,neck:counter for songs and poems,,
+870,殊,｜丿二八木歹牛,particularly:especially:exceptionally,,
+871,珠,｜丿二八木牛玉,pearl or jewel,Nature,Natural_Substances
+872,酒,酉氵,alcoholic drink,Food_and_Drink,
+873,腫,｜日月里,tumor:swelling,,
+874,種,｜日禾里,species:kind:class:variety:seed,,
+875,趣,又土耳走,purport:gist:elegance:interest:proceed to:tend:become,,
+876,寿,丿二寸,longevity:congratulations:one's natural life,,
+877,受,冖又爪,accept:undergo:answer (phone):take:get:catch:receive,,
+878,呪,儿口,spell:curse:charm:malediction,,
+879,授,冖又爪扌,impart:instruct:grant:confer,,
+880,需,而雨,demand:request:need,,
+881,儒,而雨亻,Confucianism,Human_activities,Culture
+882,樹,口土寸木豆丷,timber:trees:wood:establish:set up,,
+883,収,｜又,income:obtain:reap:pay:supply:store,,
+884,囚,人囗,captured:criminal:arrest:catch,,
+885,州,｜丶巛,state:province,,
+886,舟,,boat,Artificial_Structures_and_Products,Vehicles_and_Machines
+887,秀,禾乃,excel:excellence:beauty:surpass,,
+888,周,冂口土,perimeter,Physical_Attributes_and_Properties,Form_and_Shape
+889,宗,宀示,religion:sect:denomination:main point:origin:essence,,
+890,拾,口个扌,pick up:gather:find:go on foot:ten,,
+891,秋,火禾,Autumn,Time,Seasons
+892,臭,大自,bad smell,Emotions_and_Senses,Senses
+893,修,｜彡攴亻,discipline:conduct oneself well:study:master,,
+894,袖,｜田衤,sleeve,Artificial_Structures_and_Products,Clothing_and_Textiles
+895,終,夂糸,end,Time,
+896,羞,丿彐玉羊丷,shame,Emotions_and_Senses,Emotions
+897,習,冫白羽,learn,,
+898,週,冂口土辶,week,Time,Divisions_of_the_Year
+899,就,丶亠口小尢尤,concerning:settle:take position:depart:study:per,,
+900,衆,皿血,masses:great numbers:multitude:populace,,
+901,集,木隹,gather:meet:congregate:swarm:flock,,
+902,愁,心火禾,melancholy,Emotions_and_Senses,Emotions
+903,酬,｜丶巛酉,repay:reward:retribution,,
+904,醜,儿匕田酉鬼,ugly:unclean:shame:bad looking,,
+905,蹴,丶丿乙亠口小尢足尤,kick,,
+906,襲,月立衣,raid,Human_activities,War
+907,十,,10,Numbers,
+908,汁,十氵,"juice, soup",Food_and_Drink,
+909,充,亠儿厶,allot:fill,,
+910,住,丶玉亻,dwell:reside:live:inhabit,,
+911,柔,木矛マ,tender:weakness:gentleness:softness,,
+912,重,｜丿日里,heavy,Physical_Attributes_and_Properties,Miscellaneous_properties
+913,従,彳疋丷,accompany:obey:submit to:comply:follow:secondary:incidental:subordinate,,
+914,渋,冫止氵,astringent:hesitate:reluctant:have diarrhea,,
+915,銃,亠儿厶金,gun:arms,,
+916,獣,口犬田尚,animal:beast,,
+917,縦,彳疋糸丷,vertical:length:height:self-indulgent:wayward,,
+918,叔,卜又小,"aunt, uncle",People,Family
+919,祝,儿口礻,celebrate:congratulate,,
+920,宿,宀白亻,inn:lodging:relay station:dwell:lodge:be pregnant:home:dwelling,,
+921,淑,卜又小氵,graceful:gentle:pure,,
+922,粛,｜丿彐水米隶,solemn:quietly:softly,,
+923,縮,宀白糸亻,"to reduce, shrink",Numbers,Calculations
+924,塾,丶亠口土子九,private school,Human_activities,Culture
+925,熟,丶亠口子九灬,mellow:ripen:mature:acquire skill,,
+926,出,｜山,out,Directions_and_Spatial_Relationships,
+927,述,丶十木辶,mention:state:speak:relate,,
+928,術,丶十彳木行,art:technique:skill:means:trick:resources:magic,,
+929,俊,儿厶夂亻,sagacious:genius:excellence,,
+930,春,丿二日,Spring,Time,Seasons
+931,瞬,冖夕爪牛目舛,wink:blink:twinkle,,
+932,旬,勹日,period of 10 days,Time,Divisions_of_the_Year
+933,巡,巛辶,patrol:go around:circumference,,
+934,盾,十厂斤目,shield:escutcheon:pretext,,
+935,准,冫隹,quasi-:semi-:associate,,
+936,殉,勹日歹,martyrdom:follow by resigning,,
+937,純,糸屯,genuine:purity:innocence:net (profit),,
+938,循,十厂彳斤目,sequential:follow,,
+939,順,巛貝頁,sequence,Numbers,Counting_&_Sequence
+940,準,十隹氵,semi-:correspond to:proportionate to:conform:imitate,,
+941,潤,玉門氵,moist,Physical_Attributes_and_Properties,Miscellaneous_properties
+942,遵,寸酉丷辶,abide by:follow:obey:learn,,
+943,処,几夂攴,dispose:manage:deal with:sentence:condemn:act:behave:place,,
+944,初,刀衤,first,Numbers,Counting_&_Sequence
+945,所,戸斤,place:extent,,
+946,書,日聿,write,Human_activities,Language_and_Communication
+947,庶,广灬,commoner:all:bastard,,
+948,暑,日老,hot,Physical_Attributes_and_Properties,Miscellaneous_properties
+949,署,日网老,signature:govt office:police station,,
+950,緒,日糸老,thong:beginning:inception:end:cord:strap:mental or emotional state,,
+951,諸,日老言,various:many:several:together,,
+952,女,,woman,People,General
+953,如,口女,likeness:like:such as:as if:better:best:equal,,
+954,助,力目,help:rescue:assist,,
+955,序,亅子广,preface:beginning:order:precedence:occasion:chance:incidentally,,
+956,叙,又禾个,confer:relate:narrate:describe,,
+957,徐,彳禾个,gradually:slowly:deliberately:gently,,
+958,除,禾个阝,to divide,Numbers,Calculations
+959,小,,small,Physical_Attributes_and_Properties,Form_and_Shape
+960,升,丿十廾,(around 1.8 L),Numbers,Units_of_Measurement
+961,少,丿小,few,Numbers,Counting_&_Sequence
+962,召,刀口,seduce:call:send for:wear:put on:ride in:buy:eat:drink:catch (cold),,
+963,匠,匚斤,artisan:workman:carpenter,,
+964,床,广木,bed,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+965,抄,丿小扌,extract:selection:summary:copy:spread thin,,
+966,肖,月尚,resemblance,,
+967,尚,冂口,esteem:furthermore:still:yet,,
+968,招,刀口扌,beckon:invite:summon:engage,,
+969,承,丿亅二手マ,acquiesce:hear:listen to:be informed:receive,,
+970,昇,丿十廾日,rise up,,
+971,松,八厶木,pine,Nature,Plants_and_Trees
+972,沼,刀口氵,marsh,Nature,Land_and_Topography
+973,昭,刀口日,shining:bright,,
+974,宵,宀月尚,early evening,Time,Divisions_of_the_Day
+975,将,寸爪爿,leader:commander:general:admiral:or:and again:soon:from now on:just about,,
+976,消,月尚氵,extinguish:blow out:turn off:neutralize:cancel,,
+977,症,止疒,disease,Body,Health
+978,祥,玉羊丷礻,auspicious:happiness:blessedness:good omen:good fortune,,
+979,称,丿小禾,appellation:praise:admire:name:title:fame,,
+980,笑,大禾竹,laughter,Emotions_and_Senses,Emotions
+981,唱,口日,chant:recite:call upon:yell,,
+982,商,亠儿冂口立丷,trade,Human_activities,Money_and_Commerce
+983,渉,丿小止氵,ford:go cross:transit:ferry:import:involve,,
+984,章,十日立音,badge:chapter:composition:poem:design,,
+985,紹,刀口糸,introduce:inherit:help,,
+986,訟,八厶言,sue:accuse,,
+987,勝,二人力大月丷,victory:win:prevail:excel,,
+988,掌,冖口手尚,palm,Body,Limbs
+989,晶,日,crystal,Nature,Natural_Substances
+990,焼,儿十火,to bake,Food_and_Drink,Cooking
+991,焦,隹灬,char:hurry:impatient:irritate:burn:scorch:singe,,
+992,硝,口月石尚,nitrate:saltpeter,,
+993,粧,土广米,cosmetics:adorn (one's person),,
+994,詔,刀口言,imperial edict,,
+995,証,止言,evidence:proof:certificate,,
+996,象,勹口豕,elephant,Nature,Animals
+997,傷,丿日亻勿,wound,Body,Health
+998,奨,大寸爪爿,exhort:urge:encourage,,
+999,照,刀口日灬,illuminate:shine:compare:bashful,,
+1000,詳,玉羊言丷,detailed:full:minute:accurate:well-informed,,
+1001,彰,十彡日立音,patent:clear,,
+1002,障,十日立音阝,hinder:hurt:harm,,
+1003,憧,立里忄,"longing, yearning",Emotions_and_Senses,Emotions
+1004,衝,｜彳日行里,collide:brunt:highway:opposition (astronomy):thrust:pierce:stab:prick,,
+1005,賞,冖口貝尚,prize:reward:praise,,
+1006,償,冖口貝亻尚,recompense,Human_activities,Money_and_Commerce
+1007,礁,口石隹灬,reef,Nature,Land_and_Topography
+1008,鐘,立里金,bell,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1009,上,卜,up,Directions_and_Spatial_Relationships,
+1010,丈,丶丿,length:ten shaku:measure:Mr.:Ms.:height:stature:all (one has):only:that's all:merely,,
+1011,冗,冖几,superfluous:uselessness,,
+1012,条,夂攴木,article:clause:item:stripe:streak,,
+1013,状,爿犬,status quo:conditions:circumstances:form:appearance,,
+1014,乗,｜丿八禾,to ride,Artificial_Structures_and_Products,Vehicles_and_Machines
+1015,城,丿土戈,castle,,
+1016,浄,亅勹彐氵,clean,Physical_Attributes_and_Properties,Miscellaneous_properties
+1017,剰,｜丿刂,surplus:besides,,
+1018,常,冖口巾尚,usual:ordinary:normal:common:regular:continually:always:long-lasting,,
+1019,情,二亠土月青忄,feelings:emotion:passion:sympathy:circumstances:facts,,
+1020,場,土日勿,location:place,,
+1021,畳,冖田,tatami mat,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1022,蒸,丿亅マ艹灬,to steam,Food_and_Drink,Cooking
+1023,縄,乙田糸龜,rope,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1024,壌,亠八土衣,fertile soil,Nature,Land_and_Topography
+1025,嬢,亠八女衣,young lady,People,General
+1026,錠,宀疋金,lock,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1027,譲,亠八衣言,defer:turnover:transfer:convey,,
+1028,醸,亠八衣酉,to brew,Food_and_Drink,Cooking
+1029,色,勹巴,color,,
+1030,拭,工弋扌,wipe:mop:swab,,
+1031,食,,eclipse,Nature,Sky
+1032,植,十木目,plant,,
+1033,殖,十歹目,to increase,Numbers,Calculations
+1034,飾,丿巾食,decorate:ornament:adorn:embellish,,
+1035,触,虫角,contact:touch:feel:hit:proclaim:announce:conflict,,
+1036,嘱,口尸禸,entrust:request:send a message,,
+1037,織,戈日立糸音,to weave,Artificial_Structures_and_Products,Clothing_and_Textiles
+1038,職,戈日立耳音,employment,Human_activities,Money_and_Commerce
+1039,辱,厂寸衣辰,embarrass:humiliate:shame,,
+1040,尻,尸九,buttocks,Body,Limbs
+1041,心,,heart,Body,Torso_and_organs
+1042,申,｜日田,have the honor to:sign of the monkey:3-5PM:ninth sign of Chinese zodiac,,
+1043,伸,｜日田亻,expand:stretch:extend:lengthen:increase,,
+1044,臣,匚,retainer:subject,,
+1045,芯,心艹,wick,,
+1046,身,,somebody:person:one's station in life,,
+1047,辛,十立,pungent,Emotions_and_Senses,Senses
+1048,侵,冖又彐亻,encroach:invade:raid:trespass:violate,,
+1049,信,言亻,message,Human_activities,Language_and_Communication
+1050,津,聿氵,haven:port:harbor:ferry,,
+1051,神,｜日田礻,god or [kami],Human_activities,Religion_and_the_Supernatural_World
+1052,唇,厂口衣辰,lips,Body,Head_and_Neck
+1053,娠,厂女衣辰,pregnant,Body,Bodily_Functions
+1054,振,厂衣辰扌,shake:wave:wag:swing,,
+1055,浸,冖又彐氵,immersed:soak:dip:steep:moisten:wet:dunk,,
+1056,真,八十目,true:reality:Buddhist sect,,
+1057,針,十金,needle,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1058,深,儿冖木氵,deep,Physical_Attributes_and_Properties,Miscellaneous_properties
+1059,紳,｜日田糸,gentleman,People,Roles_and_status
+1060,進,隹辶,advance:proceed:progress:promote,,
+1061,森,木,forest,Nature,Plants_and_Trees
+1062,診,彡言个,checkup:seeing:diagnose:examine,,
+1063,寝,冖又宀彐爿,sleep,Body,Bodily_Functions
+1064,慎,八十目忄,humility:be careful:discreet:prudent,,
+1065,新,亠十斤木立辛丷,new,Time,
+1066,審,宀田米釆,hearing:judge:trial,,
+1067,震,厂衣辰雨,earthquake,Nature,Weather
+1068,薪,亠十斤木立辛丷艹,fuel:firewood:kindling,,
+1069,親,亠十木立見辛丷,parent,People,Family
+1070,人,,counter for people,Numbers,Counters
+1071,刃,丶刀,blade:sword:edge,,
+1072,仁,二亻,humanity:virtue:benevolence:charity:man:kernel,,
+1073,尽,丶尸,exhaust:use up:run out of:deplete:befriend:serve,,
+1074,迅,十辶,swift:fast,,
+1075,甚,儿甘,tremendously:very:great:exceedingly,,
+1076,陣,車阝,"battle formation, camp",Human_activities,War
+1077,尋,口寸工彐,inquire:fathom:look for,,
+1078,腎,又月臣,kidney,Body,Torso_and_organs
+1079,須,彡貝頁,ought:by all means:necessarily,,
+1080,図,囗斗,"map, diagram",Human_activities,Language_and_Communication
+1081,水,,water,Nature,Natural_Substances
+1082,吹,口欠,blow:breathe:puff:emit:smoke,,
+1083,垂,｜丿,droop:suspend:hang:slouch,,
+1084,炊,欠火,cook:boil,,
+1085,帥,｜口巾,commander:leading troops:governor,,
+1086,粋,十米九,chic:style:purity:essence:pith:cream:elite:choice,,
+1087,衰,亠衣,decline:wane:weaken,,
+1088,推,隹扌,conjecture:infer:guess:suppose:support:push (for),,
+1089,酔,十酉九,drunk:feel sick:poisoned:elated:spellbound,,
+1090,遂,豕丷辶,consummate:accomplish:attain:commit (suicide),,
+1091,睡,｜丿目,sleep,Body,Bodily_Functions
+1092,穂,十心田禾,ear of grain,Food_and_Drink,
+1093,随,丿月辶阝,follow:though:notwithstanding:while:during:both:all:obey:submit to:comply:at the mercy of (the waves),,
+1094,髄,丿冖月骨辶,marrow,Body,Body_General
+1095,枢,匚木,hinge or pivot,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1096,崇,宀山示,adoration or reverence,Emotions_and_Senses,Emotions
+1097,数,夂女攴米,number:strength:fate:law:figures,,
+1098,据,十口尸扌,set:lay a foundation:install:equip:squat down:sit down,,
+1099,杉,彡木,cedar,Nature,Plants_and_Trees
+1100,裾,十口尸衤,cuff or hem,Artificial_Structures_and_Products,Clothing_and_Textiles
+1101,寸,,1/10 Japanese foot (around 3 cm),Numbers,Units_of_Measurement
+1102,瀬,｜貝頁氵,rapids or shallows,Nature,Land_and_Topography
+1103,是,日疋,just so:this:right:justice,,
+1104,井,｜丿二,well:well crib:town:community,,
+1105,世,｜,generation:world:society:public,,
+1106,正,止,correct,Emotions_and_Senses,Judgment
+1107,生,,student,Human_activities,Culture
+1108,成,丿戈,turn into:become:get:grow:elapse:reach,,
+1109,西,,West,Directions_and_Spatial_Relationships,
+1110,声,士尸,voice,Human_activities,Language_and_Communication
+1111,制,丿二巾牛刂,system:law:rule,,
+1112,姓,女生,surname,,
+1113,征,彳止,conquer,Human_activities,War
+1114,性,生忄,sex:gender:nature,,
+1115,青,二亠土月,blue,Physical_Attributes_and_Properties,Colours
+1116,斉,｜丿廾文,adjusted:alike:equal:similar variety of,,
+1117,政,攴止,politics:government,,
+1118,星,日生,star,Nature,Sky
+1119,牲,牛生,animal sacrifice:offering,,
+1120,省,丿小目,focus:government ministry:conserve,,
+1121,凄,冫十女彐,uncanny:weird:threatening:horrible,,
+1122,逝,斤扌辶,departed:die,,
+1123,清,二亠土月青氵,pure:purify:cleanse:exorcise:Manchu dynasty,,
+1124,盛,丿戈皿,boom:prosper:copulate,,
+1125,婿,女月疋,"son-in-law, bridegroom",People,Family
+1126,晴,二亠土日月青,clear or fine weather,Nature,Weather
+1127,勢,丶儿力土九,forces:energy:military strength,,
+1128,聖,口玉耳,sacred,Human_activities,Religion_and_the_Supernatural_World
+1129,誠,丿戈言,sincerity:admonish:warn:prohibit:truth:fidelity,,
+1130,精,二亠土月米青,sperm,Body,Bodily_Functions
+1131,製,巾牛衣刂,made in...:manufacture,,
+1132,誓,斤言扌,vow:swear:pledge,,
+1133,静,亅亠勹土彐月青,quiet,Emotions_and_Senses,Senses
+1134,請,二亠土月言青,solicit:invite:ask,,
+1135,整,｜口攴木止,organize:arranging:tune:tone:meter:key (music),,
+1136,醒,日生酉,awake:be disillusioned:sober up,,
+1137,税,儿口禾丷,tax,Human_activities,Money_and_Commerce
+1138,夕,,evening,Time,Divisions_of_the_Day
+1139,斥,丶斤,reject:retreat:recede:withdraw:repel:repulse,,
+1140,石,口,stone,Nature,Natural_Substances
+1141,赤,土,red,Physical_Attributes_and_Properties,Colours
+1142,昔,｜二日,antiquity,Time,
+1143,析,斤木,chop:divide:tear:analyze,,
+1144,席,巾广,seat:mat:occasion:place,,
+1145,脊,二月癶个,backbone,Body,Torso_and_organs
+1146,隻,又隹,counter for ships,Numbers,Counters
+1147,惜,｜二日忄,regret,Emotions_and_Senses,Emotions
+1148,戚,丿卜小戈,grief,Emotions_and_Senses,Emotions
+1149,責,亠土貝,blame:condemn:censure,,
+1150,跡,亠口止赤足,tracks:mark:print:impression,,
+1151,積,亠土禾貝,volume:product (x*y):acreage:contents:pile up:stack:load:amass,,
+1152,績,亠土糸貝,exploits:achievements:unreeling cocoons,,
+1153,籍,｜亠八土日木竹耒,enroll:domiciliary register:membership,,
+1154,切,刀匕,cut:cutoff:be sharp,,
+1155,折,斤扌,fold:break:fracture:bend:yield:submit,,
+1156,拙,｜山扌,bungling:clumsy:unskillful,,
+1157,窃,儿刀匕宀穴,stealth:steal:secret:private:hushed,,
+1158,接,女立扌,touch:contact:adjoin:piece together,,
+1159,設,殳言,establishment:provision:prepare,,
+1160,雪,彐雨,snow,Nature,Weather
+1161,摂,冫耳扌,vicarious:surrogate:act in addition to:take in:absorb,,
+1162,節,卩竹艮,"tune, melody",Human_activities,Culture
+1163,説,儿口言丷,explain,Human_activities,Language_and_Communication
+1164,舌,口,tongue,Body,Head_and_Neck
+1165,絶,糸色,discontinue:sever:cut off:abstain:interrupt:suppress:be beyond:without match:peerless:unparalleled,,
+1166,千,丿十,"1,000",Numbers,
+1167,川,,river,Nature,Land_and_Topography
+1168,仙,山亻,immortal or sage,Human_activities,Religion_and_the_Supernatural_World
+1169,占,卜口,fortune-telling:divining:forecasting:occupy:hold:have:get:take,,
+1170,先,丿儿土,"ahead, previous",Time,
+1171,宣,宀日,proclaim,Human_activities,Language_and_Communication
+1172,専,十寸田,specialty:exclusive:mainly:solely,,
+1173,泉,水白,water spring,Nature,Land_and_Topography
+1174,浅,丶丿毛氵,shallow,Physical_Attributes_and_Properties,Miscellaneous_properties
+1175,洗,丿儿土氵,wash:inquire into:probe,,
+1176,染,木九氵,dye:color:paint:stain:print,,
+1177,扇,冫戸羽,fan,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1178,栓,木玉个,plug or stopper,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1179,旋,方疋,rotation:go around,,
+1180,船,八口舟,ship,Artificial_Structures_and_Products,Vehicles_and_Machines
+1181,戦,十戈田尚,battle,Human_activities,War
+1182,煎,月丷刂灬,"to boil, roast",Food_and_Drink,Cooking
+1183,羨,欠玉羊丷氵,"envy, jealousy",Emotions_and_Senses,Emotions
+1184,腺,月水白,gland,Body,Body_General
+1185,詮,玉言个,discussion:methods called for:selection:result,,
+1186,践,丶丿口毛足,tread:step on:trample:practice:carry through,,
+1187,箋,戈竹,paper,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1188,銭,丶丿毛金,coin:.01 yen:money,,
+1189,潜,人土日氵,submerge:conceal:hide:lower (voice):hush,,
+1190,線,水白糸,line,Physical_Attributes_and_Properties,Form_and_Shape
+1191,遷,大己襾辶,transition:move:change,,
+1192,選,｜二八己辶,elect:select:choose:prefer,,
+1193,薦,广艹灬,recommend:mat:advise:encourage:offer,,
+1194,繊,土戈糸赤,slender:fine:thin kimono,,
+1195,鮮,玉田羊魚丷灬,fresh:vivid:clear:brilliant:Korea,,
+1196,全,八玉,whole:entire:all:complete:fulfill,,
+1197,前,月丷刂,before,Time,
+1198,善,口玉羊丷,good,Emotions_and_Senses,Judgment
+1199,然,夕犬灬,sort of thing:so:if so:in that case:well,,
+1200,禅,十田尚礻,Zen,Human_activities,Religion_and_the_Supernatural_World
+1201,漸,斤車氵,steadily:gradually advancing:finally:barely,,
+1202,膳,口月玉羊丷,tray or small table,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1203,繕,口玉糸羊丷,darning:repair:mend:trim:tidy up:adjust,,
+1204,狙,｜目犭,aim at:sight:shadow:stalk,,
+1205,阻,｜目阝,thwart:separate from:prevent:obstruct:deter:impede,,
+1206,祖,｜目礻,ancestor,People,Family
+1207,租,｜目禾,tax,Human_activities,Money_and_Commerce
+1208,素,亠土糸,elementary:principle:naked:uncovered,,
+1209,措,｜二日扌,set aside:give up:suspend:discontinue:lay aside:except,,
+1210,粗,｜目米,coarse:rough:rugged,,
+1211,組,｜目糸,"association, assemble",People,Groups
+1212,疎,｜口木止疋,alienate:rough:neglect:shun:sparse:penetrate,,
+1213,訴,丶斤言,accusation:sue:complain of pain:appeal to,,
+1214,塑,土屮月丷,model:molding,,
+1215,遡,屮月丷辶,go upstream:retrace the past,,
+1216,礎,口木疋石,cornerstone:foundation stone,,
+1217,双,丶又,pair,Numbers,Counting_&_Sequence
+1218,壮,士爿,robust:manhood:prosperity,,
+1219,早,十日,early,Time,
+1220,争,亅勹彐,contend:dispute:argue,,
+1221,走,土,run,Body,Actions
+1222,奏,｜丿二大禾,play music:speak to a ruler:complete,,
+1223,相,木目,inter-:mutual:together:each other:minister of state:councillor:aspect:phase:physiognomy,,
+1224,荘,士爿艹,villa,Artificial_Structures_and_Products,Cities
+1225,草,十日艹,grass,Nature,Plants_and_Trees
+1226,送,大丷辶,escort:send,,
+1227,倉,丿口个,godown:warehouse:storehouse:cellar:treasury,,
+1228,捜,｜又日田扌,search:look for:locate,,
+1229,挿,｜丿十日田扌,insert:put in:graft:wear (sword),,
+1230,桑,又木,mulberry,Nature,Plants_and_Trees
+1231,巣,木田尚,nest:rookery:hive:cobweb:den,,
+1232,掃,冖巾彐扌,sweep:brush,,
+1233,曹,｜日,office:official:comrade:fellow,,
+1234,曽,日田丷,formerly,Time,
+1235,爽,亠人,refreshing:bracing:resonant:sweet:clear,,
+1236,窓,儿厶宀心穴,window:pane,,
+1237,創,口个刂,genesis:wound:injury:hurt:start:originate,,
+1238,喪,｜口衣,miss:mourning,,
+1239,痩,又疒,weight loss,Body,Health
+1240,葬,匕夕廾艹,interment:bury:shelve,,
+1241,装,士爿衣,attire,Artificial_Structures_and_Products,Clothing_and_Textiles
+1242,僧,日田亻丷,Buddhist monk or priest,Human_activities,Religion_and_the_Supernatural_World
+1243,想,心木目,concept:think:idea:thought,,
+1244,層,尸日田丷,stratum:social class:layer:story:floor,,
+1245,総,八厶心糸,general:whole:all:full:total,,
+1246,遭,｜日辶,encounter:meet:party:association:interview:join,,
+1247,槽,｜日木,tank,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1248,踪,口宀示足,remains:clue:footprint,,
+1249,操,口木扌品,maneuver:manipulate:operate:steer:chastity:virginity:fidelity,,
+1250,燥,口木火品,parch:dry up,,
+1251,霜,木目雨,frost,Nature,Weather
+1252,騒,又虫馬,boisterous:make noise:clamor:disturb:excite,,
+1253,藻,口木氵艹品,algae or seaweed,Nature,Plants_and_Trees
+1254,造,丿口土辶,create:make:structure:physique,,
+1255,像,勹口豕亻,statue:picture:image:figure:portrait,,
+1256,増,土日田丷,to increase,Numbers,Calculations
+1257,憎,日田丷忄,hate,Emotions_and_Senses,Emotions
+1258,蔵,丿戈臣艹,storehouse:hide:own:have:possess,,
+1259,贈,日田貝丷,presents:send:give to:award to:confer on:presenting something,,
+1260,臓,丿戈月臣艹,entrails,Body,Torso_and_organs
+1261,即,卩艮,instant:namely:as is:conform:agree:adapt,,
+1262,束,｜八口木,bundle:sheaf:ream:tie in bundles:govern:manage:control,,
+1263,足,口,"leg, foot",Body,Limbs
+1264,促,口足亻,stimulate:urge:press:demand:incite,,
+1265,則,貝刂,rule:follow:based on:model after,,
+1266,息,心自,breath,Body,Bodily_Functions
+1267,捉,口足扌,catch:capture,,
+1268,速,｜八口木辶,quick:fast,,
+1269,側,貝亻刂,side,Physical_Attributes_and_Properties,Form_and_Shape
+1270,測,貝刂氵,fathom:plan:scheme:measure,,
+1271,俗,八口谷个亻,vulgar:customs:manners:worldliness:mundane things,,
+1272,族,方矢,tribe:family,,
+1273,属,丿尸禸,belong:genus:subordinate official:affiliated,,
+1274,賊,十戈貝,burglar:rebel:traitor:robber,,
+1275,続,儿冖士糸,continue:series:sequel,,
+1276,卒,亠人十,graduate,Human_activities,Culture
+1277,率,亠冫十幺玄,ratio:rate:proportion:%:factor:lead:spearhead:command,,
+1278,存,｜丿子,exist:suppose:be aware of:believe:feel,,
+1279,村,寸木,village,Artificial_Structures_and_Products,Cities
+1280,孫,丿子糸,grandchild,People,Family
+1281,尊,寸酉丷,revered:valuable:precious:noble:exalted,,
+1282,損,口貝扌,damage:loss:disadvantage:hurt:injure,,
+1283,遜,丿子糸辶,humble:modest,,
+1284,他,亻也,other:another:the others,,
+1285,多,夕,many,Numbers,Counting_&_Sequence
+1286,汰,丶大氵,washing:sieving:filtering:weeding out:luxury,,
+1287,打,亅扌,strike:hit:knock:pound:dozen,,
+1288,妥,女爪,gentle:peace:depravity,,
+1289,唾,｜丿口,saliva,Body,Bodily_Functions
+1290,堕,丿土月阝,degenerate:descend to:lapse into,,
+1291,惰,丿工月忄,lazy:laziness,,
+1292,駄,丶大馬,burdensome:pack horse:horse load:send by horse:trivial:worthless,,
+1293,太,丶大,fat or thick,Physical_Attributes_and_Properties,Miscellaneous_properties
+1294,対,寸文,vis-a-vis:opposite:even:equal:versus:anti-:compare,,
+1295,体,木亻,body:substance:object:reality:counter for images,,
+1296,耐,寸而,-proof:enduring,,
+1297,待,土寸彳,wait:depend on,,
+1298,怠,厶口心,neglect:laziness,,
+1299,胎,厶口月,foetus,Body,Bodily_Functions
+1300,退,艮辶,retreat:withdraw:retire:resign:repel:expel:reject,,
+1301,帯,｜冖巾,belt,Artificial_Structures_and_Products,Clothing_and_Textiles
+1302,泰,｜丿二水,peaceful:calm:peace:easy:Thailand:extreme:excessive:great,,
+1303,堆,土隹,piled high,,
+1304,袋,弋衣亻,bag,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1305,逮,彐水隶辶,apprehend:chase,,
+1306,替,二亠人大日,exchange:spare:substitute:per-,,
+1307,貸,弋貝亻,lend,,
+1308,隊,豕丷阝,regiment:party:company:squad,,
+1309,滞,冖巾氵,stagnate:be delayed:overdue:arrears,,
+1310,態,匕厶心月,attitude:condition:figure:appearance:voice (of verbs),,
+1311,戴,｜二八土戈田,be crowned with:live under (a ruler):receive,,
+1312,大,,large,Physical_Attributes_and_Properties,Form_and_Shape
+1313,代,弋亻,"substitute:change:convert:replace:period:age:counter for decades of ages, eras, etc.:generation:charge:rate:fee",,
+1314,台,厶口,counter for machines and vehicles,Numbers,Counters
+1315,第,弓竹,ordinal marker,Numbers,Counting_&_Sequence
+1316,題,日疋貝頁,topic,Human_activities,Language_and_Communication
+1317,滝,田立氵竜,waterfall,Nature,Land_and_Topography
+1318,宅,丿乙宀,home:house:residence:our house:my husband,,
+1319,択,尸扌,choose:select:elect:prefer,,
+1320,沢,尸氵,swamp,Nature,Land_and_Topography
+1321,卓,十卜日,table,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1322,拓,口石扌,clear (the land):open:break up (land),,
+1323,託,丿乙言,consign:requesting:entrusting with:pretend:hint,,
+1324,濯,彐隹氵,laundry:wash:pour on:rinse,,
+1325,諾,丿口言艹,consent:assent:agreement,,
+1326,濁,勹网虫氵,voiced:uncleanness:wrong:nigori:impurity,,
+1327,但,日亻,however:but,,
+1328,達,土玉羊丷辶,accomplished:reach:arrive:attain,,
+1329,脱,儿口月丷,undress:removing:escape from:get rid of:be left out:take off,,
+1330,奪,大寸隹,rob:take by force:snatch away:dispossess:plunder:usurp,,
+1331,棚,月木,shelf:ledge:rack:mount:mantle:trellis,,
+1332,誰,言隹,who:someone:somebody,,
+1333,丹,丶丿亅,cinnabar,Nature,Natural_Substances
+1334,旦,日,sunrise,Time,Divisions_of_the_Day
+1335,担,日扌,shouldering:carry:raise:bear,,
+1336,単,十田尚,simple:one:single:merely,,
+1337,炭,厂山火,coal,Nature,Natural_Substances
+1338,胆,日月,gall bladder,Body,Torso_and_organs
+1339,探,儿冖木扌,grope:search:look for,,
+1340,淡,火氵,thin:faint:pale:fleeting,,
+1341,短,口矢豆丷,short,Physical_Attributes_and_Properties,Form_and_Shape
+1342,嘆,丿口艹,sigh:lament:moan:grieve:sigh of admiration,,
+1343,端,山立而,"end, tip",Physical_Attributes_and_Properties,Form_and_Shape
+1344,綻,宀疋糸,be rent:ripped:unravel:run:begin to open:smile,,
+1345,誕,丿廴止言,nativity:be born:declension:lie:be arbitrary,,
+1346,鍛,殳金,forge:discipline:train,,
+1347,団,囗寸,group:association,,
+1348,男,力田,man,People,General
+1349,段,｜殳,grade:steps:stairs,,
+1350,断,｜斤米,severance:decline:refuse:apologize:warn:dismiss:prohibit:decision:judgement:cutting,,
+1351,弾,十弓田尚,bullet:twang:flip:snap,,
+1352,暖,丿又日爪,warm,Physical_Attributes_and_Properties,Miscellaneous_properties
+1353,談,火言,discuss,Human_activities,Language_and_Communication
+1354,壇,亠口囗土日,podium:stage:rostrum:terrace,,
+1355,地,土也,ground,Nature,Natural_Substances
+1356,池,氵也,pond,Nature,Land_and_Topography
+1357,知,口矢,know,Human_activities,Culture
+1358,値,｜十目亻,price,Human_activities,Money_and_Commerce
+1359,恥,心耳,shame,Emotions_and_Senses,Emotions
+1360,致,厶土攴至,doth:do:send:forward:cause:exert:incur:engage,,
+1361,遅,尸玉羊丷辶,late,Time,
+1362,痴,口疒矢,stupid:foolish,,
+1363,稚,禾隹,immature:young,,
+1364,置,十目网,placement:put:set:deposit:leave behind:keep:employ:pawn,,
+1365,緻,厶土攴糸至,fine,Physical_Attributes_and_Properties,Miscellaneous_properties
+1366,竹,,bamboo,Nature,Plants_and_Trees
+1367,畜,亠幺玄田,livestock,Nature,Animals
+1368,逐,豕辶,pursue:drive away:chase:accomplish:attain:commit,,
+1369,蓄,亠幺玄田艹,amass:raise:hoard:store,,
+1370,築,丶几工木竹,fabricate:build:construct,,
+1371,秩,丿人土大禾,regularity:salary:order,,
+1372,窒,儿厶土宀穴至,nitrogen,Nature,Natural_Substances
+1373,茶,木个艹,tea,Food_and_Drink,
+1374,着,丿玉目羊丷,to wear,Artificial_Structures_and_Products,Clothing_and_Textiles
+1375,嫡,亠冂十口女立丷啇,legitimate wife/family,People,Family
+1376,中,｜口,middle,Directions_and_Spatial_Relationships,
+1377,仲,｜口亻,intermediary,People,Roles_and_status
+1378,虫,,insect:bug:temper,,
+1379,沖,｜口氵,"high seas, offshore",Nature,Land_and_Topography
+1380,宙,｜宀日田,mid-air:air:space:sky:memorization:interval of time,,
+1381,忠,｜口心,loyalty:fidelity:faithfulness,,
+1382,抽,｜日田扌,pluck:pull:extract:excel,,
+1383,注,丶玉氵,pour:irrigate:shed (tears):flow into:concentrate on:notes:comment:annotate,,
+1384,昼,丶尸日,daytime,Time,Divisions_of_the_Day
+1385,柱,丶木玉,pillar:post:cylinder:support,,
+1386,衷,十口衣,inmost:heart:mind:inside,,
+1387,酎,寸酉,sake,Food_and_Drink,
+1388,鋳,丿亠土寸金,casting,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1389,駐,丶玉馬,stop-over:reside in:resident,,
+1390,著,日老艹,renowned:publish:write:remarkable:phenomenal:put on:don:wear:arrival:finish (race):counter for suits of clothing:literary work,,
+1391,貯,亅宀貝,savings,Human_activities,Money_and_Commerce
+1392,丁,亅,miscellaneous counter,Numbers,Counters
+1393,弔,｜弓,condolences:mourning:funeral,,
+1394,庁,亅广,government office,,
+1395,兆,儿冫,"1,000,000,000,000",Numbers,
+1396,町,亅田,town,Artificial_Structures_and_Products,Cities
+1397,長,,leader,People,Roles_and_status
+1398,挑,儿冫扌,challenge:contend for:make love to,,
+1399,帳,巾長,notebook:account book:album:curtain:veil:net:tent,,
+1400,張,弓長,lengthen:counter for bows & stringed instruments:stretch:spread:put up (tent),,
+1401,彫,冂口土彡,carve:engrave:chisel,,
+1402,眺,儿冫目,stare:watch:look at:see:scrutinize,,
+1403,釣,丶勹金,angling:fish:catch:allure:ensnare,,
+1404,頂,亅貝頁,place on the head:receive:top of head:top:summit:peak,,
+1405,鳥,灬,bird:chicken,,
+1406,朝,十日月,morning,Time,Divisions_of_the_Day
+1407,貼,卜口貝,stick:paste:apply,,
+1408,超,刀口土走,transcend:super-:ultra-,,
+1409,腸,日月勿,intestines,Body,Torso_and_organs
+1410,跳,儿冫口足,hop:leap up:spring:jerk:prance:buck:splash:sputter:snap,,
+1411,徴,山彳攴玉,indications:sign:omen:symptom:collect:seek:refer to:question,,
+1412,嘲,十口日月,ridicule:insult,,
+1413,潮,十日月氵,tide,Nature,Weather
+1414,澄,口癶豆丷氵,lucidity:be clear:clear:clarify:settle:strain:look grave,,
+1415,調,冂口土言,tune:tone:meter:key (music):writing style:prepare:exorcise:investigate:harmonize:mediate,,
+1416,聴,十心网耳,listen,Emotions_and_Senses,Senses
+1417,懲,山彳心攴玉,penal:chastise:punish:discipline,,
+1418,直,｜十目,straightaway:honesty:frankness:fix:repair,,
+1419,勅,｜力口木,imperial order,,
+1420,捗,丿小止扌,make progress,,
+1421,沈,尢氵,sink:be submerged:subside:be depressed:aloes,,
+1422,珍,彡玉个,rare:curious:strange,,
+1423,朕,人大月丷,majestic plural:imperial we,,
+1424,陳,｜日木田阝,exhibit:state:relate:explain,,
+1425,賃,玉貝亻,fee or wages,Human_activities,Money_and_Commerce
+1426,鎮,八十目金丷,tranquilize:ancient peace-preservation centers,,
+1427,追,｜口辶,chase:drive away:follow:pursue:meanwhile,,
+1428,椎,木隹,backbone,Body,Torso_and_organs
+1429,墜,土豕丷阝,to fall,Directions_and_Spatial_Relationships,Movement
+1430,通,用マ辶,"traffic:pass through:avenue:commute:counter for letters, notes, documents, etc.",,
+1431,痛,用疒マ,pain,Body,Health
+1432,塚,冖土豕,hillock:mound,,
+1433,漬,亠土貝氵,pickle,Food_and_Drink,
+1434,坪,土干丷,two-mat area (around 3.3 m²),Numbers,Units_of_Measurement
+1435,爪,,nail,Body,Limbs
+1436,鶴,宀隹鳥灬,crane,Nature,Animals
+1437,低,氏亻,lower:short:humble,,
+1438,呈,口玉,display:offer:present:send:exhibit,,
+1439,廷,士廴玉,courts:imperial court:government office,,
+1440,弟,｜丿弓丷,younger brother,People,Family
+1441,定,宀疋,determine:fix:establish:decide,,
+1442,底,广氏,bottom,Directions_and_Spatial_Relationships,
+1443,抵,氏扌,resist:reach:touch,,
+1444,邸,氏阝,residence:mansion,,
+1445,亭,亅亠冖口,pavilion:restaurant:mansion:arbor:cottage:vaudeville:music hall:stage name,,
+1446,貞,卜貝,upright:chastity:constancy:righteousness,,
+1447,帝,亠冖巾立丷,Mikado or emperor,People,Roles_and_status
+1448,訂,亅言,revise:correct:decide,,
+1449,庭,广廴玉,courtyard:garden:yard,,
+1450,逓,｜二厂巾辶,relay:in turn:sending,,
+1451,停,亅亠冖口亻,halt:stopping,,
+1452,偵,卜貝亻,spy,,
+1453,堤,土日疋,embankment,Nature,Land_and_Topography
+1454,提,日疋扌,propose:take along:carry in hand,,
+1455,程,口玉禾,extent:degree:law:formula:distance:limits:amount,,
+1456,艇,廴玉舟,ship,Artificial_Structures_and_Products,Vehicles_and_Machines
+1457,締,亠冖巾立糸丷,tighten:tie:shut:lock:fasten,,
+1458,諦,亠冖巾立言丷,truth:clarity:abandon:give up,,
+1459,泥,匕尸氵,mud,Nature,Natural_Substances
+1460,的,丶勹白,bull's eye:mark:target:object:adjective ending,,
+1461,笛,｜日田竹,flute,Human_activities,Culture
+1462,摘,亠冂十口立丷扌啇,pinch:pick:pluck:trim:clip:summarize,,
+1463,滴,亠冂十口立丷氵啇,drip:drop,,
+1464,適,亠冂十口立丷辶啇,suitable:occasional:rare:qualified:capable,,
+1465,敵,亠冂十口攴立丷啇,enemy,Human_activities,War
+1466,溺,冫弓氵,drown:indulge,,
+1467,迭,｜丿大牛矢辶,transfer:alternation,,
+1468,哲,口斤扌,philosophy:clear,,
+1469,鉄,丿二大矢金,iron,Nature,Natural_Substances
+1470,徹,亠厶彳攴月,penetrate:clear:pierce:strike home:sit up (all night),,
+1471,撤,亠厶攴月扌,remove:withdraw:disarm:dismantle:reject:exclude,,
+1472,天,大,"heaven, sky",Nature,Sky
+1473,典,｜八日,code:ceremony:law:rule,,
+1474,店,卜口广,store:shop,,
+1475,点,卜口灬,spot:point:mark:speck:decimal point,,
+1476,展,｜二尸衣,unfold:expand,,
+1477,添,丿大心氵,annexed:accompany:marry:suit:meet:satisfy:attach:append:garnish:imitate,,
+1478,転,二厶車,revolve:turn around:change,,
+1479,塡,,fill in:fill up:make good,,
+1480,田,,rice paddy,Nature,Land_and_Topography
+1481,伝,二厶亻,transmit,Human_activities,Language_and_Communication
+1482,殿,｜二八尸殳,Mr.:hall:mansion:palace:temple:lord,,
+1483,電,乙田雨,electricity,Nature,Weather
+1484,斗,,(around 18 L),Numbers,Units_of_Measurement
+1485,吐,口土,spit:vomit:belch:confess:tell (lies),,
+1486,妬,口女石,"envy, jealousy",Emotions_and_Senses,Emotions
+1487,徒,土彳走,gang or junior,People,General
+1488,途,亅八木个辶,route:way:road,,
+1489,都,日老阝,metropolis,Artificial_Structures_and_Products,Cities
+1490,渡,又广氵,transit:ford:ferry:cross:import:deliver:diameter:migrate,,
+1491,塗,亅八土木个氵,paint,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1492,賭,日老貝,gamble,Human_activities,Money_and_Commerce
+1493,土,,earth,Nature,Natural_Substances
+1494,奴,又女,"servant, fellow",People,Roles_and_status
+1495,努,力又女,toil:diligent:as much as possible,,
+1496,度,又广,number of times,Time,
+1497,怒,又女心,anger,Emotions_and_Senses,Emotions
+1498,刀,,sword:saber:knife,,
+1499,冬,丶夂攴,Winter,Time,Seasons
+1500,灯,亅火,lamp,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1501,当,彐尚,hit:right:appropriate:himself,,
+1502,投,殳扌,throw:discard:abandon:launch into:join:invest in:hurl:give up:sell at a loss,,
+1503,豆,口丷,bean,Food_and_Drink,
+1504,東,｜日木田,East,Directions_and_Spatial_Relationships,
+1505,到,厶土至刂,arrival:proceed:reach:attain:result in,,
+1506,逃,儿冫辶,escape:flee:shirk:evade:set free,,
+1507,倒,厶土至亻刂,to reverse,Directions_and_Spatial_Relationships,Movement
+1508,凍,｜冫日木田,frozen:congeal:refrigerate,,
+1509,唐,｜口广彐,T'ang:China:foreign,,
+1510,島,山白鳥,island,Nature,Land_and_Topography
+1511,桃,儿冫木,peach,Nature,Plants_and_Trees
+1512,討,寸言,attack,Human_activities,War
+1513,透,丿禾乃辶,transparent:permeate:filter:penetrate,,
+1514,党,儿冖口尚,party:faction:clique,,
+1515,悼,十卜日忄,lament:grieve over,,
+1516,盗,冫欠皿,steal:rob:pilfer,,
+1517,陶,勹缶阝,pottery,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1518,塔,口土个艹,pagoda:tower:steeple,,
+1519,搭,口个扌艹,to board or load,Artificial_Structures_and_Products,Vehicles_and_Machines
+1520,棟,｜日木田,ridgepole:ridge,,
+1521,湯,｜日氵勿,hot water:bath:hot spring,,
+1522,痘,口疒豆丷,pox,Body,Health
+1523,登,口癶豆丷,ascend:climb up,,
+1524,答,口竹个,answer,Human_activities,Language_and_Communication
+1525,等,土寸竹,etc.:and so forth:class (first):quality:equal:similar,,
+1526,筒,冂口竹,cylinder:pipe:tube:gun barrel:sleeve,,
+1527,統,亠儿厶糸,overall:relationship:ruling:governing,,
+1528,稲,｜日爪禾,rice plant,Nature,Plants_and_Trees
+1529,踏,口日水足,step:trample:carry through:appraise:evade payment,,
+1530,糖,口广米,sugar,Food_and_Drink,
+1531,頭,口豆貝頁丷,"counter for animals, large",Numbers,Counters
+1532,謄,｜月言,mimeograph:copy,,
+1533,藤,｜月水艹,wisteria,Nature,Plants_and_Trees
+1534,闘,口寸豆門丷,battle,Human_activities,War
+1535,騰,月馬丷,leaping up:jumping up:rising:advancing:going,,
+1536,同,冂口,same:agree:equal,,
+1537,洞,冂口氵,den:cave:excavation,,
+1538,胴,冂口月,torso,Body,Torso_and_organs
+1539,動,｜力日里,move:motion:change:confusion:shift:shake,,
+1540,堂,冖口土尚,public chamber:hall,,
+1541,童,立里,juvenile,People,General
+1542,道,自首丷辶,road-way:street:district:journey:course:moral:teachings,,
+1543,働,｜力日亻,work,Human_activities,Money_and_Commerce
+1544,銅,冂口金,copper,Nature,Natural_Substances
+1545,導,寸自丷辶,guidance:leading:conduct:usher,,
+1546,瞳,目立里,pupil,Body,Head_and_Neck
+1547,峠,｜卜山,mountain pass,Nature,Land_and_Topography
+1548,匿,丿匚口艹,hide:shelter:shield,,
+1549,特,土寸牛,special,,
+1550,得,寸彳日,gain:get:find:earn:acquire:can:may:able to:profit:advantage:benefit,,
+1551,督,卜又小目,supervisor,People,Roles_and_status
+1552,徳,十彳心网,benevolence:virtue:goodness:commanding respect,,
+1553,篤,竹馬鳥灬,fervent:kind:cordial:serious:deliberate,,
+1554,毒,亠土毋,poison:virus:venom:germ:harm:injury:spite,,
+1555,独,虫犭,single:alone:spontaneously:Germany,,
+1556,読,儿冖士士言,read,Human_activities,Language_and_Communication
+1557,栃,厂斤木,horse chestnut,Nature,Plants_and_Trees
+1558,凸,｜冂凵,convex,Physical_Attributes_and_Properties,Form_and_Shape
+1559,突,儿大宀穴,stab:protruding:thrust:pierce:prick:collision:sudden,,
+1560,届,｜尸日田,deliver:reach:arrive:report:notify:forward,,
+1561,屯,丿乙凵,barracks,Human_activities,War
+1562,豚,月豕,pig,Nature,Animals
+1563,頓,貝頁屯,suddenly:immediately:in a hurry:arrange:stay in place:bow:kowtow,,
+1564,貪,貝个,covet:indulge in,,
+1565,鈍,金屯,dull:slow:foolish:blunt,,
+1566,曇,二厶日雨,cloudy,Nature,Weather
+1567,丼,｜丶丿二廾井,bowl,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1568,那,二刀阝,what?,,
+1569,奈,大示,Nara:what?,,
+1570,内,人冂,inside,Directions_and_Spatial_Relationships,
+1571,梨,木禾刂,pear,Nature,Plants_and_Trees
+1572,謎,米言辶,riddle:puzzle:enigma:hint:tip,,
+1573,鍋,冂口金,pot,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1574,南,冂十干丷,South,Directions_and_Spatial_Relationships,
+1575,軟,欠車,soft,Physical_Attributes_and_Properties,Miscellaneous_properties
+1576,難,亠口大隹艹,difficult:impossible:trouble:accident:defect,,
+1577,二,,2,Numbers,
+1578,尼,匕尸,Buddhist nun,Human_activities,Religion_and_the_Supernatural_World
+1579,弐,二弋,II:two:second,,
+1580,匂,勹匕,fragrance,Emotions_and_Senses,Senses
+1581,肉,人冂,meat,Food_and_Drink,
+1582,虹,工虫,rainbow,Nature,Weather
+1583,日,,sun,Nature,Sky
+1584,入,,in,Directions_and_Spatial_Relationships,
+1585,乳,乙子爪,milk,Food_and_Drink,
+1586,尿,尸水,urine,Body,Bodily_Functions
+1587,任,丿士玉亻,responsibility:duty:term:entrust to:appoint,,
+1588,妊,丿士女玉,pregnant,Body,Bodily_Functions
+1589,忍,丶刀心,endure:bear:put up with:conceal:secrete:spy:sneak,,
+1590,認,丶刀心言,acknowledge:witness:discern:recognize:appreciate:believe,,
+1591,寧,亅宀心网,rather:preferably:peaceful:quiet:tranquility,,
+1592,熱,丶儿土九灬,heat,Nature,Weather
+1593,年,丿干,year,Time,Divisions_of_the_Year
+1594,念,｜心个,wish:sense:idea:thought:feeling:desire:attention,,
+1595,捻,｜心个扌,twirl:twist:play with,,
+1596,粘,卜口米,sticky,Physical_Attributes_and_Properties,Miscellaneous_properties
+1597,燃,夕火犬灬,burn:blaze:glow,,
+1598,悩,凵尚忄,trouble:worry:in pain:distress:illness,,
+1599,納,人冂糸,settlement:obtain:reap:pay:supply:store,,
+1600,能,匕厶月,ability:talent:skill:capacity,,
+1601,脳,凵月尚,brain,Body,Head_and_Neck
+1602,農,｜厂日衣辰,agriculture:farmers,,
+1603,濃,｜厂日衣辰氵,concentrated,Physical_Attributes_and_Properties,Miscellaneous_properties
+1604,把,扌巴,grasp:faggot:bunch:counter for bundles,,
+1605,波,又皮氵,wave,Nature,Weather
+1606,派,厂斤氵,religious sect,Human_activities,Religion_and_the_Supernatural_World
+1607,破,又口皮石,rend:rip:tear:break:destroy:defeat:frustrate,,
+1608,覇,月襾革,hegemony:supremacy:leadership:champion,,
+1609,馬,,horse,Nature,Animals
+1610,婆,又女皮氵,grandmother,People,Family
+1611,罵,网馬,abuse:insult,,
+1612,拝,｜干扌,worship:adore:pray to,,
+1613,杯,｜丿木礻,cup,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1614,背,匕月爿,back,Body,Torso_and_organs
+1615,肺,亠巾月,lung,Body,Torso_and_organs
+1616,俳,非亻,haiku,Human_activities,Culture
+1617,配,己酉,distribute:spouse:exile:rationing,,
+1618,排,非扌,repudiate:exclude:expel:reject:line up:arrange,,
+1619,敗,攴貝,failure:defeat:reversal,,
+1620,廃,儿广癶,abolish:obsolete:cessation:discarding:abandon,,
+1621,輩,車非,"fellow, comrade",People,Roles_and_status
+1622,売,儿冖士,sell,Human_activities,Money_and_Commerce
+1623,倍,口立亻,"to double, times",Numbers,Calculations
+1624,梅,木毋,plum,Nature,Plants_and_Trees
+1625,培,口土立,cultivate:foster,,
+1626,陪,口立阝,obeisance:follow:accompany:attend on,,
+1627,媒,女木甘,mediator:go-between,,
+1628,買,网貝,buy,Human_activities,Money_and_Commerce
+1629,賠,口立貝,compensation:indemnify,,
+1630,白,,white,Physical_Attributes_and_Properties,Colours
+1631,伯,白亻,"aunt, uncle",People,Family
+1632,拍,白扌,"clap, beat (music)",Human_activities,Culture
+1633,泊,白氵,overnight stay:put up at:ride at anchor,,
+1634,迫,白辶,urge:force:imminent:spur on,,
+1635,剝,,,,
+1636,舶,白舟,oceangoing ship,Artificial_Structures_and_Products,Vehicles_and_Machines
+1637,博,丶十寸田,Dr.:command:esteem:win acclaim:Ph.D.:exposition:fair,,
+1638,薄,丶十寸田氵艹,dilute or thin,Physical_Attributes_and_Properties,Miscellaneous_properties
+1639,麦,夂,barley or wheat,Food_and_Drink,
+1640,漠,大日氵艹,desert,Nature,Land_and_Topography
+1641,縛,丶十寸田糸,truss:arrest:bind:tie:restrain,,
+1642,爆,｜八日水火井,bomb:burst open:pop:split,,
+1643,箱,木目竹,box,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1644,箸,日竹老,chopsticks,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1645,畑,火田,field,Nature,Land_and_Topography
+1646,肌,几月,skin,Body,Body_General
+1647,八,,8,Numbers,
+1648,鉢,木金,bowl,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1649,発,二儿癶,departure:discharge:publish:emit:start from:disclose:counter for gunshots,,
+1650,髪,夂彡長髟,hair,Body,Head_and_Neck
+1651,伐,戈亻,attack or punish,Human_activities,War
+1652,抜,亠又夂扌,slip out:extract:pull out:pilfer:quote:remove:omit,,
+1653,罰,网言刂,penalty:punishment,,
+1654,閥,戈門亻,clique:lineage:pedigree:faction:clan,,
+1655,反,厂又,anti-,,
+1656,半,｜二十丷,half,Numbers,Counting_&_Sequence
+1657,氾,乙卩氵,spread out:wide,,
+1658,犯,乙卩犭,crime:sin:offense,,
+1659,帆,丶几巾,sail,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1660,汎,丶几氵,pan-,,
+1661,伴,｜二十亻丷,consort:accompany:bring with:companion,,
+1662,判,｜二十丷刂,judgement:signature:stamp:seal,,
+1663,坂,厂又土,slope,Nature,Land_and_Topography
+1664,阪,厂又阝,heights:slope,,
+1665,板,厂又木,board or plate,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1666,版,厂又片,printing block:printing plate:edition:impression:label,,
+1667,班,厂土玉,squad:corps:unit:group,,
+1668,畔,｜二十田丷,levee,Nature,Land_and_Topography
+1669,般,殳舟,carrier:carry:all:general:sort:kind,,
+1670,販,厂又貝,marketing,Human_activities,Money_and_Commerce
+1671,斑,文玉,spot:blemish:speck:patches,,
+1672,飯,厂又食,"cooked rice, meal",Food_and_Drink,
+1673,搬,殳舟扌,to transport,Directions_and_Spatial_Relationships,Movement
+1674,煩,火貝頁,"anxiety, annoyance",Emotions_and_Senses,Emotions
+1675,頒,八刀貝頁,distribute:disseminate:partition:understand,,
+1676,範,乙卩竹車,pattern:example:model,,
+1677,繁,攴毋糸,luxuriant:thick:overgrown:frequency:complexity:trouble,,
+1678,藩,田米釆氵艹,clan:enclosure,,
+1679,晩,儿日免,evening,Time,Divisions_of_the_Day
+1680,番,田米釆,numerical order,Numbers,Counting_&_Sequence
+1681,蛮,亠虫,barbarian,,
+1682,盤,殳皿舟,board or disk,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1683,比,,compare:race:ratio:Philippines,,
+1684,皮,又,skin,Body,Body_General
+1685,妃,女己,"princess, queen",People,Roles_and_status
+1686,否,丿口,negate:no:noes:refuse:decline:deny,,
+1687,批,比扌,criticism:strike,,
+1688,彼,又彳皮,he,People,General
+1689,披,又皮扌,expose:open,,
+1690,肥,月巴,fertilizer:get fat:fertile:manure:pamper,,
+1691,非,,un-:mistake:negative:injustice:non-,,
+1692,卑,十田,lowly:base:vile:vulgar,,
+1693,飛,,fly:skip (pages):scatter,,
+1694,疲,又疒皮,tired,Body,Health
+1695,秘,丶丿心禾,secret:conceal,,
+1696,被,又皮衤,incur:cover:veil:brood over:shelter:wear:put on:be exposed (film):receiving,,
+1697,悲,心非,grieve:sad:deplore:regret,,
+1698,扉,戸非,front door:title page:front page,,
+1699,費,｜弓貝,expense,Human_activities,Money_and_Commerce
+1700,碑,十口田石,tombstone:monument,,
+1701,罷,匕厶月网,quit:stop:leave:withdraw:go,,
+1702,避,十口尸立辛辶,evade:avoid:avert:ward off:shirk:shun,,
+1703,尾,尸毛,tail,Nature,Animals
+1704,眉,｜尸目,eyebrow,Body,Head_and_Neck
+1705,美,大玉羊丷,beauty:beautiful,,
+1706,備,厂用亻艹,equip:provision:preparation,,
+1707,微,山彳攴,delicate,Physical_Attributes_and_Properties,Miscellaneous_properties
+1708,鼻,廾田自,nose,Body,Head_and_Neck
+1709,膝,月木水个,knee,Body,Limbs
+1710,肘,寸月,elbow,Body,Limbs
+1711,匹,儿匚,counter for animals,Numbers,Counters
+1712,必,丿心,invariably:certain:inevitable,,
+1713,泌,丶丿心氵,ooze:flow:soak in:penetrate:secrete,,
+1714,筆,竹聿,"writing, brush",Human_activities,Language_and_Communication
+1715,姫,女臣,princess,People,Roles_and_status
+1716,百,白,100,Numbers,
+1717,氷,丶水,ice,Nature,Natural_Substances
+1718,表,士衣,express,Human_activities,Language_and_Communication
+1719,俵,士衣亻,straw bag or sack,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1720,票,示襾,ballot:label:ticket:sign,,
+1721,評,｜二言丷,evaluate:criticism:comment,,
+1722,漂,示襾氵,drift:float (on liquid),,
+1723,標,木示襾,signpost:seal:mark:stamp:imprint:symbol:emblem:trademark:evidence:souvenir:target,,
+1724,苗,田艹,seedling,Nature,Plants_and_Trees
+1725,秒,丿小禾,second,Time,Divisions_of_the_Day
+1726,病,人冂疒,illness,Body,Health
+1727,描,田扌艹,sketch:compose:write:draw:paint,,
+1728,猫,田犭艹,cat,Nature,Animals
+1729,品,口,article,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1730,浜,八斤氵,beach,Nature,Land_and_Topography
+1731,貧,八刀貝,poverty:poor,,
+1732,賓,丿宀小貝,"guest, VIP",People,Roles_and_status
+1733,頻,丿小止貝頁,repeatedly:recur,,
+1734,敏,攴毋,cleverness:agile:alert,,
+1735,瓶,瓦丷,bottle or jar,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1736,不,｜丶丿,negative:non-:bad:ugly:clumsy,,
+1737,夫,二人大,husband or man,People,Roles_and_status
+1738,父,,father,People,Family
+1739,付,寸亻,adhere:attach:refer to:append,,
+1740,布,丿巾,linen:cloth:spread:distribute,,
+1741,扶,二人大扌,aid:help:assist,,
+1742,府,寸广亻,borough:urban prefecture:govt office:representative body:storehouse,,
+1743,怖,丿巾忄,dread,Emotions_and_Senses,Emotions
+1744,阜,十,hill,Nature,Land_and_Topography
+1745,附,寸亻阝,affixed:attach:refer to:append,,
+1746,訃,卜言,obituary,Human_activities,Language_and_Communication
+1747,負,勹貝,defeat:negative:-:minus:bear:owe:assume a responsibility,,
+1748,赴,卜土走,to visit,Directions_and_Spatial_Relationships,Movement
+1749,浮,子爪氵,floating:float:rise to surface,,
+1750,婦,冖女巾彐,wife or lady,People,Roles_and_status
+1751,符,寸竹亻,token:sign:mark:tally:charm,,
+1752,富,口宀田,rich,Human_activities,Money_and_Commerce
+1753,普,｜二日丷,universal:wide(ly):generally:Prussia,,
+1754,腐,寸广肉亻,rot:decay:sour,,
+1755,敷,丶十攴方田,spread:pave:sit:promulgate,,
+1756,膚,匕卜厂月田虍,skin,Body,Body_General
+1757,賦,弋止貝,installment or levy,Human_activities,Money_and_Commerce
+1758,譜,｜二日言丷,musical score:music:note:staff:table:genealogy,,
+1759,侮,毋亻,scorn:despise:make light of:contempt,,
+1760,武,弋止,military,Human_activities,War
+1761,部,口立阝,section:bureau:dept:class:copy:part:portion:counter for copies of a newspaper or magazine,,
+1762,舞,｜丿二夕舛無,dance:flit:circle:wheel,,
+1763,封,土寸,seal:closing,,
+1764,風,丿冂虫,wind,Nature,Weather
+1765,伏,犬亻,prostrated:bend down:bow:cover:lay (pipes),,
+1766,服,卩又月,clothing:admit:obey:discharge,,
+1767,副,口田刂,vice-:assistant:aide:duplicate:copy,,
+1768,幅,口巾田,width,Physical_Attributes_and_Properties,Form_and_Shape
+1769,復,夂彳日,restore:return to:revert:resume,,
+1770,福,口田礻,blessing:fortune:luck:wealth,,
+1771,腹,夂日月,stomach,Body,Torso_and_organs
+1772,複,夂日衤,duplicate:double:compound:multiple,,
+1773,覆,夂彳日襾,capsize:cover:shade:mantle:be ruined,,
+1774,払,厶扌,pay,Human_activities,Money_and_Commerce
+1775,沸,｜丿弓氵,seethe:boil:ferment:uproar:breed,,
+1776,仏,厶亻,Buddha,Human_activities,Religion_and_the_Supernatural_World
+1777,物,勹牛勿,thing:object:matter,,
+1778,粉,刀米丷,flour,Food_and_Drink,
+1779,紛,八刀糸,confusion,Emotions_and_Senses,Emotions
+1780,雰,八刀雨,atmosphere:fog,,
+1781,噴,十口貝艹,erupt:spout:emit:flush out,,
+1782,墳,十土貝艹,tomb:mound,,
+1783,憤,十貝忄艹,indignation,Emotions_and_Senses,Emotions
+1784,奮,大田隹,stirred up:be invigorated:flourish,,
+1785,分,八刀,minute,Time,Divisions_of_the_Day
+1786,文,,text,Human_activities,Language_and_Communication
+1787,聞,耳門,ask,Human_activities,Language_and_Communication
+1788,丙,人冂,third,Numbers,Counting_&_Sequence
+1789,平,干丷,even:flat:peace,,
+1790,兵,八斤,soldier:private:troops:army:warfare:strategy:tactics,,
+1791,併,｜丿二廾亻丷,join:get together:unite:collective,,
+1792,並,｜二丷,line up,Physical_Attributes_and_Properties,Form_and_Shape
+1793,柄,人冂木,"design, pattern",Physical_Attributes_and_Properties,Form_and_Shape
+1794,陛,土比阝,highness:steps (of throne),,
+1795,閉,丿亅門,closed:shut,,
+1796,塀,｜丿二八土尸廾,fence:wall:(kokuji),,
+1797,幣,冂巾攴丷,currency,Human_activities,Money_and_Commerce
+1798,弊,｜冂巾廾攴丷尚,abuse:evil:vice:breakage,,
+1799,蔽,｜冂巾攴丷尚艹,cover:shade:mantle:capsize:be ruined,,
+1800,餅,｜丿二廾食丷,rice cake,Food_and_Drink,
+1801,米,,rice,Food_and_Drink,
+1802,壁,十口土尸立辛,wall:lining (stomach):fence,,
+1803,璧,十口尸玉立辛,sphere:ball,,
+1804,癖,十口尸疒立辛,mannerism:habit:vice:trait:fault:kink,,
+1805,別,力口刂,separate:branch off:diverge:fork:another:extra:specially,,
+1806,蔑,丿戈网艹,contempt,Emotions_and_Senses,Emotions
+1807,片,,one-sided:leaf:sheet:right-side kata radical (no. 91),,
+1808,辺,刀辶,environs:boundary:border:vicinity,,
+1809,返,厂又辶,return:answer:fade:repay,,
+1810,変,亠夂,unusual:change:strange,,
+1811,偏,｜冂戸亻冊,partial:side:left-side radical:inclining:biased,,
+1812,遍,｜冂戸辶冊,everywhere:times:widely:generally,,
+1813,編,｜冂戸糸冊,compilation:knit:plait:braid:twist:editing:completed poem:part of a book,,
+1814,弁,厶廾,valve:petal:braid:speech:dialect:discrimination:dispose of:distinguish:conical cap,,
+1815,便,｜丿日田亻,faeces,Body,Bodily_Functions
+1816,勉,儿力免,exertion:endeavour:encourage:strive:make effort:diligent,,
+1817,歩,丿小止,walk,Body,Actions
+1818,保,口木亻,protect:guarantee:keep:preserve:sustain:support,,
+1819,哺,丶十口用,suckle,Body,Bodily_Functions
+1820,捕,丶十用扌,catch:capture,,
+1821,補,丶十用衤,supplement:supply:make good:offset:compensate:assistant:learner,,
+1822,舗,丶十口土用个,shop:store:pave,,
+1823,母,,mother,People,Family
+1824,募,力大日艹,recruit:campaign:gather (contributions):enlist:grow violent,,
+1825,墓,土大日艹,grave:tomb,,
+1826,慕,大心日艹,adoration or reverence,Emotions_and_Senses,Emotions
+1827,暮,大日艹,sunset,Time,Divisions_of_the_Day
+1828,簿,丶十寸田竹氵,register:record book,,
+1829,方,,honorable person,People,Roles_and_status
+1830,包,勹己,wrap:pack up:cover:conceal,,
+1831,芳,方艹,fragrant,Emotions_and_Senses,Senses
+1832,邦,丿二阝,home country:country:Japan,,
+1833,奉,｜丿二人大,observance:offer:present:dedicate,,
+1834,宝,丶宀玉,treasure or wealth,Human_activities,Money_and_Commerce
+1835,抱,勹己扌,embrace:hug:hold in arms,,
+1836,放,攴方,set free:release:fire:shoot:emit:banish:liberate,,
+1837,法,厶土氵,method:law:rule:principle:model:system,,
+1838,泡,勹己氵,bubbles:foam:suds:froth,,
+1839,胞,勹己月,placenta:sac:sheath,,
+1840,俸,｜丿二人大亻,salary,Human_activities,Money_and_Commerce
+1841,倣,攴方亻,emulate:imitate,,
+1842,峰,｜夂山,mountain or peak,Nature,Land_and_Topography
+1843,砲,勹口己石,cannon:gun,,
+1844,崩,山月,crumble:die:demolish:level,,
+1845,訪,方言,call on:visit:look up:offer sympathy,,
+1846,報,亠十卩又土立辛,inform,Human_activities,Language_and_Communication
+1847,蜂,｜夂虫,bee,Nature,Animals
+1848,豊,｜口日豆丷,bountiful:excellent:rich,,
+1849,飽,勹己食,sated:tired of:bored:satiate,,
+1850,褒,亠口小衣亻,praise:extol,,
+1851,縫,｜夂糸辶,to sew,Artificial_Structures_and_Products,Clothing_and_Textiles
+1852,亡,亠,deceased:the late:dying:perish,,
+1853,乏,丶丿乙亠,destitution:scarce:limited,,
+1854,忙,亠忄亡,busy:occupied:restless,,
+1855,坊,土方,"boy, sonny",People,General
+1856,妨,女方,disturb:prevent:hamper:obstruct,,
+1857,忘,亠心亡,forget,,
+1858,防,方阝,ward off:defend:protect:resist,,
+1859,房,戸方,tassel:tuft:fringe:bunch:lock (hair):segment (orange):house:room,,
+1860,肪,方月,obese:fat,,
+1861,某,木甘,so-and-so:one:a certain:that person,,
+1862,冒,日目,risk:face:defy:dare:damage:assume (a name),,
+1863,剖,口立刂,"to halve, split in two",Numbers,Calculations
+1864,紡,方糸,to spin or weave,Artificial_Structures_and_Products,Clothing_and_Textiles
+1865,望,月玉亡,ambition:full moon:hope:desire:aspire to:expect,,
+1866,傍,亠冖方立亻丷,bystander:side:besides:while:nearby:third person,,
+1867,帽,巾日目,hat,Artificial_Structures_and_Products,Clothing_and_Textiles
+1868,棒,｜丿二人大木,rod,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1869,貿,刀厶貝,trade,Human_activities,Money_and_Commerce
+1870,貌,儿白豸,form:appearance:countenance,,
+1871,暴,｜二八日水井,violent rage,Emotions_and_Senses,Emotions
+1872,膨,十口土彡月豆丷,swell:get fat:thick,,
+1873,謀,木甘言,conspire:cheat:impose on:plan:devise:scheme:have in mind:deceive,,
+1874,頰,,cheeks:jaw,,
+1875,北,匕爿,North,Directions_and_Spatial_Relationships,
+1876,木,,wood,Nature,Plants_and_Trees
+1877,朴,卜木,crude:simple:plain:docile,,
+1878,牧,攴牛,pasture,Nature,Land_and_Topography
+1879,睦,儿土目,intimate:friendly:harmonious,,
+1880,僕,玉羊亻丷,I or me,People,General
+1881,墨,土里黒灬,black ink:India ink:ink stick:Mexico,,
+1882,撲,人玉羊丷扌,slap:strike:hit:beat:tell:speak,,
+1883,没,殳氵,drown:sink:hide:fall into:disappear:die,,
+1884,勃,冖力十子,suddenness:rise,,
+1885,堀,｜土尸山,ditch,Nature,Land_and_Topography
+1886,本,木,book,Human_activities,Language_and_Communication
+1887,奔,丿十大廾,run:bustle,,
+1888,翻,冫田米羽釆,flip:turn over:wave:flutter:change (mind),,
+1889,凡,丶几,commonplace:ordinary:mediocre,,
+1890,盆,八刀皿,basin or tray,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1891,麻,广木,flax or hemp,Nature,Plants_and_Trees
+1892,摩,广手木麻,chafe:rub:polish:grind:scrape,,
+1893,磨,口广木石麻,grind:polish:scour:improve:brush (teeth),,
+1894,魔,儿匕广木田鬼麻,demon,Human_activities,Religion_and_the_Supernatural_World
+1895,毎,毋,every,Numbers,Counting_&_Sequence
+1896,妹,｜二亠八女木,younger sister,People,Family
+1897,枚,攴木,counter for flat things,Numbers,Counters
+1898,昧,｜二亠八日木,dark:foolish,,
+1899,埋,土里,bury:be filled up:embedded,,
+1900,幕,大巾日艹,curtain,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1901,膜,大日月艹,membrane,,
+1902,枕,丿乙冖尢木,pillow,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1903,又,,or again:furthermore:on the other hand,,
+1904,末,｜亠八木,end:close:tip:powder:posterity,,
+1905,抹,｜亠八木扌,rub:paint:erase,,
+1906,万,｜丿,"10,000",Numbers,
+1907,満,｜二冂山氵,full:fullness:enough:satisfy,,
+1908,慢,又日网忄,ridicule:laziness,,
+1909,漫,又日网氵,cartoon:involuntarily:unrestrained:in spite of oneself:corrupt,,
+1910,未,｜二亠八木,un-:not yet:hitherto:still:even now:sign of the ram:1-3PM:eighth sign of Chinese zodiac,,
+1911,味,｜二亠八口木,flavor:taste,,
+1912,魅,｜二亠儿八匕木田鬼,fascination:charm:bewitch,,
+1913,岬,｜山日田,headland,Nature,Land_and_Topography
+1914,密,丶丿宀山心,secrecy:density (pop):minuteness:carefulness,,
+1915,蜜,丶丿宀心虫,honey,Food_and_Drink,
+1916,脈,厂斤月,vein,Body,Body_General
+1917,妙,丿女小,exquisite:strange:queer:mystery:miracle:excellent:delicate:charming,,
+1918,民,口氏,people,People,General
+1919,眠,口氏目,sleep,Body,Bodily_Functions
+1920,矛,マ,halberd:arms:festival float,,
+1921,務,力夂矛,task:duties,,
+1922,無,｜丿灬,nothingness:none:ain't:nothing:nil:not,,
+1923,夢,冖夕网艹,dream,Body,Bodily_Functions
+1924,霧,力夂矛雨,fog,Nature,Weather
+1925,娘,女艮,daughter,People,Family
+1926,名,口夕,name,People,Family
+1927,命,卩口个,fate:command:decree:destiny:life:appoint,,
+1928,明,日月,light,Nature,Weather
+1929,迷,米辶,confusion,Emotions_and_Senses,Emotions
+1930,冥,亠八冖日,dark,Nature,Weather
+1931,盟,日月皿,alliance:oath,,
+1932,銘,口夕金,inscription:signature (of artisan),,
+1933,鳴,口鳥灬,chirp:cry:bark:sound:ring:echo:honk,,
+1934,滅,丿戈火氵,destroy:ruin:overthrow:perish,,
+1935,免,｜儿勹口,excuse:dismissal,,
+1936,面,,mask:face:features:surface,,
+1937,綿,巾白糸,cotton,Artificial_Structures_and_Products,Clothing_and_Textiles
+1938,麺,夂面麥,noodles,Food_and_Drink,
+1939,茂,丿戈艹,overgrown:grow thick:be luxuriant,,
+1940,模,大日木艹,pattern,Physical_Attributes_and_Properties,Form_and_Shape
+1941,毛,,fur,Nature,Animals
+1942,妄,亠女亡,delusion:unnecessarily:without authority:reckless,,
+1943,盲,亠目亡,blind,Emotions_and_Senses,Senses
+1944,耗,｜八士木毛耒,to consume,Numbers,Calculations
+1945,猛,子皿犭,fierce:rave:rush:become furious:wildness:strength,,
+1946,網,冂糸丷亡,net,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+1947,目,,eye,Body,Head_and_Neck
+1948,黙,犬里黒灬,silence:become silent:stop speaking:leave as is,,
+1949,門,,gate:counter for cannons,,
+1950,紋,文糸,family crest:figures,,
+1951,問,口門,question,Human_activities,Language_and_Communication
+1952,冶,冫厶口,melting:smelting,,
+1953,夜,亠夕亻,night,Time,Divisions_of_the_Day
+1954,野,亅矛里,field,Nature,Land_and_Topography
+1955,弥,丿亅小弓,all the more:increasingly,,
+1956,厄,卩厂,unlucky:misfortune:bad luck:disaster,,
+1957,役,彳殳,duty:war:campaign:drafted labor:office:service:role,,
+1958,約,丶勹糸,promise:approximately:shrink,,
+1959,訳,丶尸言,translate:reason:circumstance:case,,
+1960,薬,冫日木艹,drug,Body,Health
+1961,躍,口彐足隹,leap:dance:skip,,
+1962,闇,日立門音,dark,Nature,Weather
+1963,由,｜日田,wherefore:a reason,,
+1964,油,｜日田氵,oil,Nature,Natural_Substances
+1965,喩,口月个刂,metaphor:compare,,
+1966,愉,月个刂忄,pleasure:happy:rejoice,,
+1967,諭,月言个刂,rebuke:admonish:charge:warn:persuade,,
+1968,輸,月車个刂,transport:send:be inferior,,
+1969,癒,心月疒个刂,heal,Body,Health
+1970,唯,口隹,solely:only:merely:simply,,
+1971,友,丿又,friend,People,Roles_and_status
+1972,有,丿月,possess:have:exist:happen:occur:approx,,
+1973,勇,力田マ,courage:cheer up:be in high spirits:bravery:heroism,,
+1974,幽,｜凵幺,dark or hidden,Human_activities,Religion_and_the_Supernatural_World
+1975,悠,｜夂心攴亻,permanence:distant:long time:leisure,,
+1976,郵,｜丿阝,mail:stagecoach stop,,
+1977,湧,力田マ氵,boil:ferment:seethe:uproar:breed,,
+1978,猶,酉丷犭,furthermore:still:yet,,
+1979,裕,八口谷个衤,abundant:rich:fertile,,
+1980,遊,子方辶,play,,
+1981,雄,丿厶隹,masculine:male:hero:leader:superiority:excellence,,
+1982,誘,禾言乃,entice:lead:tempt:invite:ask:call for:seduce:allure,,
+1983,憂,冖夂心自,worry,Emotions_and_Senses,Emotions
+1984,融,儿冂口虫鬲,dissolve:melt,,
+1985,優,冖夂心白亻,tenderness:excel:surpass:actor:superiority:gentleness,,
+1986,与,勹卜,bestow:participate in:give:award:impart:provide:cause:gift:godsend,,
+1987,予,亅マ,beforehand:previous:myself:I,,
+1988,余,亅二八示个,too much:myself:surplus:other:remainder,,
+1989,誉,言丷尚,reputation:praise:honor:glory,,
+1990,預,亅欠貝頁マ,deposit:custody:leave with:entrust to,,
+1991,幼,力幺,infancy:childhood,,
+1992,用,,utilize:business:service:use:employ,,
+1993,羊,玉丷,sheep,Nature,Animals
+1994,妖,丿大女,goblin or yōkai,Human_activities,Religion_and_the_Supernatural_World
+1995,洋,玉羊丷氵,ocean,Nature,Land_and_Topography
+1996,要,女襾,need:main point:essence:pivot:key to,,
+1997,容,八口宀穴谷个,contain:form:looks,,
+1998,庸,广彐用聿,commonplace:ordinary:employment,,
+1999,揚,日扌勿,to fry,Food_and_Drink,Cooking
+2000,揺,凵干爪缶扌,swing:shake:sway:rock:tremble:vibrate,,
+2001,葉,木艹世,leaf,Nature,Plants_and_Trees
+2002,陽,日阝勿,Yang principle,Human_activities,Religion_and_the_Supernatural_World
+2003,溶,八口宀穴谷个氵,melt:dissolve:thaw,,
+2004,腰,女月襾,waist,Body,Torso_and_organs
+2005,様,木水玉羊丷,Esq.:way:manner:situation:polite suffix,,
+2006,瘍,丿勹日疒,ulcer,Body,Health
+2007,踊,口用足マ,jump,Body,Actions
+2008,窯,儿宀玉穴羊丷灬,kiln or stove,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+2009,養,玉羊食丷,foster:bring up:rear:develop:nurture,,
+2010,擁,亠隹扌,hug:embrace:possess:protect:lead,,
+2011,謡,凵干爪缶言,"song, noh chant",Human_activities,Culture
+2012,曜,彐日隹,day of week,Time,Divisions_of_the_Year
+2013,抑,卩扌,repress:well:now:in the first place:push:shove:press:seal:do in spite of,,
+2014,沃,丿大氵,fertility,,
+2015,浴,八口谷个氵,bathe:be favored with:bask in,,
+2016,欲,八口欠谷个,desire,Emotions_and_Senses,Emotions
+2017,翌,冫立羽,the following,Numbers,Counting_&_Sequence
+2018,翼,｜二八冫田羽井,wing,Nature,Animals
+2019,拉,立扌,Latin:kidnap:crush,,
+2020,裸,木田衤,naked:nude:uncovered:partially clothed,,
+2021,羅,糸网隹,gauze:thin silk:Rome:arrange:spread out,,
+2022,来,｜二亠木米,to come,Directions_and_Spatial_Relationships,Movement
+2023,雷,田雨,thunder,Nature,Weather
+2024,頼,｜八口木貝頁,trust:request,,
+2025,絡,口夂糸,entwine:coil around:get caught in,,
+2026,落,口夂氵艹,to fall,Directions_and_Spatial_Relationships,Movement
+2027,酪,口夂酉,dairy products,Food_and_Drink,
+2028,辣,｜十口木立辛,spicy,Emotions_and_Senses,Senses
+2029,乱,乙口舌,riot:war:disorder:disturb,,
+2030,卵,丶丿卜,egg,Food_and_Drink,
+2031,覧,丿二臣見,perusal:see,,
+2032,濫,丿二皿臣氵,excessive:overflow:spread out,,
+2033,藍,丿二皿臣艹,indigo,Physical_Attributes_and_Properties,Colours
+2034,欄,｜日木田門,column:handrail:blank:space,,
+2035,吏,丶丿口,officer:an official,,
+2036,利,禾刂,profit:advantage:benefit,,
+2037,里,,countryside,Nature,Land_and_Topography
+2038,理,玉里,reason,Emotions_and_Senses,Judgment
+2039,痢,疒禾刂,diarrhea,Body,Health
+2040,裏,亠衣里,rear,Directions_and_Spatial_Relationships,
+2041,履,夂尸彳日,footwear,Artificial_Structures_and_Products,Clothing_and_Textiles
+2042,璃,亠凵玉禸,glassy:lapis lazuli,,
+2043,離,亠凵禸隹,detach:separation:disjoin:digress,,
+2044,陸,儿土阝,land:six,,
+2045,立,,stand up,Body,Actions
+2046,律,彳聿,rhythm:law:regulation:gauge:control,,
+2047,慄,木襾忄,fear,Emotions_and_Senses,Emotions
+2048,略,口夂田,abbreviation:omission:outline:shorten:capture:plunder,,
+2049,柳,卩木,willow,Nature,Plants_and_Trees
+2050,流,亠厶巛氵,current:a sink:flow:forfeit,,
+2051,留,刀厶田,detain:fasten:halt:stop,,
+2052,竜,乙田立,dragon,Human_activities,Religion_and_the_Supernatural_World
+2053,粒,立米,grain,Food_and_Drink,
+2054,隆,夂生阝,hump:high:noble:prosperity,,
+2055,硫,亠厶口巛石,sulphur,Nature,Natural_Substances
+2056,侶,｜口亻,companion:follower,,
+2057,旅,丿方,to travel,Directions_and_Spatial_Relationships,Movement
+2058,虜,力匕卜厂田虍,captive:barbarian:low epithet for the enemy,,
+2059,慮,匕卜厂心田虍,prudence:thought:concern:consider:deliberate:fear,,
+2060,了,亅,complete:finish,,
+2061,両,｜冂山,both,Numbers,Counting_&_Sequence
+2062,良,艮,good,Emotions_and_Senses,Judgment
+2063,料,斗米,fee,Human_activities,Money_and_Commerce
+2064,涼,亠口小氵,refreshing:nice and cool,,
+2065,猟,几用尚犭,game-hunting:shooting:game:bag,,
+2066,陵,儿土夂阝,mausoleum:imperial tomb:mound:hill,,
+2067,量,日里,quantity:measure:weight:amount:consider:estimate:surmise,,
+2068,僚,小日亻,colleague,People,Roles_and_status
+2069,領,卩貝頁个,jurisdiction:dominion:territory:fief:reign,,
+2070,寮,宀小日个丷,dormitory:hostel:villa:tea pavillion,,
+2071,療,小日疒个丷,heal,Body,Health
+2072,瞭,小日目个丷,clear,,
+2073,糧,日米里,provisions:food:bread,,
+2074,力,,power,Artificial_Structures_and_Products,Vehicles_and_Machines
+2075,緑,彐水糸隶,green,Physical_Attributes_and_Properties,Colours
+2076,林,木,grove,Nature,Plants_and_Trees
+2077,厘,厂里,(around 0.3 mm),Numbers,Units_of_Measurement
+2078,倫,｜亅个亻冊,ethics:companion,,
+2079,輪,｜車个冊,counter for flowers or wheels,Numbers,Counters
+2080,隣,夕米舛阝,neighbour,People,Roles_and_status
+2081,臨,丿口臣品,look to:face:meet:confront:attend:call on,,
+2082,瑠,刀厶玉田,lapis lazuli,,
+2083,涙,大戸氵,tear,Body,Bodily_Functions
+2084,累,田糸,accumulate:involvement:trouble:tie up:continually,,
+2085,塁,冫土田,bases:fort:rampart:walls:base(ball),,
+2086,類,大米貝頁,sort:kind:variety:class:genus,,
+2087,令,卩个,orders:laws:command:decree:good,,
+2088,礼,乙礻,salute:bow:ceremony:thanks:remuneration,,
+2089,冷,冫卩个,cold,Nature,Weather
+2090,励,力厂斤,encourage:be diligent:inspire,,
+2091,戻,大戸,re-:return:revert:resume:restore:go backwards,,
+2092,例,歹亻刂,example:custom:usage:precedent,,
+2093,鈴,卩金个,bell,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+2094,零,卩雨个,0,Numbers,
+2095,霊,｜二雨,spirit,Human_activities,Religion_and_the_Supernatural_World
+2096,隷,二士小彐水隶,underling,People,Roles_and_status
+2097,齢,凵卩止米齒个,age,,
+2098,麗,冂广比鹿,lovely:beautiful:graceful:resplendent,,
+2099,暦,厂广日木麻,calendar,Time,Divisions_of_the_Year
+2100,歴,厂广木止麻,curriculum:continuation:passage of time,,
+2101,列,歹刂,"line, row",Physical_Attributes_and_Properties,Form_and_Shape
+2102,劣,丿力小,inferiority:be inferior to:be worse,,
+2103,烈,歹刂灬,ardent:violent:vehement:furious:severe:extreme,,
+2104,裂,歹衣刂,split:rend:tear,,
+2105,恋,亠八心,love,Emotions_and_Senses,Emotions
+2106,連,車辶,take along:lead:join:connect:party:gang:clique,,
+2107,廉,｜八广彐丷,cheap,Human_activities,Money_and_Commerce
+2108,練,｜八日木田糸,practice:gloss:train:drill:polish:refine,,
+2109,錬,｜八日木田金丷,tempering:refine:drill:train:polish,,
+2110,呂,口,backbone,Body,Torso_and_organs
+2111,炉,戸火,hearth:furnace:kiln:reactor,,
+2112,賂,口夂貝,bribe,Human_activities,Money_and_Commerce
+2113,路,口夂足,path:route:road:distance,,
+2114,露,口夂足雨,dew,Nature,Weather
+2115,老,,old,Time,
+2116,労,冖力尚,labor:thank for:reward for:toil:trouble,,
+2117,弄,廾玉,play with:tamper:trifle with,,
+2118,郎,艮阝,"son, boy",People,General
+2119,朗,月艮,melodious:clear:bright:serene:cheerful,,
+2120,浪,艮氵,wandering:waves:billows:reckless:unrestrained,,
+2121,廊,广艮阝,corridor:hall:tower,,
+2122,楼,女木米,watchtower:lookout:high building,,
+2123,漏,尸雨氵,leak:escape:time,,
+2124,籠,月立竹,basket,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
+2125,六,亠八,6,Numbers,
+2126,録,彐水金隶,record,,
+2127,麓,广木比鹿,foot of mountain,Nature,Land_and_Topography
+2128,論,｜言个冊,discourse,Human_activities,Language_and_Communication
+2129,和,口禾,harmony:Japanese style:peace:soften:Japan,,
+2130,話,口舌言,speak,Human_activities,Language_and_Communication
+2131,賄,丿月貝,bribe,Human_activities,Money_and_Commerce
+2132,脇,力月,armpit,Body,Limbs
+2133,惑,口心戈,bewilderment,Emotions_and_Senses,Emotions
+2134,枠,十木九,"border, frame",Physical_Attributes_and_Properties,Form_and_Shape
+2135,湾,亠弓氵,bay or gulf,Nature,Land_and_Topography
+2136,腕,卩夕宀月,arm,Body,Limbs
