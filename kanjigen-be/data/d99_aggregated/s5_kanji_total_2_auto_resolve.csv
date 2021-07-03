@@ -26,7 +26,7 @@ num,kanji,radicals,meaning,theme,subtheme
 25,胃,月田,stomach,Body,Torso_and_organs
 26,尉,寸尸示,military officer:jailer:old man:rank,,
 27,異,八田井,uncommon:different:queerness:strangeness:wonderful:curious:unusual,,
-28,移,夕禾,"shift:move:change:drift:catch (cold, fire):pass into",,
+28,移,夕禾,shift:move:change:drift:catch cold:catch fire:pass into,,
 29,萎,女禾艹,wither:droop:lame,,
 30,偉,口韋亻,admirable:greatness:remarkable:conceited:famous:excellent,,
 31,椅,亅口大木,chair,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
@@ -111,14 +111,14 @@ num,kanji,radicals,meaning,theme,subtheme
 110,押,｜日田扌,push:stop:check:subdue:attach:seize:weight:shove:press:seal:do in spite of,,
 111,旺,日玉,flourishing:successful:beautiful:vigorous,,
 112,欧,丶丿匚欠,Europe,,
-113,殴,丶丿匚殳,"beat, assault",Human_activities,War
+113,殴,丶丿匚殳,beatassault,Human_activities,War
 114,桜,女木尚,sakura,Nature,Plants_and_Trees
 115,翁,八冫厶羽,old man,People,General
 116,奥,冂大米,interior,Directions_and_Spatial_Relationships,
 117,横,｜二八廾日木田黄,sideways:side:horizontal:width:woof:unreasonable:perverse,,
 118,岡,冂山丷,hill,Nature,Land_and_Topography
 119,屋,厶土尸至,roof:house:shop:dealer:seller,,
-120,億,心日立音亻,"100,000,000",Numbers,
+120,億,心日立音亻,100000000,Numbers,
 121,憶,心日立音忄,recollection:think:remember,,
 122,臆,心日月立音,timidity:heart:mind:fear:cowardly,,
 123,虞,八匕卜厂口虍,fear,Emotions_and_Senses,Emotions
@@ -152,19 +152,19 @@ num,kanji,radicals,meaning,theme,subtheme
 151,貨,匕貝亻,goods or property,Human_activities,Money_and_Commerce
 152,渦,｜冂口氵,whirlpool,Nature,Weather
 153,過,冂口辶,overdo:exceed:go beyond:error,,
-154,嫁,女宀豕,"wife, bride",People,Family
+154,嫁,女宀豕,wifebride,People,Family
 155,暇,又日,spare time:rest:leisure:time:leave of absence,,
 156,禍,冂口礻,calamity:misfortune:evil:curse,,
 157,靴,匕革亻,shoes,Artificial_Structures_and_Products,Clothing_and_Textiles
 158,寡,八刀宀自,widow,People,Family
 159,歌,亅口欠,song,Human_activities,Culture
 160,箇,十口囗竹,counter for articles,,
-161,稼,宀禾豕,"work, earn",Human_activities,Money_and_Commerce
+161,稼,宀禾豕,workearn,Human_activities,Money_and_Commerce
 162,課,木田言,chapter:lesson:section:department:division:counter for chapters (of a book),,
 163,蚊,文虫,mosquito,Nature,Animals
-164,牙,,"fang, tusk",Nature,Animals
+164,牙,,fangtusk,Nature,Animals
 165,瓦,,tile,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
-166,我,亅戈手,"self, ego",People,General
+166,我,亅戈手,selfego,People,General
 167,画,凵田,picture,Human_activities,Culture
 168,芽,牙艹,bud,Nature,Plants_and_Trees
 169,賀,力口貝,congratulations:joy,,
@@ -184,7 +184,7 @@ num,kanji,radicals,meaning,theme,subtheme
 183,界,儿田个,world:boundary,,
 184,皆,比白,all:everything,,
 185,械,廾戈木,contraption,Artificial_Structures_and_Products,Vehicles_and_Machines
-186,絵,二厶糸个,"picture, painting",Human_activities,Culture
+186,絵,二厶糸个,picturepainting,Human_activities,Culture
 187,開,廾門,open:unfold:unseal,,
 188,階,比白阝,storey:stair:counter for storeys of a building,,
 189,塊,儿匕厶土田鬼,clod:lump:chunk:clot:mass,,
@@ -212,7 +212,7 @@ num,kanji,radicals,meaning,theme,subtheme
 211,角,｜勹月,horn,Nature,Animals
 212,拡,厶广扌,broaden:extend:expand:enlarge,,
 213,革,十口廾,leather,Artificial_Structures_and_Products,Clothing_and_Textiles
-214,格,口夂木,"status:rank:capacity:character:case (law, grammar)",,
+214,格,口夂木,status:rank:capacity:character:case in law,,
 215,核,亠人木,nucleus:core:kernel,,
 216,殻,冖几士殳,husk:nut shell,,
 217,郭,亅亠口子阝,enclosure:quarters:fortification:red-light district,,
@@ -224,7 +224,7 @@ num,kanji,radicals,meaning,theme,subtheme
 223,獲,又隹犭艹,seize:get:find:earn:acquire:can:may:able to,,
 224,嚇,口土赤,menacing:dignity:majesty:threaten,,
 225,穫,又禾隹艹,harvest:reap,,
-226,学,冖子尚,"study, school",Human_activities,Culture
+226,学,冖子尚,studyschool,Human_activities,Culture
 227,岳,山斤,mountain or peak,Nature,Land_and_Topography
 228,楽,冫木白,music,Human_activities,Culture
 229,額,口夂宀貝頁,forehead,Body,Head_and_Neck
@@ -278,13 +278,13 @@ num,kanji,radicals,meaning,theme,subtheme
 277,慣,毋貝忄,accustomed:get used to:become experienced,,
 278,管,口宀竹,pipe,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 279,関,二人八大門丷,connection:barrier:gateway:involve:concerning,,
-280,歓,欠矢隹,"delight, joy",Emotions_and_Senses,Emotions
+280,歓,欠矢隹,delightjoy,Emotions_and_Senses,Emotions
 281,監,二皿臣,oversee:official:govt office:rule:administer,,
 282,緩,夂爪糸,slacken:loosen:relax:lessen:be moderate:ease,,
 283,憾,丿口心戈忄,regret,Emotions_and_Senses,Emotions
 284,還,口网衣辶,send back:return,,
 285,館,口宀食,building:mansion:large building:palace,,
-286,環,口玉网衣,"ring, surround",Physical_Attributes_and_Properties,Form_and_Shape
+286,環,口玉网衣,ringsurround,Physical_Attributes_and_Properties,Form_and_Shape
 287,簡,日竹門,simplicity:brevity,,
 288,観,矢見隹,outlook:look:appearance:condition:view,,
 289,韓,十口日韋,Korea,,
@@ -323,7 +323,7 @@ num,kanji,radicals,meaning,theme,subtheme
 322,寄,亅口大宀,draw near:stop in:bring near:gather:collect:send:forward,,
 323,規,土大見,standard:measure,,
 324,亀,乙勹田龜,turtle,Nature,Animals
-325,喜,口士豆丷,"delight, joy",Emotions_and_Senses,Emotions
+325,喜,口士豆丷,delightjoy,Emotions_and_Senses,Emotions
 326,幾,丿幺戈,how many:how much:how far:how long:some:several,,
 327,揮,冖車扌,brandish:wave:wag:swing:shake,,
 328,期,八月甘,time period,Time,
@@ -353,14 +353,14 @@ num,kanji,radicals,meaning,theme,subtheme
 352,喫,亠刀口土大,consume:eat:drink:smoke:receive (a blow),,
 353,詰,口士言,packed:close:pressed:reprove:rebuke:blame,,
 354,却,卩厶土,instead:on the contrary:rather:step back:withdraw:retreat,,
-355,客,口夂宀,"guest, customer",People,Roles_and_status
+355,客,口夂宀,guestcustomer,People,Roles_and_status
 356,脚,卩厶土月,leg,Body,Limbs
 357,逆,屮丷辶,inverted:reverse:opposite:wicked,,
 358,虐,匕匚卜厂虍,tyrannize:oppress,,
 359,九,,9,Numbers,
 360,久,丿入,long ago,Time,
 361,及,丶乃,reach out:exert:exercise:cause,,
-362,弓,,"bow:bow (archery, violin)",,
+362,弓,,bow:bow archery,,
 363,丘,斤,hill,Nature,Land_and_Topography
 364,旧,｜日,former,Time,
 365,休,木亻,rest,Body,Health
@@ -368,7 +368,7 @@ num,kanji,radicals,meaning,theme,subtheme
 367,朽,勹木,decay:rot:remain in seclusion,,
 368,臼,,millstone or mortar,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 369,求,丶水,request:want:wish for:require:demand,,
-370,究,儿宀穴九,"study, research",Human_activities,Culture
+370,究,儿宀穴九,studyresearch,Human_activities,Culture
 371,泣,立氵,cry:weep:moan,,
 372,急,勹彐心,hurry:emergency:sudden:steep,,
 373,級,丿糸及,class:rank:grade,,
@@ -420,7 +420,7 @@ num,kanji,radicals,meaning,theme,subtheme
 419,驚,勹口夂攴馬艹,surprise,Emotions_and_Senses,Emotions
 420,仰,卩亻,face-up:look up:depend:seek:respect:rever:drink:take,,
 421,暁,儿十廾日,sunrise,Time,Divisions_of_the_Day
-422,業,｜木玉羊耒丷,"business, industry",Human_activities,Money_and_Commerce
+422,業,｜木玉羊耒丷,businessindustry,Human_activities,Money_and_Commerce
 423,凝,冫匕疋矢マ,congeal:freeze:stiff:be absorbed in,,
 424,曲,｜日,musical composition,Human_activities,Culture
 425,局,口尸,bureau:board:office:affair:conclusion:court lady:lady-in-waiting:her apartment,,
@@ -433,7 +433,7 @@ num,kanji,radicals,meaning,theme,subtheme
 432,金,,gold,Human_activities,Money_and_Commerce
 433,菌,囗禾艹,germ:fungus:bacteria,,
 434,勤,力口土艹,diligence:become employed:serve,,
-435,琴,玉个,"cithare, harp",Human_activities,Culture
+435,琴,玉个,cithareharp,Human_activities,Culture
 436,筋,力月竹,muscles,Body,Body_General
 437,僅,口土亻艹,a wee bit,,
 438,禁,木示,prohibition:ban:forbid,,
@@ -450,7 +450,7 @@ num,kanji,radicals,meaning,theme,subtheme
 449,具,八目,tool,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 450,惧,八目忄,dread,Emotions_and_Senses,Emotions
 451,愚,冂厶心田禸,foolish:folly:absurdity:stupid,,
-452,空,儿宀工穴,"void, sky",Nature,Sky
+452,空,儿宀工穴,voidsky,Nature,Sky
 453,偶,冂厶田禸亻,accidentally:even number:couple:man & wife:same kind,,
 454,遇,冂厶田禸辶,meet:encounter:interview:treat:entertain:receive:deal with,,
 455,隅,冂厶日田禸阝,corner,Physical_Attributes_and_Properties,Form_and_Shape
@@ -466,7 +466,7 @@ num,kanji,radicals,meaning,theme,subtheme
 465,薫,｜丿日艹灬,send forth fragrance:fragrant:be scented:smoke (tobacco),,
 466,軍,冖車,army:force:troops:war:battle,,
 467,郡,口阝,county:district,,
-468,群,口玉羊丷,"flock, crowd",People,Groups
+468,群,口玉羊丷,flockcrowd,People,Groups
 469,兄,儿口,older brother,People,Family
 470,刑,丿廾刂,punish:penalty:sentence:punishment,,
 471,形,丿廾彡,shape:form:style,,
@@ -500,8 +500,8 @@ num,kanji,radicals,meaning,theme,subtheme
 499,迎,卩辶,welcome:meet:greet,,
 500,鯨,亠口小田魚灬,whale,Nature,Animals
 501,隙,小日阝,crevice:fissure:discord:opportunity:leisure,,
-502,劇,匕卜厂虍豕刂,"drama, play",Human_activities,Culture
-503,撃,手殳車,"beat, attack",Human_activities,War
+502,劇,匕卜厂虍豕刂,dramaplay,Human_activities,Culture
+503,撃,手殳車,beatattack,Human_activities,War
 504,激,攴方白氵,violent excitement,Emotions_and_Senses,Emotions
 505,桁,彳木行,digit,Numbers,Counting_&_Sequence
 506,欠,人勹,lack:gap:fail:yawning radical (no. 76),,
@@ -518,7 +518,7 @@ num,kanji,radicals,meaning,theme,subtheme
 517,券,二人刀大大丷,ticket,,
 518,肩,戸月,shoulder,Body,Limbs
 519,建,廴聿,build,,
-520,研,｜丿亅口廾石,"study, research",Human_activities,Culture
+520,研,｜丿亅口廾石,studyresearch,Human_activities,Culture
 521,県,小目,prefecture,,
 522,倹,人口个亻,frugal:economy:thrifty,,
 523,兼,｜八彐丷,concurrently:and:beforehand:in advance,,
@@ -552,7 +552,7 @@ num,kanji,radicals,meaning,theme,subtheme
 551,原,厂小白,field,Nature,Land_and_Topography
 552,現,玉見,present:existing:actual,,
 553,舷,亠幺玄舟,sides of a boat,Artificial_Structures_and_Products,Vehicles_and_Machines
-554,減,亅口戈氵,"to decrease, to subtract",Numbers,Calculations
+554,減,亅口戈氵,todecreasetosubtract,Numbers,Calculations
 555,源,厂小白氵,source:origin,,
 556,厳,厂攴耳尚,stern:strictness:severity:rigidity,,
 557,己,,oneself,People,General
@@ -611,7 +611,7 @@ num,kanji,radicals,meaning,theme,subtheme
 610,幸,亠十立辛,happy,Emotions_and_Senses,Emotions
 611,拘,勹口扌,arrest:seize:concerned:adhere to:despite,,
 612,肯,月止,agreement:consent:comply with,,
-613,侯,矢亻,"lord, marquis",People,Roles_and_status
+613,侯,矢亻,lordmarquis,People,Roles_and_status
 614,厚,厂子日,thick,Physical_Attributes_and_Properties,Miscellaneous_properties
 615,恒,日忄,constancy:always,,
 616,洪,｜二八氵,flood,Nature,Weather
@@ -667,7 +667,7 @@ num,kanji,radicals,meaning,theme,subtheme
 666,骨,冂冖月,bone,Body,Body_General
 667,駒,勹口馬,pony:horse:colt,,
 668,込,入辶,crowded:mixture:in bulk:included:(kokuji),,
-669,頃,匕貝頁,"time, about",Time,
+669,頃,匕貝頁,timeabout,Time,
 670,今,个,now,Time,
 671,困,囗木,quandary:become distressed:annoyed,,
 672,昆,日比,descendants,People,Family
@@ -701,7 +701,7 @@ num,kanji,radicals,meaning,theme,subtheme
 700,栽,土戈木,the cultivation of plants,Nature,Plants_and_Trees
 701,彩,彡木爪,brightly coloured,Physical_Attributes_and_Properties,Colours
 702,採,木爪扌,pick:take:fetch:take up,,
-703,済,｜丿廾文齊氵,"settle (debt, etc.):relieve (burden):finish:come to an end:excusable:need not",,
+703,済,｜丿廾文齊氵,settle:relieve (burden):finish:come to an end:excusable:need not,,
 704,祭,癶示个,festival,Human_activities,Culture
 705,斎,｜丿廾文示齊,purification:Buddhist food:room:worship:avoid:alike,,
 706,細,田糸,slender,Physical_Attributes_and_Properties,Miscellaneous_properties
@@ -713,7 +713,7 @@ num,kanji,radicals,meaning,theme,subtheme
 712,塞,八土宀,close:shut:cover:block:obstruct,,
 713,歳,丿小戈止,year-end:age:occasion:opportunity,,
 714,載,土戈車,ride:board:get on:place:spread:10**44:record:publish,,
-715,際,丿癶示阝,"moment, occasion",Time,
+715,際,丿癶示阝,momentoccasion,Time,
 716,埼,｜口土大,cape or promontory,Nature,Land_and_Topography
 717,在,｜丿土,exist:outskirts:suburbs:located in,,
 718,材,丿亅木,timber or material,Nature,Natural_Substances
@@ -799,7 +799,7 @@ num,kanji,radicals,meaning,theme,subtheme
 798,詩,土寸言,poetry,Human_activities,Culture
 799,資,冫欠貝,capital,Human_activities,Money_and_Commerce
 800,飼,亅口艮食个,domesticate:raise:keep:feed,,
-801,誌,士心言,"document, journal",Human_activities,Language_and_Communication
+801,誌,士心言,documentjournal,Human_activities,Language_and_Communication
 802,雌,匕止隹,feminine:female,,
 803,摯,丶丿十手立辛九,gift:seriousness,,
 804,賜,日貝勿,grant:gift:boon:results,,
@@ -834,7 +834,7 @@ num,kanji,radicals,meaning,theme,subtheme
 833,疾,疒矢,disease,Body,Health
 834,執,丶丿亠十土立辛九,tenacious:take hold:grasp:take to heart,,
 835,湿,｜日氵,damp,Physical_Attributes_and_Properties,Miscellaneous_properties
-836,嫉,女疒矢,"envy, jealousy",Emotions_and_Senses,Emotions
+836,嫉,女疒矢,envyjealousy,Emotions_and_Senses,Emotions
 837,漆,木水个氵,lacquer,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 838,質,斤貝,substance:quality:matter:temperament,,
 839,実,士大宀,fruit,Food_and_Drink,
@@ -906,7 +906,7 @@ num,kanji,radicals,meaning,theme,subtheme
 905,蹴,丶丿乙亠口小尢足尤,kick,,
 906,襲,月立衣,raid,Human_activities,War
 907,十,,10,Numbers,
-908,汁,十氵,"juice, soup",Food_and_Drink,
+908,汁,十氵,juicesoup,Food_and_Drink,
 909,充,亠儿厶,allot:fill,,
 910,住,丶玉亻,dwell:reside:live:inhabit,,
 911,柔,木矛マ,tender:weakness:gentleness:softness,,
@@ -916,12 +916,12 @@ num,kanji,radicals,meaning,theme,subtheme
 915,銃,亠儿厶金,gun:arms,,
 916,獣,口犬田尚,animal:beast,,
 917,縦,彳疋糸丷,vertical:length:height:self-indulgent:wayward,,
-918,叔,卜又小,"aunt, uncle",People,Family
+918,叔,卜又小,auntuncle,People,Family
 919,祝,儿口礻,celebrate:congratulate,,
 920,宿,宀白亻,inn:lodging:relay station:dwell:lodge:be pregnant:home:dwelling,,
 921,淑,卜又小氵,graceful:gentle:pure,,
 922,粛,｜丿彐水米隶,solemn:quietly:softly,,
-923,縮,宀白糸亻,"to reduce, shrink",Numbers,Calculations
+923,縮,宀白糸亻,toreduceshrink,Numbers,Calculations
 924,塾,丶亠口土子九,private school,Human_activities,Culture
 925,熟,丶亠口子九灬,mellow:ripen:mature:acquire skill,,
 926,出,｜山,out,Directions_and_Spatial_Relationships,
@@ -1001,7 +1001,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1000,詳,玉羊言丷,detailed:full:minute:accurate:well-informed,,
 1001,彰,十彡日立音,patent:clear,,
 1002,障,十日立音阝,hinder:hurt:harm,,
-1003,憧,立里忄,"longing, yearning",Emotions_and_Senses,Emotions
+1003,憧,立里忄,longingyearning,Emotions_and_Senses,Emotions
 1004,衝,｜彳日行里,collide:brunt:highway:opposition (astronomy):thrust:pierce:stab:prick,,
 1005,賞,冖口貝尚,prize:reward:praise,,
 1006,償,冖口貝亻尚,recompense,Human_activities,Money_and_Commerce
@@ -1074,11 +1074,11 @@ num,kanji,radicals,meaning,theme,subtheme
 1073,尽,丶尸,exhaust:use up:run out of:deplete:befriend:serve,,
 1074,迅,十辶,swift:fast,,
 1075,甚,儿甘,tremendously:very:great:exceedingly,,
-1076,陣,車阝,"battle formation, camp",Human_activities,War
+1076,陣,車阝,battleformationcamp,Human_activities,War
 1077,尋,口寸工彐,inquire:fathom:look for,,
 1078,腎,又月臣,kidney,Body,Torso_and_organs
 1079,須,彡貝頁,ought:by all means:necessarily,,
-1080,図,囗斗,"map, diagram",Human_activities,Language_and_Communication
+1080,図,囗斗,mapdiagram,Human_activities,Language_and_Communication
 1081,水,,water,Nature,Natural_Substances
 1082,吹,口欠,blow:breathe:puff:emit:smoke,,
 1083,垂,｜丿,droop:suspend:hang:slouch,,
@@ -1123,7 +1123,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1122,逝,斤扌辶,departed:die,,
 1123,清,二亠土月青氵,pure:purify:cleanse:exorcise:Manchu dynasty,,
 1124,盛,丿戈皿,boom:prosper:copulate,,
-1125,婿,女月疋,"son-in-law, bridegroom",People,Family
+1125,婿,女月疋,son-in-lawbridegroom,People,Family
 1126,晴,二亠土日月青,clear or fine weather,Nature,Weather
 1127,勢,丶儿力土九,forces:energy:military strength,,
 1128,聖,口玉耳,sacred,Human_activities,Religion_and_the_Supernatural_World
@@ -1160,15 +1160,15 @@ num,kanji,radicals,meaning,theme,subtheme
 1159,設,殳言,establishment:provision:prepare,,
 1160,雪,彐雨,snow,Nature,Weather
 1161,摂,冫耳扌,vicarious:surrogate:act in addition to:take in:absorb,,
-1162,節,卩竹艮,"tune, melody",Human_activities,Culture
+1162,節,卩竹艮,tunemelody,Human_activities,Culture
 1163,説,儿口言丷,explain,Human_activities,Language_and_Communication
 1164,舌,口,tongue,Body,Head_and_Neck
 1165,絶,糸色,discontinue:sever:cut off:abstain:interrupt:suppress:be beyond:without match:peerless:unparalleled,,
-1166,千,丿十,"1,000",Numbers,
+1166,千,丿十,1000,Numbers,
 1167,川,,river,Nature,Land_and_Topography
 1168,仙,山亻,immortal or sage,Human_activities,Religion_and_the_Supernatural_World
 1169,占,卜口,fortune-telling:divining:forecasting:occupy:hold:have:get:take,,
-1170,先,丿儿土,"ahead, previous",Time,
+1170,先,丿儿土,aheadprevious,Time,
 1171,宣,宀日,proclaim,Human_activities,Language_and_Communication
 1172,専,十寸田,specialty:exclusive:mainly:solely,,
 1173,泉,水白,water spring,Nature,Land_and_Topography
@@ -1180,8 +1180,8 @@ num,kanji,radicals,meaning,theme,subtheme
 1179,旋,方疋,rotation:go around,,
 1180,船,八口舟,ship,Artificial_Structures_and_Products,Vehicles_and_Machines
 1181,戦,十戈田尚,battle,Human_activities,War
-1182,煎,月丷刂灬,"to boil, roast",Food_and_Drink,Cooking
-1183,羨,欠玉羊丷氵,"envy, jealousy",Emotions_and_Senses,Emotions
+1182,煎,月丷刂灬,toboilroast,Food_and_Drink,Cooking
+1183,羨,欠玉羊丷氵,envyjealousy,Emotions_and_Senses,Emotions
 1184,腺,月水白,gland,Body,Body_General
 1185,詮,玉言个,discussion:methods called for:selection:result,,
 1186,践,丶丿口毛足,tread:step on:trample:practice:carry through,,
@@ -1209,7 +1209,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1208,素,亠土糸,elementary:principle:naked:uncovered,,
 1209,措,｜二日扌,set aside:give up:suspend:discontinue:lay aside:except,,
 1210,粗,｜目米,coarse:rough:rugged,,
-1211,組,｜目糸,"association, assemble",People,Groups
+1211,組,｜目糸,associationassemble,People,Groups
 1212,疎,｜口木止疋,alienate:rough:neglect:shun:sparse:penetrate,,
 1213,訴,丶斤言,accusation:sue:complain of pain:appeal to,,
 1214,塑,土屮月丷,model:molding,,
@@ -1261,7 +1261,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1260,臓,丿戈月臣艹,entrails,Body,Torso_and_organs
 1261,即,卩艮,instant:namely:as is:conform:agree:adapt,,
 1262,束,｜八口木,bundle:sheaf:ream:tie in bundles:govern:manage:control,,
-1263,足,口,"leg, foot",Body,Limbs
+1263,足,口,legfoot,Body,Limbs
 1264,促,口足亻,stimulate:urge:press:demand:incite,,
 1265,則,貝刂,rule:follow:based on:model after,,
 1266,息,心自,breath,Body,Bodily_Functions
@@ -1311,7 +1311,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1310,態,匕厶心月,attitude:condition:figure:appearance:voice (of verbs),,
 1311,戴,｜二八土戈田,be crowned with:live under (a ruler):receive,,
 1312,大,,large,Physical_Attributes_and_Properties,Form_and_Shape
-1313,代,弋亻,"substitute:change:convert:replace:period:age:counter for decades of ages, eras, etc.:generation:charge:rate:fee",,
+1313,代,弋亻,substitute:change:convert:replace:period:age:counter,,
 1314,台,厶口,counter for machines and vehicles,Numbers,Counters
 1315,第,弓竹,ordinal marker,Numbers,Counting_&_Sequence
 1316,題,日疋貝頁,topic,Human_activities,Language_and_Communication
@@ -1341,7 +1341,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1340,淡,火氵,thin:faint:pale:fleeting,,
 1341,短,口矢豆丷,short,Physical_Attributes_and_Properties,Form_and_Shape
 1342,嘆,丿口艹,sigh:lament:moan:grieve:sigh of admiration,,
-1343,端,山立而,"end, tip",Physical_Attributes_and_Properties,Form_and_Shape
+1343,端,山立而,endtip,Physical_Attributes_and_Properties,Form_and_Shape
 1344,綻,宀疋糸,be rent:ripped:unravel:run:begin to open:smile,,
 1345,誕,丿廴止言,nativity:be born:declension:lie:be arbitrary,,
 1346,鍛,殳金,forge:discipline:train,,
@@ -1377,7 +1377,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1376,中,｜口,middle,Directions_and_Spatial_Relationships,
 1377,仲,｜口亻,intermediary,People,Roles_and_status
 1378,虫,,insect:bug:temper,,
-1379,沖,｜口氵,"high seas, offshore",Nature,Land_and_Topography
+1379,沖,｜口氵,highseasoffshore,Nature,Land_and_Topography
 1380,宙,｜宀日田,mid-air:air:space:sky:memorization:interval of time,,
 1381,忠,｜口心,loyalty:fidelity:faithfulness,,
 1382,抽,｜日田扌,pluck:pull:extract:excel,,
@@ -1393,7 +1393,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1392,丁,亅,miscellaneous counter,Numbers,Counters
 1393,弔,｜弓,condolences:mourning:funeral,,
 1394,庁,亅广,government office,,
-1395,兆,儿冫,"1,000,000,000,000",Numbers,
+1395,兆,儿冫,1000000000000,Numbers,
 1396,町,亅田,town,Artificial_Structures_and_Products,Cities
 1397,長,,leader,People,Roles_and_status
 1398,挑,儿冫扌,challenge:contend for:make love to,,
@@ -1428,7 +1428,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1427,追,｜口辶,chase:drive away:follow:pursue:meanwhile,,
 1428,椎,木隹,backbone,Body,Torso_and_organs
 1429,墜,土豕丷阝,to fall,Directions_and_Spatial_Relationships,Movement
-1430,通,用マ辶,"traffic:pass through:avenue:commute:counter for letters, notes, documents, etc.",,
+1430,通,用マ辶,traffic:pass through:avenue:commute:counter,,
 1431,痛,用疒マ,pain,Body,Health
 1432,塚,冖土豕,hillock:mound,,
 1433,漬,亠土貝氵,pickle,Food_and_Drink,
@@ -1470,7 +1470,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1469,鉄,丿二大矢金,iron,Nature,Natural_Substances
 1470,徹,亠厶彳攴月,penetrate:clear:pierce:strike home:sit up (all night),,
 1471,撤,亠厶攴月扌,remove:withdraw:disarm:dismantle:reject:exclude,,
-1472,天,大,"heaven, sky",Nature,Sky
+1472,天,大,heavensky,Nature,Sky
 1473,典,｜八日,code:ceremony:law:rule,,
 1474,店,卜口广,store:shop,,
 1475,点,卜口灬,spot:point:mark:speck:decimal point,,
@@ -1484,7 +1484,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1483,電,乙田雨,electricity,Nature,Weather
 1484,斗,,(around 18 L),Numbers,Units_of_Measurement
 1485,吐,口土,spit:vomit:belch:confess:tell (lies),,
-1486,妬,口女石,"envy, jealousy",Emotions_and_Senses,Emotions
+1486,妬,口女石,envyjealousy,Emotions_and_Senses,Emotions
 1487,徒,土彳走,gang or junior,People,General
 1488,途,亅八木个辶,route:way:road,,
 1489,都,日老阝,metropolis,Artificial_Structures_and_Products,Cities
@@ -1492,7 +1492,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1491,塗,亅八土木个氵,paint,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 1492,賭,日老貝,gamble,Human_activities,Money_and_Commerce
 1493,土,,earth,Nature,Natural_Substances
-1494,奴,又女,"servant, fellow",People,Roles_and_status
+1494,奴,又女,servantfellow,People,Roles_and_status
 1495,努,力又女,toil:diligent:as much as possible,,
 1496,度,又广,number of times,Time,
 1497,怒,又女心,anger,Emotions_and_Senses,Emotions
@@ -1529,7 +1529,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1528,稲,｜日爪禾,rice plant,Nature,Plants_and_Trees
 1529,踏,口日水足,step:trample:carry through:appraise:evade payment,,
 1530,糖,口广米,sugar,Food_and_Drink,
-1531,頭,口豆貝頁丷,"counter for animals, large",Numbers,Counters
+1531,頭,口豆貝頁丷,counterforanimalslarge,Numbers,Counters
 1532,謄,｜月言,mimeograph:copy,,
 1533,藤,｜月水艹,wisteria,Nature,Plants_and_Trees
 1534,闘,口寸豆門丷,battle,Human_activities,War
@@ -1619,9 +1619,9 @@ num,kanji,radicals,meaning,theme,subtheme
 1618,排,非扌,repudiate:exclude:expel:reject:line up:arrange,,
 1619,敗,攴貝,failure:defeat:reversal,,
 1620,廃,儿广癶,abolish:obsolete:cessation:discarding:abandon,,
-1621,輩,車非,"fellow, comrade",People,Roles_and_status
+1621,輩,車非,fellowcomrade,People,Roles_and_status
 1622,売,儿冖士,sell,Human_activities,Money_and_Commerce
-1623,倍,口立亻,"to double, times",Numbers,Calculations
+1623,倍,口立亻,todoubletimes,Numbers,Calculations
 1624,梅,木毋,plum,Nature,Plants_and_Trees
 1625,培,口土立,cultivate:foster,,
 1626,陪,口立阝,obeisance:follow:accompany:attend on,,
@@ -1629,8 +1629,8 @@ num,kanji,radicals,meaning,theme,subtheme
 1628,買,网貝,buy,Human_activities,Money_and_Commerce
 1629,賠,口立貝,compensation:indemnify,,
 1630,白,,white,Physical_Attributes_and_Properties,Colours
-1631,伯,白亻,"aunt, uncle",People,Family
-1632,拍,白扌,"clap, beat (music)",Human_activities,Culture
+1631,伯,白亻,auntuncle,People,Family
+1632,拍,白扌,clapbeat(music),Human_activities,Culture
 1633,泊,白氵,overnight stay:put up at:ride at anchor,,
 1634,迫,白辶,urge:force:imminent:spur on,,
 1635,剝,,,,
@@ -1670,9 +1670,9 @@ num,kanji,radicals,meaning,theme,subtheme
 1669,般,殳舟,carrier:carry:all:general:sort:kind,,
 1670,販,厂又貝,marketing,Human_activities,Money_and_Commerce
 1671,斑,文玉,spot:blemish:speck:patches,,
-1672,飯,厂又食,"cooked rice, meal",Food_and_Drink,
+1672,飯,厂又食,cookedricemeal,Food_and_Drink,
 1673,搬,殳舟扌,to transport,Directions_and_Spatial_Relationships,Movement
-1674,煩,火貝頁,"anxiety, annoyance",Emotions_and_Senses,Emotions
+1674,煩,火貝頁,anxietyannoyance,Emotions_and_Senses,Emotions
 1675,頒,八刀貝頁,distribute:disseminate:partition:understand,,
 1676,範,乙卩竹車,pattern:example:model,,
 1677,繁,攴毋糸,luxuriant:thick:overgrown:frequency:complexity:trouble,,
@@ -1683,7 +1683,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1682,盤,殳皿舟,board or disk,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 1683,比,,compare:race:ratio:Philippines,,
 1684,皮,又,skin,Body,Body_General
-1685,妃,女己,"princess, queen",People,Roles_and_status
+1685,妃,女己,princessqueen,People,Roles_and_status
 1686,否,丿口,negate:no:noes:refuse:decline:deny,,
 1687,批,比扌,criticism:strike,,
 1688,彼,又彳皮,he,People,General
@@ -1712,7 +1712,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1711,匹,儿匚,counter for animals,Numbers,Counters
 1712,必,丿心,invariably:certain:inevitable,,
 1713,泌,丶丿心氵,ooze:flow:soak in:penetrate:secrete,,
-1714,筆,竹聿,"writing, brush",Human_activities,Language_and_Communication
+1714,筆,竹聿,writingbrush,Human_activities,Language_and_Communication
 1715,姫,女臣,princess,People,Roles_and_status
 1716,百,白,100,Numbers,
 1717,氷,丶水,ice,Nature,Natural_Substances
@@ -1730,7 +1730,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1729,品,口,article,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 1730,浜,八斤氵,beach,Nature,Land_and_Topography
 1731,貧,八刀貝,poverty:poor,,
-1732,賓,丿宀小貝,"guest, VIP",People,Roles_and_status
+1732,賓,丿宀小貝,guestVIP,People,Roles_and_status
 1733,頻,丿小止貝頁,repeatedly:recur,,
 1734,敏,攴毋,cleverness:agile:alert,,
 1735,瓶,瓦丷,bottle or jar,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
@@ -1791,7 +1791,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1790,兵,八斤,soldier:private:troops:army:warfare:strategy:tactics,,
 1791,併,｜丿二廾亻丷,join:get together:unite:collective,,
 1792,並,｜二丷,line up,Physical_Attributes_and_Properties,Form_and_Shape
-1793,柄,人冂木,"design, pattern",Physical_Attributes_and_Properties,Form_and_Shape
+1793,柄,人冂木,designpattern,Physical_Attributes_and_Properties,Form_and_Shape
 1794,陛,土比阝,highness:steps (of throne),,
 1795,閉,丿亅門,closed:shut,,
 1796,塀,｜丿二八土尸廾,fence:wall:(kokuji),,
@@ -1853,7 +1853,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1852,亡,亠,deceased:the late:dying:perish,,
 1853,乏,丶丿乙亠,destitution:scarce:limited,,
 1854,忙,亠忄亡,busy:occupied:restless,,
-1855,坊,土方,"boy, sonny",People,General
+1855,坊,土方,boysonny,People,General
 1856,妨,女方,disturb:prevent:hamper:obstruct,,
 1857,忘,亠心亡,forget,,
 1858,防,方阝,ward off:defend:protect:resist,,
@@ -1861,7 +1861,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1860,肪,方月,obese:fat,,
 1861,某,木甘,so-and-so:one:a certain:that person,,
 1862,冒,日目,risk:face:defy:dare:damage:assume (a name),,
-1863,剖,口立刂,"to halve, split in two",Numbers,Calculations
+1863,剖,口立刂,tohalvesplitintwo,Numbers,Calculations
 1864,紡,方糸,to spin or weave,Artificial_Structures_and_Products,Clothing_and_Textiles
 1865,望,月玉亡,ambition:full moon:hope:desire:aspire to:expect,,
 1866,傍,亠冖方立亻丷,bystander:side:besides:while:nearby:third person,,
@@ -1904,7 +1904,7 @@ num,kanji,radicals,meaning,theme,subtheme
 1903,又,,or again:furthermore:on the other hand,,
 1904,末,｜亠八木,end:close:tip:powder:posterity,,
 1905,抹,｜亠八木扌,rub:paint:erase,,
-1906,万,｜丿,"10,000",Numbers,
+1906,万,｜丿,10000,Numbers,
 1907,満,｜二冂山氵,full:fullness:enough:satisfy,,
 1908,慢,又日网忄,ridicule:laziness,,
 1909,漫,又日网氵,cartoon:involuntarily:unrestrained:in spite of oneself:corrupt,,
@@ -2009,7 +2009,7 @@ num,kanji,radicals,meaning,theme,subtheme
 2008,窯,儿宀玉穴羊丷灬,kiln or stove,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 2009,養,玉羊食丷,foster:bring up:rear:develop:nurture,,
 2010,擁,亠隹扌,hug:embrace:possess:protect:lead,,
-2011,謡,凵干爪缶言,"song, noh chant",Human_activities,Culture
+2011,謡,凵干爪缶言,songnohchant,Human_activities,Culture
 2012,曜,彐日隹,day of week,Time,Divisions_of_the_Year
 2013,抑,卩扌,repress:well:now:in the first place:push:shove:press:seal:do in spite of,,
 2014,沃,丿大氵,fertility,,
@@ -2099,7 +2099,7 @@ num,kanji,radicals,meaning,theme,subtheme
 2098,麗,冂广比鹿,lovely:beautiful:graceful:resplendent,,
 2099,暦,厂广日木麻,calendar,Time,Divisions_of_the_Year
 2100,歴,厂广木止麻,curriculum:continuation:passage of time,,
-2101,列,歹刂,"line, row",Physical_Attributes_and_Properties,Form_and_Shape
+2101,列,歹刂,linerow,Physical_Attributes_and_Properties,Form_and_Shape
 2102,劣,丿力小,inferiority:be inferior to:be worse,,
 2103,烈,歹刂灬,ardent:violent:vehement:furious:severe:extreme,,
 2104,裂,歹衣刂,split:rend:tear,,
@@ -2116,7 +2116,7 @@ num,kanji,radicals,meaning,theme,subtheme
 2115,老,,old,Time,
 2116,労,冖力尚,labor:thank for:reward for:toil:trouble,,
 2117,弄,廾玉,play with:tamper:trifle with,,
-2118,郎,艮阝,"son, boy",People,General
+2118,郎,艮阝,sonboy,People,General
 2119,朗,月艮,melodious:clear:bright:serene:cheerful,,
 2120,浪,艮氵,wandering:waves:billows:reckless:unrestrained,,
 2121,廊,广艮阝,corridor:hall:tower,,
@@ -2132,6 +2132,6 @@ num,kanji,radicals,meaning,theme,subtheme
 2131,賄,丿月貝,bribe,Human_activities,Money_and_Commerce
 2132,脇,力月,armpit,Body,Limbs
 2133,惑,口心戈,bewilderment,Emotions_and_Senses,Emotions
-2134,枠,十木九,"border, frame",Physical_Attributes_and_Properties,Form_and_Shape
+2134,枠,十木九,borderframe,Physical_Attributes_and_Properties,Form_and_Shape
 2135,湾,亠弓氵,bay or gulf,Nature,Land_and_Topography
 2136,腕,卩夕宀月,arm,Body,Limbs

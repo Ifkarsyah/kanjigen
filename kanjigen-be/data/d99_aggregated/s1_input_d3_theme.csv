@@ -22,7 +22,7 @@ kanji,meaning,theme,subtheme
 角,angle,Physical_Attributes_and_Properties,Form_and_Shape
 弧,arc,Physical_Attributes_and_Properties,Form_and_Shape
 玉,ball,Physical_Attributes_and_Properties,Form_and_Shape
-枠,"border, frame",Physical_Attributes_and_Properties,Form_and_Shape
+枠,borderframe,Physical_Attributes_and_Properties,Form_and_Shape
 境,boundary,Physical_Attributes_and_Properties,Form_and_Shape
 円,circle,Physical_Attributes_and_Properties,Form_and_Shape
 丸,circular,Physical_Attributes_and_Properties,Form_and_Shape
@@ -30,24 +30,24 @@ kanji,meaning,theme,subtheme
 凸,convex,Physical_Attributes_and_Properties,Form_and_Shape
 隅,corner,Physical_Attributes_and_Properties,Form_and_Shape
 曲,curve,Physical_Attributes_and_Properties,Form_and_Shape
-柄,"design, pattern",Physical_Attributes_and_Properties,Form_and_Shape
+柄,designpattern,Physical_Attributes_and_Properties,Form_and_Shape
 斜,diagonal,Physical_Attributes_and_Properties,Form_and_Shape
 縁,edge or border,Physical_Attributes_and_Properties,Form_and_Shape
 端,edge or border,Physical_Attributes_and_Properties,Form_and_Shape
-端,"end, tip",Physical_Attributes_and_Properties,Form_and_Shape
+端,endtip,Physical_Attributes_and_Properties,Form_and_Shape
 姿,figure,Physical_Attributes_and_Properties,Form_and_Shape
 巨,huge,Physical_Attributes_and_Properties,Form_and_Shape
 大,large,Physical_Attributes_and_Properties,Form_and_Shape
 線,line,Physical_Attributes_and_Properties,Form_and_Shape
-列,"line, row",Physical_Attributes_and_Properties,Form_and_Shape
+列,linerow,Physical_Attributes_and_Properties,Form_and_Shape
 並,line up,Physical_Attributes_and_Properties,Form_and_Shape
 長,long,Physical_Attributes_and_Properties,Form_and_Shape
 微,minute,Physical_Attributes_and_Properties,Form_and_Shape
 狭,narrow,Physical_Attributes_and_Properties,Form_and_Shape
 模,pattern,Physical_Attributes_and_Properties,Form_and_Shape
 周,perimeter,Physical_Attributes_and_Properties,Form_and_Shape
-環,"ring, surround",Physical_Attributes_and_Properties,Form_and_Shape
-輪,"ring, surround",Physical_Attributes_and_Properties,Form_and_Shape
+環,ringsurround,Physical_Attributes_and_Properties,Form_and_Shape
+輪,ringsurround,Physical_Attributes_and_Properties,Form_and_Shape
 短,short,Physical_Attributes_and_Properties,Form_and_Shape
 側,side,Physical_Attributes_and_Properties,Form_and_Shape
 小,small,Physical_Attributes_and_Properties,Form_and_Shape
@@ -138,34 +138,34 @@ kanji,meaning,theme,subtheme
 九,9,Numbers,
 十,10,Numbers,
 百,100,Numbers,
-千,"1,000",Numbers,
-万,"10,000",Numbers,
-億,"100,000,000",Numbers,
-兆,"1,000,000,000,000",Numbers,
+千,1000,Numbers,
+万,10000,Numbers,
+億,100000000,Numbers,
+兆,1000000000000,Numbers,
 加,to add,Numbers,Calculations
 耗,to consume,Numbers,Calculations
-減,"to decrease, to subtract",Numbers,Calculations
+減,todecreasetosubtract,Numbers,Calculations
 分,to divide,Numbers,Calculations
 除,to divide,Numbers,Calculations
-倍,"to double, times",Numbers,Calculations
-剖,"to halve, split in two",Numbers,Calculations
+倍,todoubletimes,Numbers,Calculations
+剖,tohalvesplitintwo,Numbers,Calculations
 増,to increase,Numbers,Calculations
 殖,to increase,Numbers,Calculations
 乘,to multiply,Numbers,Calculations
-縮,"to reduce, shrink",Numbers,Calculations
+縮,toreduceshrink,Numbers,Calculations
 匹,counter for animals,Numbers,Counters
-羽,"counter for animals, birds and rabbits",Numbers,Counters
-頭,"counter for animals, large",Numbers,Counters
-疋,"counter for animals, small or insects",Numbers,Counters
+羽,counterforanimalsbirdsandrabbits,Numbers,Counters
+頭,counterforanimalslarge,Numbers,Counters
+疋,counterforanimalssmallorinsects,Numbers,Counters
 個,counter for articles,Numbers,Counters
 札,counter for bonds or tickets,Numbers,Counters
 冊,counter for books,Numbers,Counters
-斤,"counter for bread, loaves",Numbers,Counters
+斤,counterforbreadloaves,Numbers,Counters
 杯,counter for cupfuls,Numbers,Counters
 本,counter for cylindrical things,Numbers,Counters
 枚,counter for flat things,Numbers,Counters
 輪,counter for flowers or wheels,Numbers,Counters
-足,"counter for footwear, pairs",Numbers,Counters
+足,counterforfootwearpairs,Numbers,Counters
 軒,counter for houses,Numbers,Counters
 戸,counter for houses,Numbers,Counters
 台,counter for machines and vehicles,Numbers,Counters
@@ -203,7 +203,7 @@ kanji,meaning,theme,subtheme
 匁,(around 3.75 grams),Numbers,Units_of_Measurement
 斤,(around 600 g),Numbers,Units_of_Measurement
 後,after,Time,
-先,"ahead, previous",Time,
+先,aheadprevious,Time,
 昔,antiquity,Time,
 前,before,Time,
 始,begin,Time,
@@ -216,7 +216,7 @@ kanji,meaning,theme,subtheme
 間,interval of time,Time,
 遅,late,Time,
 久,long ago,Time,
-際,"moment, occasion",Time,
+際,momentoccasion,Time,
 新,new,Time,
 今,now,Time,
 回,number of times,Time,
@@ -225,7 +225,7 @@ kanji,meaning,theme,subtheme
 老,old,Time,
 昨,previous time,Time,
 近,recent,Time,
-頃,"time, about",Time,
+頃,timeabout,Time,
 期,time period,Time,
 暫,a while,Time,
 若,young,Time,
@@ -258,19 +258,19 @@ kanji,meaning,theme,subtheme
 旬,period of 10 days,Time,Divisions_of_the_Year
 週,week,Time,Divisions_of_the_Year
 年,year,Time,Divisions_of_the_Year
-節,"season, period",Time,Seasons
+節,seasonperiod,Time,Seasons
 春,Spring,Time,Seasons
 夏,Summer,Time,Seasons
 秋,Autumn,Time,Seasons
 冬,Winter,Time,Seasons
 欃,comet,Nature,Sky
 食,eclipse,Nature,Sky
-天,"heaven, sky",Nature,Sky
+天,heavensky,Nature,Sky
 月,moon,Nature,Sky
 星,star,Nature,Sky
 日,sun,Nature,Sky
 宇,universe,Nature,Sky
-空,"void, sky",Nature,Sky
+空,voidsky,Nature,Sky
 気,air,Nature,Natural_Substances
 窒,nitrogen,Nature,Natural_Substances
 氧,oxygen,Nature,Natural_Substances
@@ -376,7 +376,7 @@ kanji,meaning,theme,subtheme
 浦,beach,Nature,Land_and_Topography
 崎,cape or promontory,Nature,Land_and_Topography
 埼,cape or promontory,Nature,Land_and_Topography
-沖,"high seas, offshore",Nature,Land_and_Topography
+沖,highseasoffshore,Nature,Land_and_Topography
 島,island,Nature,Land_and_Topography
 潟,lagoon,Nature,Land_and_Topography
 洋,ocean,Nature,Land_and_Topography
@@ -401,12 +401,12 @@ kanji,meaning,theme,subtheme
 鶏,chicken,Nature,Animals
 鶴,crane,Nature,Animals
 烏/鴉,crow,Nature,Animals
-鳩,"dove, pigeon",Nature,Animals
+鳩,dovepigeon,Nature,Animals
 鴨,duck,Nature,Animals
 鷲,eagle,Nature,Animals
 鷺,egret or heron,Nature,Animals
 鷹,hawk,Nature,Animals
-鶯,"oriole, nightingale, warbler",Nature,Animals
+鶯,oriolenightingalewarbler,Nature,Animals
 梟,owl,Nature,Animals
 鶉,quail,Nature,Animals
 鴎,seagull,Nature,Animals
@@ -485,7 +485,7 @@ kanji,meaning,theme,subtheme
 龜,turtle,Nature,Animals
 亀,turtle,Nature,Animals
 爪,claw,Nature,Animals
-牙,"fang, tusk",Nature,Animals
+牙,fangtusk,Nature,Animals
 羽,feather,Nature,Animals
 毛,fur,Nature,Animals
 角,horn,Nature,Animals
@@ -534,15 +534,15 @@ kanji,meaning,theme,subtheme
 俺,I or me,People,General
 自,oneself,People,General
 己,oneself,People,General
-我,"self, ego",People,General
+我,selfego,People,General
 君,you,People,General
 子,child,People,General
 児,child,People,General
 童,juvenile,People,General
 徒,gang or junior,People,General
 彼,he,People,General
-坊,"boy, sonny",People,General
-郎,"son, boy",People,General
+坊,boysonny,People,General
+郎,sonboy,People,General
 男,man,People,General
 翁,old man,People,General
 嬢,young lady,People,General
@@ -557,15 +557,15 @@ kanji,meaning,theme,subtheme
 帝,Mikado or emperor,People,Roles_and_status
 姫,princess,People,Roles_and_status
 媛,princess,People,Roles_and_status
-妃,"princess, queen",People,Roles_and_status
+妃,princessqueen,People,Roles_and_status
 后,empress,People,Roles_and_status
-伯,"earl, count",People,Roles_and_status
-侯,"lord, marquis",People,Roles_and_status
+伯,earlcount,People,Roles_and_status
+侯,lordmarquis,People,Roles_and_status
 爵,noble rank,People,Roles_and_status
 士,man or gentleman,People,Roles_and_status
 方,honorable person,People,Roles_and_status
 漢,honorable man or Han person,People,Roles_and_status
-彦,"boy, high-status man",People,Roles_and_status
+彦,boyhigh-statusman,People,Roles_and_status
 傑,great man,People,Roles_and_status
 紳,gentleman,People,Roles_and_status
 氏,courtesy title,People,Roles_and_status
@@ -578,18 +578,18 @@ kanji,meaning,theme,subtheme
 医,doctor,People,Roles_and_status
 友,friend,People,Roles_and_status
 僚,colleague,People,Roles_and_status
-輩,"fellow, comrade",People,Roles_and_status
-客,"guest, customer",People,Roles_and_status
-賓,"guest, VIP",People,Roles_and_status
+輩,fellowcomrade,People,Roles_and_status
+客,guestcustomer,People,Roles_and_status
+賓,guestVIP,People,Roles_and_status
 隣,neighbour,People,Roles_and_status
-奴,"servant, fellow",People,Roles_and_status
+奴,servantfellow,People,Roles_and_status
 隷,underling,People,Roles_and_status
 仙,hermit,People,Roles_and_status
 名,name,People,Family
 父,father,People,Family
 母,mother,People,Family
 親,parent,People,Family
-嫁,"wife, bride",People,Family
+嫁,wifebride,People,Family
 娘,daughter,People,Family
 弟,younger brother,People,Family
 妹,younger sister,People,Family
@@ -599,11 +599,11 @@ kanji,meaning,theme,subtheme
 婆,grandmother,People,Family
 祖,ancestor,People,Family
 孫,grandchild,People,Family
-叔,"aunt, uncle",People,Family
-伯,"aunt, uncle",People,Family
+叔,auntuncle,People,Family
+伯,auntuncle,People,Family
 甥,nephew,People,Family
 姪,niece,People,Family
-婿,"son-in-law, bridegroom",People,Family
+婿,son-in-lawbridegroom,People,Family
 昆,descendants,People,Family
 戚,relatives,People,Family
 婚,marry,People,Family
@@ -612,9 +612,9 @@ kanji,meaning,theme,subtheme
 寡,widow,People,Family
 国,country,People,Groups
 社,company,People,Groups
-派,"faction, group",People,Groups
-組,"association, assemble",People,Groups
-群,"flock, crowd",People,Groups
+派,factiongroup,People,Groups
+組,associationassemble,People,Groups
+群,flockcrowd,People,Groups
 肉,flesh,Body,Body_General
 血,blood,Body,Body_General
 脈,vein,Body,Body_General
@@ -680,7 +680,7 @@ kanji,meaning,theme,subtheme
 尻,buttocks,Body,Limbs
 股,thighs,Body,Limbs
 脚,leg,Body,Limbs
-足,"leg, foot",Body,Limbs
+足,legfoot,Body,Limbs
 膝,knee,Body,Limbs
 踝,ankle,Body,Limbs
 踵,heel,Body,Limbs
@@ -739,15 +739,15 @@ kanji,meaning,theme,subtheme
 慕,adoration or reverence,Emotions_and_Senses,Emotions
 慈,affection or benevolence,Emotions_and_Senses,Emotions
 怒,anger,Emotions_and_Senses,Emotions
-煩,"anxiety, annoyance",Emotions_and_Senses,Emotions
+煩,anxietyannoyance,Emotions_and_Senses,Emotions
 畏,apprehension,Emotions_and_Senses,Emotions
 惑,bewilderment,Emotions_and_Senses,Emotions
 迷,confusion,Emotions_and_Senses,Emotions
 紛,confusion,Emotions_and_Senses,Emotions
 楽,comfort,Emotions_and_Senses,Emotions
 蔑,contempt,Emotions_and_Senses,Emotions
-喜,"delight, joy",Emotions_and_Senses,Emotions
-歓,"delight, joy",Emotions_and_Senses,Emotions
+喜,delightjoy,Emotions_and_Senses,Emotions
+歓,delightjoy,Emotions_and_Senses,Emotions
 欲,desire,Emotions_and_Senses,Emotions
 慌,disconcerting,Emotions_and_Senses,Emotions
 嫌,dislike,Emotions_and_Senses,Emotions
@@ -755,9 +755,9 @@ kanji,meaning,theme,subtheme
 惧,dread,Emotions_and_Senses,Emotions
 怖,dread,Emotions_and_Senses,Emotions
 悦,ecstasy,Emotions_and_Senses,Emotions
-妬,"envy, jealousy",Emotions_and_Senses,Emotions
-羨,"envy, jealousy",Emotions_and_Senses,Emotions
-嫉,"envy, jealousy",Emotions_and_Senses,Emotions
+妬,envyjealousy,Emotions_and_Senses,Emotions
+羨,envyjealousy,Emotions_and_Senses,Emotions
+嫉,envyjealousy,Emotions_and_Senses,Emotions
 慄,fear,Emotions_and_Senses,Emotions
 恐,fear,Emotions_and_Senses,Emotions
 虞,fear,Emotions_and_Senses,Emotions
@@ -770,7 +770,7 @@ kanji,meaning,theme,subtheme
 笑,laughter,Emotions_and_Senses,Emotions
 好,like,Emotions_and_Senses,Emotions
 寂,loneliness,Emotions_and_Senses,Emotions
-憧,"longing, yearning",Emotions_and_Senses,Emotions
+憧,longingyearning,Emotions_and_Senses,Emotions
 愛,love,Emotions_and_Senses,Emotions
 恋,love,Emotions_and_Senses,Emotions
 愁,melancholy,Emotions_and_Senses,Emotions
@@ -801,7 +801,7 @@ to,Hear (聞),Emotions_and_Senses,Senses
 to,See (見),Emotions_and_Senses,Senses
 盲,blind,Emotions_and_Senses,Senses
 to,Smell (嗅),Emotions_and_Senses,Senses
-馝,"aroma, strong fragrance",Emotions_and_Senses,Senses
+馝,aromastrongfragrance,Emotions_and_Senses,Senses
 臭,bad smell,Emotions_and_Senses,Senses
 匂,fragrance,Emotions_and_Senses,Senses
 芳,fragrant,Emotions_and_Senses,Senses
@@ -825,7 +825,7 @@ to,Feel (触),Emotions_and_Senses,Senses
 豆,bean,Food_and_Drink,
 穀,cereal,Food_and_Drink,
 栗,chestnut,Food_and_Drink,
-飯,"cooked rice, meal",Food_and_Drink,
+飯,cookedricemeal,Food_and_Drink,
 菓,confectionery,Food_and_Drink,
 酪,dairy products,Food_and_Drink,
 穂,ear of grain,Food_and_Drink,
@@ -835,7 +835,7 @@ to,Feel (触),Emotions_and_Senses,Senses
 実,fruit,Food_and_Drink,
 粒,grain,Food_and_Drink,
 蜜,honey,Food_and_Drink,
-汁,"juice, soup",Food_and_Drink,
+汁,juicesoup,Food_and_Drink,
 肉,meat,Food_and_Drink,
 乳,milk,Food_and_Drink,
 麺,noodles,Food_and_Drink,
@@ -850,7 +850,7 @@ to,Feel (触),Emotions_and_Senses,Senses
 菜,vegetable,Food_and_Drink,
 酢,vinegar,Food_and_Drink,
 焼,to bake,Food_and_Drink,Cooking
-煎,"to boil, roast",Food_and_Drink,Cooking
+煎,toboilroast,Food_and_Drink,Cooking
 丼,bowl of food,Food_and_Drink,Cooking
 醸,to brew,Food_and_Drink,Cooking
 箸,chopsticks,Food_and_Drink,Cooking
@@ -961,32 +961,32 @@ to,Feel (触),Emotions_and_Senses,Senses
 傘,umbrella,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 器,vessel,Artificial_Structures_and_Products,Miscellaneous_Manufactured_Items
 芸,art,Human_activities,Culture
-絵,"picture, painting",Human_activities,Culture
+絵,picturepainting,Human_activities,Culture
 画,picture,Human_activities,Culture
 楽,music,Human_activities,Culture
 曲,musical composition,Human_activities,Culture
 歌,song,Human_activities,Culture
-謡,"song, noh chant",Human_activities,Culture
+謡,songnohchant,Human_activities,Culture
 唄,song,Human_activities,Culture
 諧,harmony,Human_activities,Culture
-琴,"cithare, harp",Human_activities,Culture
+琴,cithareharp,Human_activities,Culture
 笛,flute,Human_activities,Culture
 鼓,drum,Human_activities,Culture
-拍,"clap, beat (music)",Human_activities,Culture
-節,"tune, melody",Human_activities,Culture
+拍,clapbeat(music),Human_activities,Culture
+節,tunemelody,Human_activities,Culture
 詩,poetry,Human_activities,Culture
 詠,recite poetry,Human_activities,Culture
 俳,haiku,Human_activities,Culture
-劇,"drama, play",Human_activities,Culture
+劇,dramaplay,Human_activities,Culture
 祭,festival,Human_activities,Culture
 校,school,Human_activities,Culture
-学,"study, school",Human_activities,Culture
+学,studyschool,Human_activities,Culture
 生,student,Human_activities,Culture
 塾,private school,Human_activities,Culture
 科,faculty,Human_activities,Culture
 教,teach,Human_activities,Culture
-究,"study, research",Human_activities,Culture
-研,"study, research",Human_activities,Culture
+究,studyresearch,Human_activities,Culture
+研,studyresearch,Human_activities,Culture
 知,know,Human_activities,Culture
 卒,graduate,Human_activities,Culture
 儒,Confucianism,Human_activities,Culture
@@ -1003,15 +1003,15 @@ to,Feel (触),Emotions_and_Senses,Senses
 書,write,Human_activities,Language_and_Communication
 本,book,Human_activities,Language_and_Communication
 文,text,Human_activities,Language_and_Communication
-図,"map, diagram",Human_activities,Language_and_Communication
-筆,"writing, brush",Human_activities,Language_and_Communication
+図,mapdiagram,Human_activities,Language_and_Communication
+筆,writingbrush,Human_activities,Language_and_Communication
 字,character,Human_activities,Language_and_Communication
 辞,word,Human_activities,Language_and_Communication
 詞,words,Human_activities,Language_and_Communication
 句,phrase,Human_activities,Language_and_Communication
 記,written record,Human_activities,Language_and_Communication
 刊,publish,Human_activities,Language_and_Communication
-誌,"document, journal",Human_activities,Language_and_Communication
+誌,documentjournal,Human_activities,Language_and_Communication
 訃,obituary,Human_activities,Language_and_Communication
 信,message,Human_activities,Language_and_Communication
 報,inform,Human_activities,Language_and_Communication
@@ -1031,7 +1031,7 @@ to,Feel (触),Emotions_and_Senses,Senses
 買,buy,Human_activities,Money_and_Commerce
 購,purchase,Human_activities,Money_and_Commerce
 売,sell,Human_activities,Money_and_Commerce
-業,"business, industry",Human_activities,Money_and_Commerce
+業,businessindustry,Human_activities,Money_and_Commerce
 商,trade,Human_activities,Money_and_Commerce
 貿,trade,Human_activities,Money_and_Commerce
 販,marketing,Human_activities,Money_and_Commerce
@@ -1054,7 +1054,7 @@ to,Feel (触),Emotions_and_Senses,Senses
 営,management,Human_activities,Money_and_Commerce
 職,employment,Human_activities,Money_and_Commerce
 働,work,Human_activities,Money_and_Commerce
-稼,"work, earn",Human_activities,Money_and_Commerce
+稼,workearn,Human_activities,Money_and_Commerce
 給,salary,Human_activities,Money_and_Commerce
 俸,salary,Human_activities,Money_and_Commerce
 償,recompense,Human_activities,Money_and_Commerce
@@ -1107,11 +1107,11 @@ to,Feel (触),Emotions_and_Senses,Senses
 殺,kill,Human_activities,War
 撃,attack,Human_activities,War
 討,attack,Human_activities,War
-殴,"beat, assault",Human_activities,War
-撃,"beat, attack",Human_activities,War
+殴,beatassault,Human_activities,War
+撃,beatattack,Human_activities,War
 斬,cut with a sword,Human_activities,War
 射,shoot at,Human_activities,War
 襲,raid,Human_activities,War
 征,conquer,Human_activities,War
-陣,"battle formation, camp",Human_activities,War
+陣,battleformationcamp,Human_activities,War
 屯,barracks,Human_activities,War
