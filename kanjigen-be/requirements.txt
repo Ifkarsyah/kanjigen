@@ -11,3 +11,4 @@ matplotlib-venn==0.11.6
 networkx==2.5.1
 jupyter==1.0.0
 pydot==1.4.2
+ipynb==0.5.1
